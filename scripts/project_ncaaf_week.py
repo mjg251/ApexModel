@@ -10,6 +10,8 @@ GAMES_PATH = PROJECT_ROOT / "data" / "ncaaf_upcoming_games.csv"
 # Output directly into Apex so Apex can import it.
 APEX_OUTPUT_PATH = Path("C:/Projects/Apex/sample_model_edges.csv")
 
+MODEL_VERSION = "NCAAF Spread Model v0.2"
+
 HOME_FIELD_ADVANTAGE = 2.5
 MIN_EDGE_FOR_PLAY = 2.0
 
@@ -28,6 +30,9 @@ def load_ratings() -> dict[str, float]:
 
     return ratings
 
+def parse_bool(value) -> bool:
+    return str(value).strip().lower() in ("true", "yes", "1", "y")
+
 
 def load_games() -> list[dict]:
     games = []
@@ -45,6 +50,7 @@ def project_home_margin(
     home_team: str,
     away_team: str,
     ratings: dict[str, float],
+    neutral_site: bool = False,
 ) -> float:
     home_rating = ratings.get(home_team)
     away_rating = ratings.get(away_team)
@@ -55,8 +61,34 @@ def project_home_margin(
     if away_rating is None:
         raise ValueError(f"Missing rating for away team: {away_team}")
 
-    return home_rating - away_rating + HOME_FIELD_ADVANTAGE
+    home_field = 0.0 if neutral_site else HOME_FIELD_ADVANTAGE
 
+    return home_rating - away_rating + home_field
+
+def calculate_confidence_score(
+    edge_points: float,
+    neutral_site: bool,
+    fcs_away: bool,
+    fcs_home: bool,
+) -> int:
+    score = 50
+
+    # More edge should increase confidence, but cap the boost.
+    score += min(int(edge_points * 4), 25)
+
+    # Neutral-site games are less clean in this v0 model.
+    if neutral_site:
+        score -= 10
+
+    # FCS games are noisier because ratings are currently rough placeholders.
+    if fcs_away or fcs_home:
+        score -= 20
+
+    # Huge favorite/underdog games have more garbage-time and motivation risk.
+    if edge_points >= 10:
+        score -= 5
+
+    return max(1, min(score, 100))
 
 def recommend_units(edge_points: float) -> float:
     if edge_points >= 7.0:
@@ -76,6 +108,10 @@ def build_edge(row: dict, ratings: dict[str, float]) -> dict | None:
     home_team = row["home_team"].strip()
     book = row["book"].strip()
 
+    neutral_site = parse_bool(row.get("neutral_site", "False"))
+    fcs_away = parse_bool(row.get("fcs_away", "False"))
+    fcs_home = parse_bool(row.get("fcs_home", "False"))
+
     market_home_spread = float(row["market_line"])
     market_odds = int(row["market_odds"])
 
@@ -83,6 +119,7 @@ def build_edge(row: dict, ratings: dict[str, float]) -> dict | None:
         home_team=home_team,
         away_team=away_team,
         ratings=ratings,
+        neutral_site=neutral_site
     )
 
     # Convert the home-team spread into expected home margin.
@@ -112,6 +149,13 @@ def build_edge(row: dict, ratings: dict[str, float]) -> dict | None:
 
     recommended_units = recommend_units(edge_points)
 
+    confidence_score = calculate_confidence_score(
+    edge_points=edge_points,
+    neutral_site=neutral_site,
+    fcs_away=fcs_away,
+    fcs_home=fcs_home,
+)
+
     event = f"{away_team} at {home_team}"
 
     return {
@@ -126,7 +170,7 @@ def build_edge(row: dict, ratings: dict[str, float]) -> dict | None:
         "market_odds": market_odds,
         "model_line": round(model_line, 1),
         "edge_points": round(edge_points, 1),
-        "signal_source": "NCAAF Spread Model v0",
+        "signal_source": f"{MODEL_VERSION} | Confidence: {confidence_score}",
         "recommended_units": recommended_units,
     }
 
