@@ -155,8 +155,7 @@ def write_edges(edges: list[dict]) -> None:
         writer.writeheader()
         writer.writerows(edges)
 
-
-def main() -> None:
+def generate_edges() -> list[dict]:
     ratings = load_ratings()
     games = load_games()
 
@@ -168,11 +167,16 @@ def main() -> None:
         if edge is not None:
             edges.append(edge)
 
+    return edges        
+
+
+def main() -> None:
+    edges = generate_edges()
+
     write_edges(edges)
 
     print(f"Wrote {len(edges)} model edges to:")
     print(APEX_OUTPUT_PATH)
 
-
 if __name__ == "__main__":
-    main()
+    main()  
