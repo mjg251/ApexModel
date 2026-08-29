@@ -1,13 +1,140 @@
-﻿team,rating,source,tier,notes
-Missouri,12.0,Manual SP+ seed,Ranked FBS,SEC ranked baseline
-Arkansas-Pine Bluff,-28.0,Manual FCS estimate,FCS,Low-end FCS placeholder
-Utah,11.0,Manual SP+ seed,Ranked FBS,Big 12 ranked baseline
-Idaho,-14.0,Manual FCS estimate,FCS,Strong FCS placeholder
-USC,13.0,Manual SP+ seed,Ranked FBS,Top-25 talent baseline
-San Jose State,-6.0,Manual G5 estimate,G5,Mountain West underdog baseline
-Colorado State,-8.0,Manual G5 estimate,G5,Mountain West baseline
-Colorado,1.0,Manual P4 estimate,P4,Lower-mid P4 baseline
-Penn State,18.0,Manual SP+ seed,Elite FBS,Playoff-caliber baseline
-Ohio State,20.0,Manual SP+ seed,Elite FBS,National-title baseline
-Clemson,14.0,Manual SP+ seed,Ranked FBS,ACC contender baseline
-NC State,5.0,Manual P4 estimate,P4,Average-plus P4 baseline
+team,rating,source,tier,notes
+Ohio State,32.7,CFBD SP+ 2026,Elite FBS,Pulled from CollegeFootballData ratings/sp
+Oregon,29.2,CFBD SP+ 2026,Elite FBS,Pulled from CollegeFootballData ratings/sp
+Notre Dame,26.5,CFBD SP+ 2026,Elite FBS,Pulled from CollegeFootballData ratings/sp
+Georgia,26.4,CFBD SP+ 2026,Elite FBS,Pulled from CollegeFootballData ratings/sp
+Indiana,25.8,CFBD SP+ 2026,Elite FBS,Pulled from CollegeFootballData ratings/sp
+Texas,22.8,CFBD SP+ 2026,Elite FBS,Pulled from CollegeFootballData ratings/sp
+Miami,22.0,CFBD SP+ 2026,Elite FBS,Pulled from CollegeFootballData ratings/sp
+Texas Tech,21.8,CFBD SP+ 2026,Elite FBS,Pulled from CollegeFootballData ratings/sp
+Texas A&M,20.9,CFBD SP+ 2026,Elite FBS,Pulled from CollegeFootballData ratings/sp
+LSU,20.4,CFBD SP+ 2026,Elite FBS,Pulled from CollegeFootballData ratings/sp
+Oklahoma,18.8,CFBD SP+ 2026,Elite FBS,Pulled from CollegeFootballData ratings/sp
+USC,17.7,CFBD SP+ 2026,Ranked FBS,Pulled from CollegeFootballData ratings/sp
+Alabama,17.6,CFBD SP+ 2026,Ranked FBS,Pulled from CollegeFootballData ratings/sp
+Tennessee,17.3,CFBD SP+ 2026,Ranked FBS,Pulled from CollegeFootballData ratings/sp
+Michigan,17.0,CFBD SP+ 2026,Ranked FBS,Pulled from CollegeFootballData ratings/sp
+Ole Miss,16.5,CFBD SP+ 2026,Ranked FBS,Pulled from CollegeFootballData ratings/sp
+Penn State,16.2,CFBD SP+ 2026,Ranked FBS,Pulled from CollegeFootballData ratings/sp
+Washington,15.8,CFBD SP+ 2026,Ranked FBS,Pulled from CollegeFootballData ratings/sp
+Missouri,15.4,CFBD SP+ 2026,Ranked FBS,Pulled from CollegeFootballData ratings/sp
+Florida,15.2,CFBD SP+ 2026,Ranked FBS,Pulled from CollegeFootballData ratings/sp
+BYU,14.9,CFBD SP+ 2026,Ranked FBS,Pulled from CollegeFootballData ratings/sp
+Iowa,14.6,CFBD SP+ 2026,Ranked FBS,Pulled from CollegeFootballData ratings/sp
+Clemson,13.1,CFBD SP+ 2026,Ranked FBS,Pulled from CollegeFootballData ratings/sp
+South Carolina,12.6,CFBD SP+ 2026,Ranked FBS,Pulled from CollegeFootballData ratings/sp
+SMU,12.1,CFBD SP+ 2026,Ranked FBS,Pulled from CollegeFootballData ratings/sp
+Auburn,11.5,CFBD SP+ 2026,Ranked FBS,Pulled from CollegeFootballData ratings/sp
+Louisville,11.1,CFBD SP+ 2026,Ranked FBS,Pulled from CollegeFootballData ratings/sp
+Illinois,10.4,CFBD SP+ 2026,Ranked FBS,Pulled from CollegeFootballData ratings/sp
+Vanderbilt,9.8,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Utah,9.8,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Arizona,9.5,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+TCU,9.4,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Nebraska,9.3,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Kansas State,9.2,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Florida State,9.1,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Virginia Tech,8.6,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Virginia,8.1,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Houston,7.4,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Oklahoma State,6.9,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Minnesota,6.2,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Pittsburgh,6.2,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Georgia Tech,5.9,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+NC State,5.7,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Arkansas,5.6,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Duke,5.6,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+UCLA,5.4,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Maryland,5.2,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Kentucky,5.2,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Northwestern,5.1,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Boise State,5.1,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Arizona State,4.9,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Mississippi State,4.8,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Baylor,3.8,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Wisconsin,3.8,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+UNLV,3.6,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+North Carolina,3.5,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Wake Forest,3.4,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Kansas,3.3,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Cincinnati,3.0,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+California,3.0,CFBD SP+ 2026,Solid FBS,Pulled from CollegeFootballData ratings/sp
+Rutgers,2.7,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+Michigan State,2.2,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+UCF,1.7,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+Navy,1.2,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+San Diego State,0.7,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+Colorado,0.7,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+Memphis,0.3,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+New Mexico,0.0,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+Iowa State,-0.4,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+nationalAverages,-0.52,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+James Madison,-0.9,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+UTSA,-1.1,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+West Virginia,-1.3,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+Fresno State,-1.4,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+South Florida,-1.7,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+North Dakota State,-1.8,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+Syracuse,-1.9,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+Texas State,-2.1,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+Purdue,-2.2,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+Stanford,-2.3,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+East Carolina,-2.3,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+Army,-2.4,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+Boston College,-2.5,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+Hawai'i,-2.6,CFBD SP+ 2026,Average FBS,Pulled from CollegeFootballData ratings/sp
+Air Force,-3.2,CFBD SP+ 2026,Weak FBS,Pulled from CollegeFootballData ratings/sp
+Miami (OH),-4.0,CFBD SP+ 2026,Weak FBS,Pulled from CollegeFootballData ratings/sp
+Washington State,-4.3,CFBD SP+ 2026,Weak FBS,Pulled from CollegeFootballData ratings/sp
+Tulane,-4.3,CFBD SP+ 2026,Weak FBS,Pulled from CollegeFootballData ratings/sp
+Liberty,-5.3,CFBD SP+ 2026,Weak FBS,Pulled from CollegeFootballData ratings/sp
+Oregon State,-5.6,CFBD SP+ 2026,Weak FBS,Pulled from CollegeFootballData ratings/sp
+Western Michigan,-6.0,CFBD SP+ 2026,Weak FBS,Pulled from CollegeFootballData ratings/sp
+Florida Atlantic,-6.1,CFBD SP+ 2026,Weak FBS,Pulled from CollegeFootballData ratings/sp
+Tulsa,-6.1,CFBD SP+ 2026,Weak FBS,Pulled from CollegeFootballData ratings/sp
+Old Dominion,-6.9,CFBD SP+ 2026,Weak FBS,Pulled from CollegeFootballData ratings/sp
+Western Kentucky,-7.3,CFBD SP+ 2026,Weak FBS,Pulled from CollegeFootballData ratings/sp
+Jacksonville State,-7.8,CFBD SP+ 2026,Weak FBS,Pulled from CollegeFootballData ratings/sp
+Utah State,-7.9,CFBD SP+ 2026,Weak FBS,Pulled from CollegeFootballData ratings/sp
+Troy,-8.0,CFBD SP+ 2026,Weak FBS,Pulled from CollegeFootballData ratings/sp
+Marshall,-8.2,CFBD SP+ 2026,Weak FBS,Pulled from CollegeFootballData ratings/sp
+Louisiana Tech,-9.1,CFBD SP+ 2026,Weak FBS,Pulled from CollegeFootballData ratings/sp
+Temple,-9.1,CFBD SP+ 2026,Weak FBS,Pulled from CollegeFootballData ratings/sp
+Toledo,-9.1,CFBD SP+ 2026,Weak FBS,Pulled from CollegeFootballData ratings/sp
+Louisiana,-10.6,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Georgia Southern,-10.8,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Wyoming,-10.8,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+North Texas,-11.6,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Arkansas State,-11.6,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Colorado State,-11.6,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Nevada,-11.7,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Ohio,-11.8,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+UConn,-11.9,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+App State,-12.7,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Buffalo,-12.7,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Kennesaw State,-12.9,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Delaware,-12.9,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Florida International,-14.5,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+South Alabama,-14.6,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Coastal Carolina,-14.7,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Bowling Green,-15.0,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Central Michigan,-15.1,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Rice,-15.3,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+San José State,-15.7,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Eastern Michigan,-16.1,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Northern Illinois,-17.2,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+UAB,-17.5,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+New Mexico State,-18.5,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Missouri State,-19.1,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+UTEP,-19.3,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Southern Miss,-20.7,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Kent State,-22.4,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Akron,-22.9,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Sacramento State,-23.4,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Charlotte,-24.1,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Ball State,-25.1,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Sam Houston,-26.0,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Middle Tennessee,-26.5,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+UL Monroe,-28.9,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Georgia State,-29.3,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
+Massachusetts,-32.9,CFBD SP+ 2026,Low FBS,Pulled from CollegeFootballData ratings/sp
