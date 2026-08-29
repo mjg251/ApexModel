@@ -10,11 +10,15 @@ GAMES_PATH = PROJECT_ROOT / "data" / "ncaaf_upcoming_games.csv"
 # Output directly into Apex so Apex can import it.
 APEX_OUTPUT_PATH = Path("C:/Projects/Apex/sample_model_edges.csv")
 
-MODEL_VERSION = "NCAAF Spread Model v0.2"
+MODEL_VERSION = "NCAAF Spread Model v0.3"
 
 HOME_FIELD_ADVANTAGE = 2.5
 MIN_EDGE_FOR_PLAY = 2.0
 
+LARGE_SPREAD_THRESHOLD = 28.0
+VERY_LARGE_SPREAD_THRESHOLD = 35.0
+FCS_MAX_UNITS = 0.25
+LOW_CONFIDENCE_MAX_UNITS = 0.25
 
 def load_ratings() -> dict[str, dict]:
     ratings = {}
@@ -106,6 +110,37 @@ def recommend_units(edge_points: float) -> float:
 
     return 0.25
 
+def apply_risk_guards(
+    recommended_units: float,
+    market_home_spread: float,
+    confidence_score: int,
+    fcs_away: bool,
+    fcs_home: bool,
+) -> tuple[float, list[str]]:
+    guard_notes = []
+
+    adjusted_units = recommended_units
+
+    absolute_spread = abs(market_home_spread)
+
+    if absolute_spread >= VERY_LARGE_SPREAD_THRESHOLD:
+        adjusted_units = min(adjusted_units, 0.25)
+        guard_notes.append("very large spread cap")
+
+    elif absolute_spread >= LARGE_SPREAD_THRESHOLD:
+        adjusted_units = min(adjusted_units, 0.50)
+        guard_notes.append("large spread cap")
+
+    if fcs_away or fcs_home:
+        adjusted_units = min(adjusted_units, FCS_MAX_UNITS)
+        guard_notes.append("FCS cap")
+
+    if confidence_score < 50:
+        adjusted_units = min(adjusted_units, LOW_CONFIDENCE_MAX_UNITS)
+        guard_notes.append("low confidence cap")
+
+    return adjusted_units, guard_notes
+
 
 def build_edge(row: dict, ratings: dict[str, float]) -> dict | None:
     sport = row["sport"].strip()
@@ -154,14 +189,22 @@ def build_edge(row: dict, ratings: dict[str, float]) -> dict | None:
         # If home is -37.5, away side is +37.5.
         selection_market_line = -market_home_spread
 
-    recommended_units = recommend_units(edge_points)
+    raw_recommended_units = recommend_units(edge_points)
 
     confidence_score = calculate_confidence_score(
-    edge_points=edge_points,
-    neutral_site=neutral_site,
-    fcs_away=fcs_away,
-    fcs_home=fcs_home,
-)
+        edge_points=edge_points,
+        neutral_site=neutral_site,
+        fcs_away=fcs_away,
+        fcs_home=fcs_home,
+    )
+
+    recommended_units, guard_notes = apply_risk_guards(
+        recommended_units=raw_recommended_units,
+        market_home_spread=market_home_spread,
+        confidence_score=confidence_score,
+        fcs_away=fcs_away,
+        fcs_home=fcs_home,
+    )
 
     home_rating_data = ratings[home_team]
     away_rating_data = ratings[away_team]
@@ -172,6 +215,11 @@ def build_edge(row: dict, ratings: dict[str, float]) -> dict | None:
         f"Home Source: {home_rating_data['source']}; "
         f"Away Source: {away_rating_data['source']}"
     )
+
+    guard_context = ""
+
+    if guard_notes:
+        guard_context = " | Guards: " + ", ".join(guard_notes)
 
     event = f"{away_team} at {home_team}"
 
@@ -190,6 +238,7 @@ def build_edge(row: dict, ratings: dict[str, float]) -> dict | None:
         "signal_source": (
             f"{MODEL_VERSION} | Confidence: {confidence_score} | "
             f"{rating_context}"
+            F"{guard_context}"
         ),
         "recommended_units": recommended_units,
     }
