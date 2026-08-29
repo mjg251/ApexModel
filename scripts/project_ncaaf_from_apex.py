@@ -575,6 +575,8 @@ def build_model_row_for_event(
         "market_odds": best_candidate["market_odds"],
         "model_line": round(best_candidate["model_line"], 1),
         "edge_points": round(edge_points, 1),
+        "recommendation": recommendation,
+        "confidence_score": confidence_score,
         "signal_source": signal_source,
         "recommended_units": recommended_units,
     }
@@ -595,6 +597,8 @@ def write_edges(edges: list[dict]) -> None:
         "market_odds",
         "model_line",
         "edge_points",
+        "recommendation",
+        "confidence_score",
         "signal_source",
         "recommended_units",
     ]
