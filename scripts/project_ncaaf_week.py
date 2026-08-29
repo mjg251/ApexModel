@@ -16,7 +16,7 @@ HOME_FIELD_ADVANTAGE = 2.5
 MIN_EDGE_FOR_PLAY = 2.0
 
 
-def load_ratings() -> dict[str, float]:
+def load_ratings() -> dict[str, dict]:
     ratings = {}
 
     with RATINGS_PATH.open("r", newline="", encoding="utf-8-sig") as file:
@@ -24,9 +24,13 @@ def load_ratings() -> dict[str, float]:
 
         for row in reader:
             team = row["team"].strip()
-            rating = float(row["rating"])
 
-            ratings[team] = rating
+            ratings[team] = {
+                "rating": float(row["rating"]),
+                "source": row.get("source", "").strip(),
+                "tier": row.get("tier", "").strip(),
+                "notes": row.get("notes", "").strip(),
+            }
 
     return ratings
 
@@ -49,17 +53,20 @@ def load_games() -> list[dict]:
 def project_home_margin(
     home_team: str,
     away_team: str,
-    ratings: dict[str, float],
+    ratings: dict[str, dict],
     neutral_site: bool = False,
 ) -> float:
-    home_rating = ratings.get(home_team)
-    away_rating = ratings.get(away_team)
+    home_rating_data = ratings.get(home_team)
+    away_rating_data = ratings.get(away_team)
 
-    if home_rating is None:
+    if home_rating_data is None:
         raise ValueError(f"Missing rating for home team: {home_team}")
 
-    if away_rating is None:
+    if away_rating_data is None:
         raise ValueError(f"Missing rating for away team: {away_team}")
+
+    home_rating = home_rating_data["rating"]
+    away_rating = away_rating_data["rating"]
 
     home_field = 0.0 if neutral_site else HOME_FIELD_ADVANTAGE
 
@@ -156,6 +163,16 @@ def build_edge(row: dict, ratings: dict[str, float]) -> dict | None:
     fcs_home=fcs_home,
 )
 
+    home_rating_data = ratings[home_team]
+    away_rating_data = ratings[away_team]
+
+    rating_context = (
+        f"Home Tier: {home_rating_data['tier']}; "
+        f"Away Tier: {away_rating_data['tier']}; "
+        f"Home Source: {home_rating_data['source']}; "
+        f"Away Source: {away_rating_data['source']}"
+    )
+
     event = f"{away_team} at {home_team}"
 
     return {
@@ -170,7 +187,10 @@ def build_edge(row: dict, ratings: dict[str, float]) -> dict | None:
         "market_odds": market_odds,
         "model_line": round(model_line, 1),
         "edge_points": round(edge_points, 1),
-        "signal_source": f"{MODEL_VERSION} | Confidence: {confidence_score}",
+        "signal_source": (
+            f"{MODEL_VERSION} | Confidence: {confidence_score} | "
+            f"{rating_context}"
+        ),
         "recommended_units": recommended_units,
     }
 

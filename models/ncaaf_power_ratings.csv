@@ -1,13 +1,13 @@
-﻿team,rating
-Missouri,12.0
-Arkansas-Pine Bluff,-28.0
-Utah,11.0
-Idaho,-14.0
-USC,13.0
-San Jose State,-6.0
-Colorado State,-8.0
-Colorado,1.0
-Penn State,18.0
-Ohio State,20.0
-Clemson,14.0
-NC State,5.0
+﻿team,rating,source,tier,notes
+Missouri,12.0,Manual SP+ seed,Ranked FBS,SEC ranked baseline
+Arkansas-Pine Bluff,-28.0,Manual FCS estimate,FCS,Low-end FCS placeholder
+Utah,11.0,Manual SP+ seed,Ranked FBS,Big 12 ranked baseline
+Idaho,-14.0,Manual FCS estimate,FCS,Strong FCS placeholder
+USC,13.0,Manual SP+ seed,Ranked FBS,Top-25 talent baseline
+San Jose State,-6.0,Manual G5 estimate,G5,Mountain West underdog baseline
+Colorado State,-8.0,Manual G5 estimate,G5,Mountain West baseline
+Colorado,1.0,Manual P4 estimate,P4,Lower-mid P4 baseline
+Penn State,18.0,Manual SP+ seed,Elite FBS,Playoff-caliber baseline
+Ohio State,20.0,Manual SP+ seed,Elite FBS,National-title baseline
+Clemson,14.0,Manual SP+ seed,Ranked FBS,ACC contender baseline
+NC State,5.0,Manual P4 estimate,P4,Average-plus P4 baseline
