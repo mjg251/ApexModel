@@ -212,6 +212,28 @@ def normalize_team_name(
 
     return clean_name
 
+def team_should_be_excluded(
+    display_team: str,
+    mapped_team: str,
+    team_mapping: dict[str, dict],
+    ratings: dict[str, dict],
+) -> bool:
+    classification = (
+        team_mapping
+        .get(display_team, {})
+        .get("classification", "")
+        .strip()
+        .lower()
+    )
+
+    if classification == "fcs":
+        return True
+
+    if mapped_team not in ratings:
+        return True
+
+    return False
+
 def load_team_mapping() -> dict[str, dict]:
     if not TEAM_MAPPING_PATH.exists():
         return {}
@@ -429,31 +451,31 @@ def build_model_row_for_event(
         team_mapping=team_mapping,
     )
 
-    away_classification = team_mapping.get(away_display, {}).get("classification", "")
-    home_classification = team_mapping.get(home_display, {}).get("classification", "")
+    away_excluded = team_should_be_excluded(
+        display_team=away_display,
+        mapped_team=away_team,
+        team_mapping=team_mapping,
+        ratings=ratings,
+    )
 
-    away_is_fcs = away_classification == "fcs"
-    home_is_fcs = home_classification == "fcs"
+    home_excluded = team_should_be_excluded(
+        display_team=home_display,
+        mapped_team=home_team,
+        team_mapping=team_mapping,
+        ratings=ratings,
+    )
 
-    if away_team not in ratings:
-        ratings[away_team] = {
-            "rating": -28.0 if away_is_fcs else -18.0,
-            "source": "Fallback estimate",
-            "tier": "Unrated FCS" if away_is_fcs else "Unrated Team",
-            "notes": "No CFBD SP+ rating found",
-        }
+    if away_excluded or home_excluded:
+        print(
+            "Skipping FCS/unrated game:",
+            f"{away_display} -> {away_team}",
+            "|",
+            f"{home_display} -> {home_team}",
+        )
+        return None
 
-        print(f"Using fallback rating: {away_display} -> {away_team}")
-
-    if home_team not in ratings:
-        ratings[home_team] = {
-            "rating": -28.0 if home_is_fcs else -18.0,
-            "source": "Fallback estimate",
-            "tier": "Unrated FCS" if home_is_fcs else "Unrated Team",
-            "notes": "No CFBD SP+ rating found",
-        }
-
-        print(f"Using fallback rating: {home_display} -> {home_team}")
+    fcs_away = False
+    fcs_home = False
 
     projected_home_margin = project_home_margin(
         home_team=home_team,
