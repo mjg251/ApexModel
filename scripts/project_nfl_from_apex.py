@@ -10,13 +10,13 @@ RATINGS_PATH = PROJECT_ROOT / "models" / "nfl_power_ratings.csv"
 APEX_DB_PATH = Path("C:/Projects/Apex/database/apex.db")
 APEX_OUTPUT_PATH = Path("C:/Projects/Apex/sample_model_edges.csv")
 
-MODEL_VERSION = "NFL Spread Model v0.1 Apex Slate"
+MODEL_VERSION = "NFL Spread Model v0.2 Apex Slate - Kalshi Ratings"
 
 HOME_FIELD_ADVANTAGE = 1.5
 
-VALUE_EDGE_THRESHOLD = 3.0
-LEAN_EDGE_THRESHOLD = 1.5
-WATCH_EDGE_THRESHOLD = 0.75
+VALUE_EDGE_THRESHOLD = 5.0
+LEAN_EDGE_THRESHOLD = 3.0
+WATCH_EDGE_THRESHOLD = 2.00
 
 LARGE_SPREAD_THRESHOLD = 7.0
 VERY_LARGE_SPREAD_THRESHOLD = 10.0
@@ -194,13 +194,10 @@ def calculate_confidence_score(edge_points: float, market_line: float) -> int:
 
 
 def recommend_units(edge_points: float) -> float:
-    if edge_points >= 5.0:
-        return 0.75
-
-    if edge_points >= 3.0:
+    if edge_points >= 6.0:
         return 0.50
 
-    if edge_points >= 1.5:
+    if edge_points >= 5.0:
         return 0.25
 
     return 0.0

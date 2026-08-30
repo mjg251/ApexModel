@@ -1,33 +1,33 @@
-team,rating
-Kansas City Chiefs,7.0
-Baltimore Ravens,6.5
-Buffalo Bills,6.0
-Detroit Lions,5.5
-San Francisco 49ers,5.5
-Philadelphia Eagles,5.0
-Cincinnati Bengals,4.0
-Green Bay Packers,2.5
-Miami Dolphins,2.0
-Dallas Cowboys,1.5
-Seattle Seahawks,1.5
-Denver Broncos,1.0
-Los Angeles Chargers,1.0
-Houston Texans,1.0
-Los Angeles Rams,0.5
-Pittsburgh Steelers,0.5
-Atlanta Falcons,0.0
-Chicago Bears,0.0
-Cleveland Browns,0.0
-Indianapolis Colts,0.0
-Jacksonville Jaguars,0.0
-Las Vegas Raiders,0.0
-Minnesota Vikings,0.0
-New Orleans Saints,0.0
-New York Jets,0.0
-Tampa Bay Buccaneers,0.0
-Washington Commanders,0.0
-Arizona Cardinals,-0.5
-Carolina Panthers,-0.5
-New England Patriots,-0.5
-New York Giants,-1.0
-Tennessee Titans,-1.0
+team,rating,source,tier,notes
+Los Angeles Rams,6.2,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Buffalo Bills,2.9,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Seattle Seahawks,8.1,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Baltimore Ravens,6.2,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Kansas City Chiefs,4.7,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Los Angeles Chargers,5.5,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+New England Patriots,2.7,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Denver Broncos,0.7,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Houston Texans,-1.0,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Cincinnati Bengals,2.5,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+San Francisco 49ers,3.9,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Philadelphia Eagles,2.9,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Jacksonville Jaguars,4.7,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Chicago Bears,3.9,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Dallas Cowboys,1.9,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Detroit Lions,3.2,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Green Bay Packers,3.3,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Minnesota Vikings,-0.9,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Pittsburgh Steelers,0.5,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Tampa Bay Buccaneers,-0.8,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Atlanta Falcons,-1.2,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Washington Commanders,-3.3,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Carolina Panthers,-1.7,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Indianapolis Colts,-7.4,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Las Vegas Raiders,-1.8,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+New York Giants,-5.5,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Tennessee Titans,-4.4,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Cleveland Browns,-5.3,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+New Orleans Saints,-7.2,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+New York Jets,-5.5,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Miami Dolphins,-7.4,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Arizona Cardinals,-9.6,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
