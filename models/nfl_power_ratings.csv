@@ -1,33 +1,33 @@
 team,rating,source,tier,notes
-Los Angeles Rams,6.2,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Buffalo Bills,2.9,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Seattle Seahawks,8.1,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Baltimore Ravens,6.2,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Kansas City Chiefs,4.7,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Los Angeles Chargers,5.5,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-New England Patriots,2.7,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Denver Broncos,0.7,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Houston Texans,-1.0,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Cincinnati Bengals,2.5,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-San Francisco 49ers,3.9,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Philadelphia Eagles,2.9,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Jacksonville Jaguars,4.7,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Chicago Bears,3.9,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Dallas Cowboys,1.9,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Detroit Lions,3.2,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Green Bay Packers,3.3,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Minnesota Vikings,-0.9,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Pittsburgh Steelers,0.5,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Tampa Bay Buccaneers,-0.8,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Atlanta Falcons,-1.2,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Washington Commanders,-3.3,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Carolina Panthers,-1.7,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Indianapolis Colts,-7.4,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Las Vegas Raiders,-1.8,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-New York Giants,-5.5,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Tennessee Titans,-4.4,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Cleveland Browns,-5.3,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-New Orleans Saints,-7.2,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-New York Jets,-5.5,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Miami Dolphins,-7.4,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
-Arizona Cardinals,-9.6,Kalshi neutral-field market-implied rating,Market,Sourced 2026-08-30
+Philadelphia Eagles,4.0,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: 0.0657; Def EPA/play allowed: -0.0905; Net EPA/play: 0.1562; Games: 39; Generated: 2026-08-30 06:07 PM"
+Baltimore Ravens,3.9,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: 0.1375; Def EPA/play allowed: -0.0141; Net EPA/play: 0.1516; Games: 36; Generated: 2026-08-30 06:07 PM"
+Buffalo Bills,3.9,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: 0.1531; Def EPA/play allowed: -0.0002; Net EPA/play: 0.1533; Games: 39; Generated: 2026-08-30 06:07 PM"
+Detroit Lions,3.3,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: 0.1156; Def EPA/play allowed: -0.0121; Net EPA/play: 0.1277; Games: 35; Generated: 2026-08-30 06:07 PM"
+Denver Broncos,2.8,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: 0.0152; Def EPA/play allowed: -0.0954; Net EPA/play: 0.1105; Games: 37; Generated: 2026-08-30 06:07 PM"
+Green Bay Packers,2.8,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: 0.0917; Def EPA/play allowed: -0.0186; Net EPA/play: 0.1102; Games: 36; Generated: 2026-08-30 06:07 PM"
+Seattle Seahawks,2.6,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: 0.0238; Def EPA/play allowed: -0.0776; Net EPA/play: 0.1014; Games: 37; Generated: 2026-08-30 06:07 PM"
+Houston Texans,1.9,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: -0.0431; Def EPA/play allowed: -0.116; Net EPA/play: 0.0729; Games: 38; Generated: 2026-08-30 06:07 PM"
+Los Angeles Rams,1.7,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: 0.0645; Def EPA/play allowed: 0.0009; Net EPA/play: 0.0637; Games: 39; Generated: 2026-08-30 06:07 PM"
+Los Angeles Chargers,1.4,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: -0.0301; Def EPA/play allowed: -0.0823; Net EPA/play: 0.0522; Games: 36; Generated: 2026-08-30 06:07 PM"
+Kansas City Chiefs,1.1,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: 0.0261; Def EPA/play allowed: -0.0132; Net EPA/play: 0.0393; Games: 37; Generated: 2026-08-30 06:07 PM"
+Tampa Bay Buccaneers,0.9,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: 0.0591; Def EPA/play allowed: 0.0253; Net EPA/play: 0.0338; Games: 35; Generated: 2026-08-30 06:07 PM"
+Minnesota Vikings,0.8,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: -0.0652; Def EPA/play allowed: -0.0946; Net EPA/play: 0.0295; Games: 35; Generated: 2026-08-30 06:07 PM"
+New England Patriots,0.6,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: 0.0065; Def EPA/play allowed: -0.014; Net EPA/play: 0.0205; Games: 38; Generated: 2026-08-30 06:07 PM"
+Indianapolis Colts,0.2,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: 0.0113; Def EPA/play allowed: 0.0059; Net EPA/play: 0.0053; Games: 34; Generated: 2026-08-30 06:07 PM"
+San Francisco 49ers,0.0,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: 0.0508; Def EPA/play allowed: 0.0525; Net EPA/play: -0.0018; Games: 36; Generated: 2026-08-30 06:07 PM"
+Washington Commanders,-0.0,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: 0.0715; Def EPA/play allowed: 0.0761; Net EPA/play: -0.0046; Games: 37; Generated: 2026-08-30 06:07 PM"
+Jacksonville Jaguars,-0.1,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: 0.0042; Def EPA/play allowed: 0.0124; Net EPA/play: -0.0082; Games: 35; Generated: 2026-08-30 06:07 PM"
+Atlanta Falcons,-0.5,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: 0.0; Def EPA/play allowed: 0.0229; Net EPA/play: -0.0229; Games: 34; Generated: 2026-08-30 06:07 PM"
+Chicago Bears,-0.5,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: -0.0013; Def EPA/play allowed: 0.0237; Net EPA/play: -0.025; Games: 36; Generated: 2026-08-30 06:07 PM"
+Pittsburgh Steelers,-0.6,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: -0.0213; Def EPA/play allowed: 0.0057; Net EPA/play: -0.027; Games: 36; Generated: 2026-08-30 06:07 PM"
+Arizona Cardinals,-0.7,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: 0.0347; Def EPA/play allowed: 0.0675; Net EPA/play: -0.0328; Games: 34; Generated: 2026-08-30 06:07 PM"
+Cincinnati Bengals,-0.7,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: 0.0484; Def EPA/play allowed: 0.079; Net EPA/play: -0.0306; Games: 34; Generated: 2026-08-30 06:07 PM"
+New Orleans Saints,-0.8,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: -0.0549; Def EPA/play allowed: -0.0207; Net EPA/play: -0.0342; Games: 34; Generated: 2026-08-30 06:07 PM"
+Miami Dolphins,-1.3,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: -0.0261; Def EPA/play allowed: 0.0306; Net EPA/play: -0.0568; Games: 34; Generated: 2026-08-30 06:07 PM"
+Dallas Cowboys,-3.0,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: 0.0004; Def EPA/play allowed: 0.1225; Net EPA/play: -0.1221; Games: 34; Generated: 2026-08-30 06:07 PM"
+New York Giants,-3.0,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: -0.0526; Def EPA/play allowed: 0.071; Net EPA/play: -0.1237; Games: 34; Generated: 2026-08-30 06:07 PM"
+Cleveland Browns,-3.4,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: -0.1834; Def EPA/play allowed: -0.046; Net EPA/play: -0.1374; Games: 34; Generated: 2026-08-30 06:07 PM"
+New York Jets,-3.7,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: -0.0707; Def EPA/play allowed: 0.0795; Net EPA/play: -0.1501; Games: 34; Generated: 2026-08-30 06:07 PM"
+Carolina Panthers,-4.3,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: -0.0652; Def EPA/play allowed: 0.1097; Net EPA/play: -0.1749; Games: 35; Generated: 2026-08-30 06:07 PM"
+Las Vegas Raiders,-4.5,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: -0.1866; Def EPA/play allowed: -0.0023; Net EPA/play: -0.1843; Games: 34; Generated: 2026-08-30 06:07 PM"
+Tennessee Titans,-4.8,nflverse EPA-derived team rating,Model,"Seasons: [2024, 2025]; Formula: offense EPA/play - defense EPA/play allowed, centered to league average, multiplied by 25.0; Off EPA/play: -0.1384; Def EPA/play allowed: 0.0563; Net EPA/play: -0.1947; Games: 34; Generated: 2026-08-30 06:07 PM"

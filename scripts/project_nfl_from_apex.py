@@ -10,7 +10,7 @@ RATINGS_PATH = PROJECT_ROOT / "models" / "nfl_power_ratings.csv"
 APEX_DB_PATH = Path("C:/Projects/Apex/database/apex.db")
 APEX_OUTPUT_PATH = Path("C:/Projects/Apex/sample_model_edges.csv")
 
-MODEL_VERSION = "NFL Spread Model v0.2 Apex Slate - Kalshi Ratings"
+MODEL_VERSION = "NFL Spread Model v0.3 Apex Slate - nflverse EPA Ratings"
 
 HOME_FIELD_ADVANTAGE = 1.5
 
