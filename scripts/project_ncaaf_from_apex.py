@@ -12,7 +12,7 @@ TEAM_MAPPING_PATH = PROJECT_ROOT / "models" / "ncaaf_team_mapping.csv"
 APEX_DB_PATH = Path("C:/Projects/Apex/database/apex.db")
 APEX_OUTPUT_PATH = Path("C:/Projects/Apex/sample_model_edges.csv")
 
-MODEL_VERSION = "NCAAF Spread Model v0.4 Apex Slate"
+MODEL_VERSION = "NCAAF Spread Model v0.5 Safety Guardrails"
 
 HOME_FIELD_ADVANTAGE = 2.5
 
@@ -22,7 +22,9 @@ WATCH_EDGE_THRESHOLD = 1.0
 
 LARGE_SPREAD_THRESHOLD = 28.0
 VERY_LARGE_SPREAD_THRESHOLD = 35.0
-FCS_MAX_UNITS = 0.25
+EXTREME_EDGE_NO_BET_THRESHOLD = 10.0
+MAX_DAYS_OUT_FOR_UNITS = 14
+FCS_MAX_UNITS = 0.0
 LOW_CONFIDENCE_MAX_UNITS = 0.25
 
 APPROVED_BOOKS = {
@@ -73,7 +75,19 @@ TEAM_ALIASES = {
 
 FCS_TEAMS = {
     "Arkansas-Pine Bluff",
+    "Arkansas-Pine Bluff Golden Lions",
     "Idaho",
+    "Idaho Vandals",
+
+    # Current slate FCS / FCS-level mismatch guards
+    "North Carolina A&T",
+    "North Carolina A&T Aggies",
+    "Eastern Kentucky",
+    "Eastern Kentucky Colonels",
+    "South Dakota State",
+    "South Dakota State Jackrabbits",
+    "Missouri State",
+    "Missouri State Bears",
 }
 
 MASCOT_SUFFIXES = [
@@ -229,6 +243,9 @@ def team_should_be_excluded(
     if classification == "fcs":
         return True
 
+    if display_team in FCS_TEAMS or mapped_team in FCS_TEAMS:
+        return True
+
     if mapped_team not in ratings:
         return True
 
@@ -382,16 +399,27 @@ def classify_recommendation(edge_points: float) -> str:
 
 
 def recommend_units(edge_points: float) -> float:
-    if edge_points >= 7.0:
-        return 0.75
+    if edge_points >= EXTREME_EDGE_NO_BET_THRESHOLD:
+        return 0.0
 
-    if edge_points >= 4.0:
-        return 0.50
-
-    if edge_points >= 2.0:
+    if edge_points >= VALUE_EDGE_THRESHOLD:
         return 0.25
 
     return 0.0
+
+def is_too_far_out_for_units(commence_time: str) -> bool:
+    try:
+        game_time = datetime.fromisoformat(
+            commence_time.replace("Z", "+00:00")
+        )
+    except ValueError:
+        return True
+
+    now = datetime.now(timezone.utc)
+    seconds_until_game = (game_time - now).total_seconds()
+    days_until_game = seconds_until_game / 86400
+
+    return days_until_game > MAX_DAYS_OUT_FOR_UNITS
 
 
 def apply_risk_guards(
@@ -555,6 +583,21 @@ def build_model_row_for_event(
         fcs_away=fcs_away,
         fcs_home=fcs_home,
     )
+
+    if edge_points >= EXTREME_EDGE_NO_BET_THRESHOLD:
+        recommended_units = 0.0
+        guard_notes.append("extreme edge no-bet guard")
+
+    if is_too_far_out_for_units(first_row["commence_time"]):
+        recommended_units = 0.0
+        guard_notes.append("future game review")
+
+    if fcs_away or fcs_home:
+        recommended_units = 0.0
+        guard_notes.append("FCS no-bet guard")
+
+    if recommendation != "Value":
+        recommended_units = 0.0
 
     if recommendation == "No Play":
         recommended_units = 0.0
