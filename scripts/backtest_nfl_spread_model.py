@@ -7,10 +7,10 @@ import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 OUTPUT_DIR = PROJECT_ROOT / "outputs" / "backtests"
-OUTPUT_PATH = OUTPUT_DIR / "nfl_spread_backtest_v0_1.csv"
+OUTPUT_PATH = OUTPUT_DIR / "nfl_spread_backtest_v0_4_guardrail.csv"
 
-BACKTEST_SEASONS = [2024, 2025]
-DATA_SEASONS = [2023, 2024, 2025]
+BACKTEST_SEASONS = [2022, 2023, 2024, 2025]
+DATA_SEASONS = [2021, 2022, 2023, 2024, 2025]
 
 HOME_FIELD_ADVANTAGE = 1.5
 EPA_TO_POINTS_MULTIPLIER = 25.0
@@ -177,6 +177,9 @@ def classify_recommendation(edge_points: float) -> str:
 
 
 def recommend_units(edge_points: float) -> float:
+    if edge_points >= 7.0:
+        return 0.0
+
     if edge_points >= 6.0:
         return 0.50
 

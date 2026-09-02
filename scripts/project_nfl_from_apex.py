@@ -10,7 +10,7 @@ RATINGS_PATH = PROJECT_ROOT / "models" / "nfl_power_ratings.csv"
 APEX_DB_PATH = Path("C:/Projects/Apex/database/apex.db")
 APEX_OUTPUT_PATH = Path("C:/Projects/Apex/sample_model_edges.csv")
 
-MODEL_VERSION = "NFL Spread Model v0.3 Apex Slate - nflverse EPA Ratings"
+MODEL_VERSION = "NFL Spread Model v0.4 Apex Slate - nflverse EPA Ratings"
 
 HOME_FIELD_ADVANTAGE = 1.5
 
@@ -194,10 +194,10 @@ def calculate_confidence_score(edge_points: float, market_line: float) -> int:
 
 
 def recommend_units(edge_points: float) -> float:
-    if edge_points >= 6.0:
-        return 0.50
+    if edge_points >= 7.0:
+        return 0.0
 
-    if edge_points >= 5.0:
+    if edge_points >= 6.0:
         return 0.25
 
     return 0.0
@@ -317,6 +317,9 @@ def build_model_row_for_event(
 
     if recommendation == "No Play":
         recommended_units = 0.0
+
+    if edge_points >= 7.0:
+        guard_notes.append("extreme edge no-bet guard")
 
     home_rating_data = ratings[home_team]
     away_rating_data = ratings[away_team]
