@@ -12,7 +12,7 @@ TEAM_MAPPING_PATH = PROJECT_ROOT / "models" / "ncaaf_team_mapping.csv"
 APEX_DB_PATH = Path("C:/Projects/Apex/database/apex.db")
 APEX_OUTPUT_PATH = Path("C:/Projects/Apex/sample_model_edges.csv")
 
-MODEL_VERSION = "NCAAF Spread Model v0.5 Safety Guardrails"
+MODEL_VERSION = "NCAAF Spread Model v0.6 Backtested Edge Window"
 
 HOME_FIELD_ADVANTAGE = 2.5
 
@@ -22,6 +22,7 @@ WATCH_EDGE_THRESHOLD = 1.0
 
 LARGE_SPREAD_THRESHOLD = 28.0
 VERY_LARGE_SPREAD_THRESHOLD = 35.0
+ACTIONABLE_EDGE_THRESHOLD = 7.0
 EXTREME_EDGE_NO_BET_THRESHOLD = 10.0
 MAX_DAYS_OUT_FOR_UNITS = 14
 FCS_MAX_UNITS = 0.0
@@ -402,7 +403,7 @@ def recommend_units(edge_points: float) -> float:
     if edge_points >= EXTREME_EDGE_NO_BET_THRESHOLD:
         return 0.0
 
-    if edge_points >= VALUE_EDGE_THRESHOLD:
+    if edge_points >= ACTIONABLE_EDGE_THRESHOLD:
         return 0.25
 
     return 0.0
@@ -587,6 +588,10 @@ def build_model_row_for_event(
     if edge_points >= EXTREME_EDGE_NO_BET_THRESHOLD:
         recommended_units = 0.0
         guard_notes.append("extreme edge no-bet guard")
+
+    elif VALUE_EDGE_THRESHOLD <= edge_points < ACTIONABLE_EDGE_THRESHOLD:
+        recommended_units = 0.0
+        guard_notes.append("below backtested actionable window")
 
     if is_too_far_out_for_units(first_row["commence_time"]):
         recommended_units = 0.0
