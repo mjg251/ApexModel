@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+models/nfl_power_ratings_meta.json
+models/nfl_power_ratings.csv.tmp
+models/nfl_power_ratings_meta.json.tmp
