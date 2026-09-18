@@ -1,0 +1,20 @@
+{
+  "created_at": "2026-09-18T23:28:28.868601+00:00",
+  "missing_values_inferred": false,
+  "normalized_csv": "normalized.csv",
+  "normalized_file_sha256": "fb72f3ca53b546e39016224097d71a19f8668753fa58ed1225804d9b22c81961",
+  "published_at": "2023-09-24T09:00:00-04:00",
+  "ratings_sha256": "0233e6ee072b577c7c41c23467b53ce847c25e731390919061f2496c180b6fb5",
+  "ratings_type": "SP+",
+  "safe_after": "2023-09-24T09:00:00-04:00",
+  "schema_version": 1,
+  "season": 2023,
+  "source": "ESPN",
+  "source_artifact": "source\\2023_week4_spplus_espn.pdf",
+  "source_artifact_sha256": "1cd41139c7de0393d13ac6b95b50f038762119f63affbcfba47567d26c421235",
+  "source_label": "Bill Connelly ESPN post-Week 4 SP+",
+  "source_url": "https://www.espn.com/college-football/insider/story/_/id/38478223/college-football-2023-week-4-sp%2B-rankings-takeaways",
+  "sport": "NCAAF",
+  "target_week": 5,
+  "team_count": 133
+}
