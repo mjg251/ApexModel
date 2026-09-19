@@ -1,0 +1,70 @@
+{
+  "apexmodel_git_commit": "785e071642da938f457dd93de0b63b6dae6d7e56",
+  "artifact_type": "isolated_ncaaf_v0_6_historical_replay",
+  "created_at": "2026-09-19T00:26:05.793400+00:00",
+  "exclusion_counts": {},
+  "games_considered": 56,
+  "games_excluded": 0,
+  "games_modeled": 56,
+  "holdout_policy": {
+    "development_seasons": [
+      2022,
+      2023,
+      2024
+    ],
+    "forward_validation": "2026+",
+    "historical_holdout": 2025,
+    "holdout_requires_explicit_unlock": true
+  },
+  "inputs": {
+    "eligibility": {
+      "copied_path": "inputs\\2023.csv",
+      "original_path": "C:\\Projects\\ApexModel\\data\\replays\\ncaaf_v0_6\\eligibility\\2023.csv",
+      "sha256": "1636e5372cafa911e0be0f313113fb2ba953abc7f994278d963ccee66778bb96"
+    },
+    "games_lines": {
+      "copied_path": "inputs\\week_05_draftkings.csv",
+      "original_path": "C:\\Projects\\ApexModel\\data\\replays\\ncaaf_v0_6\\games_lines\\2023\\week_05_draftkings.csv",
+      "sha256": "66cae0a9456237cf7164b0d041874b5f69118468f125959700062270d376abca"
+    },
+    "ratings": {
+      "copied_path": "inputs\\normalized.csv",
+      "original_path": "C:\\Projects\\ApexModel\\data\\replays\\ncaaf_v0_6\\ratings\\2023\\week_05\\normalized.csv",
+      "sha256": "fb72f3ca53b546e39016224097d71a19f8668753fa58ed1225804d9b22c81961"
+    }
+  },
+  "line_source": [
+    "CFBD /lines archival DraftKings"
+  ],
+  "mode": "development",
+  "model_version": "NCAAF v0.6 frozen production logic",
+  "outputs": {
+    "exclusions_csv": "exclusions.csv",
+    "exclusions_sha256": "cd3c7f25592d2080cb0a16fa29400a6ea001a7c10524ba3cbbd128d855e0cf86",
+    "rows_csv": "rows.csv",
+    "rows_sha256": "3f167a45701e2fab07537c16df2fbe9666bf60ea0fdeba109e8fbee4e1fda53f"
+  },
+  "production_code_sha256": "943a78d33262da5cfec4b3490cf62ed35b839a1a424a2fe5f33bb23d27f8931b",
+  "production_data_touched": false,
+  "production_database_written": false,
+  "production_model_version_string": "NCAAF Spread Model v0.6 Backtested Edge Window",
+  "production_ratings_updater_invoked": false,
+  "production_script": "scripts/project_ncaaf_from_apex.py",
+  "provider": "DraftKings",
+  "ratings": {
+    "published_at": "2023-09-24T09:00:00-04:00",
+    "ratings_sha256": "0233e6ee072b577c7c41c23467b53ce847c25e731390919061f2496c180b6fb5",
+    "safe_after": "2023-09-24T09:00:00-04:00",
+    "season": 2023,
+    "source": "ESPN",
+    "source_label": "Bill Connelly ESPN post-Week 4 SP+",
+    "source_url": "https://www.espn.com/college-football/insider/story/_/id/38478223/college-football-2023-week-4-sp%2B-rankings-takeaways",
+    "target_week": 5,
+    "team_count": 133
+  },
+  "replay_as_of": "2023-09-24T09:00:00-04:00",
+  "sample_model_edges_written": false,
+  "schema_version": 1,
+  "season": 2023,
+  "week": 5
+}
