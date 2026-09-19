@@ -1,0 +1,12 @@
+{
+  "artifact_type": "ncaaf_v0_6_2023_week5_formal_diagnostics",
+  "source_proof": "C:\\Projects\\ApexModel\\outputs\\replays\\ncaaf_v0_6\\2023\\week_05\\proof_001",
+  "source_proof_manifest_sha256": "58e7403f35a9466f102efb2c0c9c0332e1cd837c6e9b6aeb3bffa78cda3fa90f",
+  "apexmodel_git_head": "8616ef6df23c76d5a6f408a0607f130caf6dd9a3",
+  "production_code_sha256": "943a78d33262da5cfec4b3490cf62ed35b839a1a424a2fe5f33bb23d27f8931b",
+  "archival_market_label": "ARCHIVAL MARKET BENCHMARK — EXACT REPLAY-AS-OF LINE TIMESTAMP NOT ESTABLISHED",
+  "production_state_written": false,
+  "holdout_2025_inspected": false,
+  "network_use": "CFBD 2022 final SP+ only",
+  "static_2022_final_spplus_sha256": "cc4c20ae979bc48b159462d67a92bcccd280978a8ae8024445171299adaf0d5f"
+}

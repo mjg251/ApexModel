@@ -1,0 +1,190 @@
+def build_model_row_for_event(
+    event_rows: list[dict],
+    ratings: dict[str, dict],
+    team_mapping: dict[str, dict],
+) -> dict | None:
+    first_row = event_rows[0]
+
+    away_display = first_row["away_team"]
+    home_display = first_row["home_team"]
+
+    away_team = normalize_team_name(
+        team_name=away_display,
+        team_mapping=team_mapping,
+    )
+
+    home_team = normalize_team_name(
+        team_name=home_display,
+        team_mapping=team_mapping,
+    )
+
+    away_excluded = team_should_be_excluded(
+        display_team=away_display,
+        mapped_team=away_team,
+        team_mapping=team_mapping,
+        ratings=ratings,
+    )
+
+    home_excluded = team_should_be_excluded(
+        display_team=home_display,
+        mapped_team=home_team,
+        team_mapping=team_mapping,
+        ratings=ratings,
+    )
+
+    if away_excluded or home_excluded:
+        print(
+            "Skipping FCS/unrated game:",
+            f"{away_display} -> {away_team}",
+            "|",
+            f"{home_display} -> {home_team}",
+        )
+        return None
+
+    fcs_away = False
+    fcs_home = False
+
+    projected_home_margin = project_home_margin(
+        home_team=home_team,
+        away_team=away_team,
+        ratings=ratings,
+    )
+
+    candidate_rows = []
+
+    for row in event_rows:
+        sportsbook = row["sportsbook"]
+
+        if sportsbook not in APPROVED_BOOKS:
+            continue
+
+        selection_display = row["selection"]
+        selection_team = normalize_team_name(
+            team_name=selection_display,
+            team_mapping=team_mapping,
+        )
+
+        if selection_team == home_team:
+            model_line = -projected_home_margin
+        elif selection_team == away_team:
+            model_line = projected_home_margin
+        else:
+            continue
+
+        market_line = float(row["line"])
+        edge_points = market_line - model_line
+
+        candidate_rows.append(
+            {
+                "row": row,
+                "selection_team": selection_team,
+                "selection_display": selection_display,
+                "market_line": market_line,
+                "market_odds": int(row["price"]),
+                "model_line": model_line,
+                "edge_points": edge_points,
+            }
+        )
+
+    if not candidate_rows:
+        print("Skipping no approved book spread:", away_display, "at", home_display)
+        return None
+
+    # Pick the side/book with the highest modeled edge.
+    # This still exports every game we can model, but picks the side the model prefers.
+    best_candidate = max(
+        candidate_rows,
+        key=lambda item: (
+            item["edge_points"],
+            item["market_line"],
+            american_odds_value(item["market_odds"]),
+        ),
+    )
+
+    edge_points = max(0.0, best_candidate["edge_points"])
+    recommendation = classify_recommendation(edge_points)
+
+    fcs_away = away_team in FCS_TEAMS
+    fcs_home = home_team in FCS_TEAMS
+
+    confidence_score = calculate_confidence_score(
+        edge_points=edge_points,
+        fcs_away=fcs_away,
+        fcs_home=fcs_home,
+    )
+
+    raw_units = recommend_units(edge_points)
+
+    recommended_units, guard_notes = apply_risk_guards(
+        recommended_units=raw_units,
+        market_line=best_candidate["market_line"],
+        confidence_score=confidence_score,
+        fcs_away=fcs_away,
+        fcs_home=fcs_home,
+    )
+
+    if edge_points >= EXTREME_EDGE_NO_BET_THRESHOLD:
+        recommended_units = 0.0
+        guard_notes.append("extreme edge no-bet guard")
+
+    elif VALUE_EDGE_THRESHOLD <= edge_points < ACTIONABLE_EDGE_THRESHOLD:
+        recommended_units = 0.0
+        guard_notes.append("below backtested actionable window")
+
+    if is_too_far_out_for_units(first_row["commence_time"]):
+        recommended_units = 0.0
+        guard_notes.append("future game review")
+
+    if fcs_away or fcs_home:
+        recommended_units = 0.0
+        guard_notes.append("FCS no-bet guard")
+
+    if recommendation != "Value":
+        recommended_units = 0.0
+
+    if recommendation == "No Play":
+        recommended_units = 0.0
+
+    home_rating_data = ratings[home_team]
+    away_rating_data = ratings[away_team]
+
+    rating_context = (
+        f"Home Tier: {home_rating_data['tier']}; "
+        f"Away Tier: {away_rating_data['tier']}; "
+        f"Home Source: {home_rating_data['source']}; "
+        f"Away Source: {away_rating_data['source']}"
+    )
+
+    guard_context = ""
+
+    if guard_notes:
+        guard_context = " | Guards: " + ", ".join(guard_notes)
+
+    event_date, event_time = parse_event_datetime(first_row["commence_time"])
+
+    event = f"{away_display} at {home_display}"
+
+    signal_source = (
+        f"{MODEL_VERSION} | Recommendation: {recommendation} | "
+        f"Confidence: {confidence_score} | "
+        f"{rating_context}"
+        f"{guard_context}"
+    )
+
+    return {
+        "sport": "NCAAF",
+        "event_date": event_date,
+        "event_time": event_time,
+        "event": event,
+        "market": "Spread",
+        "selection": best_candidate["selection_display"],
+        "book": best_candidate["row"]["sportsbook"],
+        "market_line": round(best_candidate["market_line"], 1),
+        "market_odds": best_candidate["market_odds"],
+        "model_line": round(best_candidate["model_line"], 1),
+        "edge_points": round(edge_points, 1),
+        "recommendation": recommendation,
+        "confidence_score": confidence_score,
+        "signal_source": signal_source,
+        "recommended_units": recommended_units,
+    }

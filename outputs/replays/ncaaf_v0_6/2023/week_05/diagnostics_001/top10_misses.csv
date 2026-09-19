@@ -1,0 +1,11 @@
+home,away,home_sp,away_sp,model_home_margin,actual_home_margin,absolute_error,signed_error,archival_DK_home_spread,selected_side,edge,recommendation,actionability,audit
+Georgia Tech,Bowling Green,-2.3,-18.5,18.7,-11,29.7,29.7,-22.0,away,3.3,Lean,Review Only,None identified — valid model miss
+Purdue,Illinois,-3.3,3.8,-4.6,25,29.6,-29.6,-1.0,away,5.6,Value,Review Only,None identified — valid model miss
+Georgia State,Troy,-1.2,-1.8,3.1,-21,24.1,24.1,-1.5,home,1.6,Watch,Review Only,None identified — valid model miss
+Massachusetts,Arkansas State,-18.3,-15.7,-0.10000000000000142,-24,23.9,23.9,-1.0,away,1.1,Watch,Review Only,None identified — valid model miss
+Virginia Tech,Pittsburgh,-4.5,3.7,-5.699999999999999,17,22.7,-22.7,2.5,away,3.2,Lean,Review Only,None identified — valid model miss
+Air Force,San Diego State,6.3,-7.7,16.5,39,22.5,-22.5,-10.5,home,6.0,Value,Review Only,None identified — valid model miss
+Toledo,Northern Illinois,2.1,-17.8,22.400000000000002,2,20.400000000000002,20.400000000000002,-13.0,home,9.4,Value,Model Play,None identified — valid model miss
+Colorado,USC,-4.4,24.3,-26.200000000000003,-7,19.200000000000003,-19.200000000000003,21.5,away,4.7,Value,Review Only,None identified — valid model miss
+TCU,West Virginia,14.0,2.5,14.0,-3,17.0,17.0,-12.5,home,1.5,Watch,Review Only,None identified — valid model miss
+Tulsa,Temple,-11.4,-14.0,5.1,22,16.9,-16.9,-3.0,home,2.1,Lean,Review Only,None identified — valid model miss

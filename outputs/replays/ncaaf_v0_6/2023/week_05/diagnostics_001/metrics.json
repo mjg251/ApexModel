@@ -1,0 +1,253 @@
+{
+  "archival_market_label": "ARCHIVAL MARKET BENCHMARK — EXACT REPLAY-AS-OF LINE TIMESTAMP NOT ESTABLISHED",
+  "A": {
+    "ratings_snapshot_sha": "0233e6ee072b577c7c41c23467b53ce847c25e731390919061f2496c180b6fb5",
+    "published_at": "2023-09-24T09:00:00-04:00",
+    "safe_after": "2023-09-24T09:00:00-04:00",
+    "safe_after_before_kickoff": "56/56",
+    "team_rating_resolution": "56/56",
+    "historical_fbs_eligibility": "56/56",
+    "production_isolation": true,
+    "exact_projection_matches": "56/56",
+    "projection_discrepancies": [],
+    "max_absolute_discrepancy": 0.0,
+    "result_orientation": "56/56"
+  },
+  "B": {
+    "n": 56,
+    "mae": 10.457142857142857,
+    "median": 9.1,
+    "rmse": 12.696892195674161,
+    "signed": -0.310714285714286,
+    "within3": 8.928571428571429,
+    "within7": 41.07142857142857,
+    "within10": 53.57142857142857,
+    "within14": 73.21428571428571
+  },
+  "C_spread": {
+    "0–6.5": [
+      22,
+      11.977272727272727,
+      12.4,
+      -1.8409090909090913
+    ],
+    "7–13.5": [
+      13,
+      6.769230769230769,
+      7.399999999999999,
+      -2.5384615384615383
+    ],
+    "14–20.5": [
+      11,
+      11.972727272727274,
+      7.799999999999997,
+      2.0272727272727264
+    ],
+    "21–27.5": [
+      7,
+      12.400000000000002,
+      11.100000000000001,
+      2.6571428571428575
+    ],
+    "28+": [
+      3,
+      5.2,
+      4.899999999999999,
+      5.0666666666666655
+    ]
+  },
+  "C_favorite": {
+    "Home favorite": [
+      33,
+      10.56060606060606,
+      9.2,
+      12.5736255951122,
+      0.14848484848484855
+    ],
+    "Road favorite": [
+      23,
+      10.308695652173913,
+      7.799999999999997,
+      12.871691216876231,
+      -0.9695652173913052
+    ]
+  },
+  "D": {
+    "model_mae": 10.457142857142857,
+    "archival_DK_mae": 10.446428571428571,
+    "model_better": 34,
+    "market_better": 21,
+    "tie": 1,
+    "model_signed": -0.310714285714286,
+    "archival_signed": -0.23214285714285715
+  },
+  "E": {
+    "count": 56,
+    "mean_abs_move": 0.9642857142857143,
+    "median_abs_move": 0.5,
+    "max_abs_move": 4.5,
+    "unchanged": 21,
+    "unchanged_pct": 37.5
+  },
+  "F_recommendation": {
+    "Value": [
+      15,
+      "8-6-1",
+      "57.1%",
+      "11.72",
+      "11.13",
+      "4.03"
+    ],
+    "Lean": [
+      14,
+      "7-7-0",
+      "50.0%",
+      "10.96",
+      "10.89",
+      "-2.17"
+    ],
+    "Watch": [
+      13,
+      "8-5-0",
+      "61.5%",
+      "12.02",
+      "12.31",
+      "0.02"
+    ],
+    "No Play": [
+      14,
+      "12-2-0",
+      "85.7%",
+      "7.16",
+      "7.54",
+      "-4.13"
+    ]
+  },
+  "F_edge": {
+    "<1.0": [
+      14,
+      "12-2-0",
+      "85.7%",
+      "7.16",
+      "7.54",
+      "-4.13"
+    ],
+    "1.0–1.9": [
+      13,
+      "8-5-0",
+      "61.5%",
+      "12.02",
+      "12.31",
+      "0.02"
+    ],
+    "2.0–3.9": [
+      14,
+      "7-7-0",
+      "50.0%",
+      "10.96",
+      "10.89",
+      "-2.17"
+    ],
+    "4.0–6.9": [
+      11,
+      "6-4-1",
+      "60.0%",
+      "12.21",
+      "12.27",
+      "2.75"
+    ],
+    "7.0–9.9": [
+      4,
+      "2-2-0",
+      "50.0%",
+      "10.38",
+      "8.00",
+      "7.53"
+    ],
+    "10.0+": [
+      0,
+      "0-0-0",
+      "0.0%",
+      "NA",
+      "NA",
+      "NA"
+    ]
+  },
+  "F_actionability": {
+    "model_play": 4,
+    "review_only": 38,
+    "guarded_other": 14
+  },
+  "G": {
+    "price_sensitive_tie_count": 0,
+    "price_sensitive_event_ids": [],
+    "conclusion": "Frozen v0.6 orders candidates by edge_points, then market_line, then market_odds. Price does not enter projection or edge. Recommendation/confidence/units/guards are downstream of the selected edge/line and frozen non-price conditions. In this single-provider cohort the third-level price tie-break is reachable in 0 games; therefore synthetic -110 does not materially alter classifications here."
+  },
+  "I": {
+    "shared": 55,
+    "unavailable": 1,
+    "mean_change": 6.790909090909091,
+    "median_change": 6.0,
+    "max_change": 17.4,
+    "static_mae": 12.578181818181818,
+    "weekly_mae": 10.641818181818183,
+    "static_bias": -1.5527272727272725,
+    "weekly_bias": -0.3109090909090912,
+    "archival_mae": 10.627272727272727,
+    "weekly_better": 33,
+    "static_better": 22,
+    "ties": 0
+  },
+  "I_edge_migration": {
+    "1.0–1.9 -> 4.0–6.9": 1,
+    "1.0–1.9 -> <1.0": 2,
+    "10.0+ -> 1.0–1.9": 6,
+    "10.0+ -> 2.0–3.9": 4,
+    "10.0+ -> 4.0–6.9": 3,
+    "10.0+ -> 7.0–9.9": 2,
+    "10.0+ -> <1.0": 2,
+    "2.0–3.9 -> 1.0–1.9": 2,
+    "2.0–3.9 -> 2.0–3.9": 4,
+    "2.0–3.9 -> 4.0–6.9": 2,
+    "2.0–3.9 -> <1.0": 2,
+    "4.0–6.9 -> 1.0–1.9": 3,
+    "4.0–6.9 -> 2.0–3.9": 4,
+    "4.0–6.9 -> 4.0–6.9": 4,
+    "4.0–6.9 -> 7.0–9.9": 2,
+    "4.0–6.9 -> <1.0": 4,
+    "7.0–9.9 -> 1.0–1.9": 2,
+    "7.0–9.9 -> 2.0–3.9": 1,
+    "7.0–9.9 -> <1.0": 2,
+    "<1.0 -> 2.0–3.9": 1,
+    "<1.0 -> 4.0–6.9": 1,
+    "<1.0 -> <1.0": 1
+  },
+  "I_recommendation_migration": {
+    "Lean -> Lean": 4,
+    "Lean -> No Play": 2,
+    "Lean -> Value": 2,
+    "Lean -> Watch": 2,
+    "No Play -> Lean": 1,
+    "No Play -> No Play": 1,
+    "No Play -> Value": 1,
+    "Value -> Lean": 9,
+    "Value -> No Play": 8,
+    "Value -> Value": 11,
+    "Value -> Watch": 11,
+    "Watch -> No Play": 2,
+    "Watch -> Value": 1
+  },
+  "I_model_play_migration": {
+    "Model Play -> Not Model Play": 5,
+    "Not Model Play -> Model Play": 4,
+    "Not Model Play -> Not Model Play": 46
+  },
+  "J": {
+    "projection": "PASS",
+    "temporal": "PASS",
+    "identity": "PASS",
+    "result": "PASS",
+    "isolation": "PASS",
+    "overall": "PASS"
+  }
+}
