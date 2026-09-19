@@ -1,0 +1,27 @@
+{
+  "exclusion_reasons": {
+    "kickoff_not_after_ratings_safe_after": 6,
+    "kickoff_not_after_replay_as_of": 6
+  },
+  "frozen_v0_6_changed": false,
+  "games_considered": 703,
+  "games_excluded": 6,
+  "games_modeled": 697,
+  "holdout_2025_inspected": false,
+  "identity_fbs_integrity": "697/697",
+  "model_versions": [
+    "NCAAF v0.6 frozen production logic"
+  ],
+  "production_code_sha256": [
+    "943a78d33262da5cfec4b3490cf62ed35b839a1a424a2fe5f33bb23d27f8931b"
+  ],
+  "production_isolation": true,
+  "production_state_touched": false,
+  "projection_fidelity": "697/697",
+  "result_orientation_integrity": "697/697",
+  "status": "PASS",
+  "temporal_integrity": "697/697",
+  "week_09_14_source_spplus_confirmed": true,
+  "weeks_attempted": 14,
+  "weeks_included": 14
+}

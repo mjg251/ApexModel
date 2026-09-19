@@ -1,0 +1,123 @@
+{
+  "artifact_type": "2023_spplus_weekly_vector_extraction",
+  "holdout_2025_inspected": false,
+  "production_state_written": false,
+  "season": 2023,
+  "source_workbook": "C:\\Projects\\ApexModel\\data\\replays\\ncaaf_v0_6\\source_discovery\\bill_connelly_2023_spplus_public.xlsx",
+  "source_workbook_bytes": 1290130,
+  "source_workbook_sha256": "1c2e0d03d3d156c272d03a390a87a50775a78b750eb1b8dc4e3fa51959229a89",
+  "weeks": {
+    "1": {
+      "normalized_sha256": "6ddfd2b777b3159bf17502122cae742e871c164fea57f0dbfbc9505105b78f01",
+      "source_map_sha256": "4bcce5c3f707e38e3d71e1d1f9c59c15fbc4e9adacf709790d9ad619fb0fb1b0",
+      "team_count": 133,
+      "unresolved_count": 0,
+      "week5_approved_vector_match": null,
+      "worksheet": "FBS week 1"
+    },
+    "10": {
+      "normalized_sha256": "d09415793537c8633d60bb4eb153eb6e84b466aaf314c5b5e8b92800cdfffc22",
+      "source_map_sha256": "c8c9b0d21879ec3cf37603f4f2fde8d5b265f1d54e9a7894b4cc862627dfa7d3",
+      "team_count": 133,
+      "unresolved_count": 0,
+      "week5_approved_vector_match": null,
+      "worksheet": "FBS week 10"
+    },
+    "11": {
+      "normalized_sha256": "e369f7023db333bfa82b06f286fa660bdb3873fc22582026930f96274bb8f8e1",
+      "source_map_sha256": "76dc924b96be72dcd331bc1853eb794af6cd66488d0639eb6c4921724af463f3",
+      "team_count": 133,
+      "unresolved_count": 0,
+      "week5_approved_vector_match": null,
+      "worksheet": "FBS week 11"
+    },
+    "12": {
+      "normalized_sha256": "637c199a7d9f11742c660183483b38d8717e62d56cbecfcb13ed09419233bdd2",
+      "source_map_sha256": "661d3eec46243daafdc5b4682004d0e7fb20150a970b3d9f8fa2747b75163668",
+      "team_count": 133,
+      "unresolved_count": 0,
+      "week5_approved_vector_match": null,
+      "worksheet": "FBS week 12"
+    },
+    "13": {
+      "normalized_sha256": "4c888f5e9ea4cf3934635bf439ef6ba2d3667ea17aabb6860fff7c7524416e41",
+      "source_map_sha256": "a9d4db2dcf69cfb96c4d22e9b37edbc96672033add12cf03619e16ad3b37da6b",
+      "team_count": 133,
+      "unresolved_count": 0,
+      "week5_approved_vector_match": null,
+      "worksheet": "FBS week 13"
+    },
+    "14": {
+      "normalized_sha256": "a83af3e23462fc86870a3adc98d0d63942036b05cc1611790f238a491bde8009",
+      "source_map_sha256": "afb74221cea17ebd8e8b3f812515c5bb8ce5d81495b1b96d38b3753979a7f4f5",
+      "team_count": 133,
+      "unresolved_count": 0,
+      "week5_approved_vector_match": null,
+      "worksheet": "FBS week 14"
+    },
+    "2": {
+      "normalized_sha256": "ef79cbb97170b4c64b793a1a6a024561bb620d455a9d75934c47f079012d16bf",
+      "source_map_sha256": "18b1cfae3e5e2bd3bbc579b906fa66e7871b92cf79299b017ab2156da38e40c0",
+      "team_count": 133,
+      "unresolved_count": 0,
+      "week5_approved_vector_match": null,
+      "worksheet": "FBS week 2"
+    },
+    "3": {
+      "normalized_sha256": "bb720dd07f1480863080373502a8c943a8ebf125d1d7c9ad8699aa4ef0106c25",
+      "source_map_sha256": "7ec5ae8759a76b3f9eb4b647f3d40b34b627322558e09bab89e7062c36a46dbb",
+      "team_count": 133,
+      "unresolved_count": 0,
+      "week5_approved_vector_match": null,
+      "worksheet": "FBS week 3"
+    },
+    "4": {
+      "normalized_sha256": "8e94edf5c066ae5eef29b0738548963b40690b68f4f2ead46475684148f5f3c4",
+      "source_map_sha256": "d39399251692419800971f1c19c129a1ca775b24c9d44e64c1100193624b5498",
+      "team_count": 133,
+      "unresolved_count": 0,
+      "week5_approved_vector_match": null,
+      "worksheet": "FBS week 4"
+    },
+    "5": {
+      "normalized_sha256": "c83f5c99e93e0c330b4e774c2e2a2ff9d6bb887e204f6e57bbce52cc865514c1",
+      "source_map_sha256": "f1eecbe6a24e3a0af02e531f6a2a1454f836bba850ce576ca1055cb94b283976",
+      "team_count": 133,
+      "unresolved_count": 0,
+      "week5_approved_vector_match": true,
+      "worksheet": "FBS week 5"
+    },
+    "6": {
+      "normalized_sha256": "1f13d4584581d7524c706ebe61f50016fdee1f7f4955e286c4d8cfd578a0275e",
+      "source_map_sha256": "dfe9af461e45674d07e04df519bfd8e3d7af71e2ebf9452842e30f25936f522b",
+      "team_count": 133,
+      "unresolved_count": 0,
+      "week5_approved_vector_match": null,
+      "worksheet": "FBS week 6"
+    },
+    "7": {
+      "normalized_sha256": "3bfb8759e5a3be3b60addcc98749aa0d3865ededa68bd2dcf4b305fc4e34cdc3",
+      "source_map_sha256": "0d7b7028b907817f7ecba798a543c2b94c029430137bff7328c256c4c229d4b2",
+      "team_count": 133,
+      "unresolved_count": 0,
+      "week5_approved_vector_match": null,
+      "worksheet": "FBS week 7"
+    },
+    "8": {
+      "normalized_sha256": "b7f2eb834c1e8b12876729165622e459744e0e8dca7cc0e345741018837c3194",
+      "source_map_sha256": "953e5115884565bb028c6a401e10b07823ab80091124751810b5608aee056440",
+      "team_count": 133,
+      "unresolved_count": 0,
+      "week5_approved_vector_match": null,
+      "worksheet": "FBS week 8"
+    },
+    "9": {
+      "normalized_sha256": "29e79ae2e7fdd6933688bed3aa12816d8b8370f0591c23c3e0b7c3943b9d8f9f",
+      "source_map_sha256": "8c65a65c188117f9280c178bc3f0a559680cdedf4e3ee4783a5185b89e382e1d",
+      "team_count": 133,
+      "unresolved_count": 0,
+      "week5_approved_vector_match": null,
+      "worksheet": "FBS week 9"
+    }
+  }
+}

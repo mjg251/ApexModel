@@ -1,0 +1,16 @@
+{
+  "maximum_absolute_model_line_change": 98.9,
+  "mean_absolute_model_line_change": 16.387740029542098,
+  "median_absolute_model_line_change": 11.100000000000001,
+  "shared_games": 677,
+  "static_mae": 14.192614475627769,
+  "static_ratings_better": 281,
+  "static_signed_bias": 0.025110782865583426,
+  "static_source_sha256": "cc4c20ae979bc48b159462d67a92bcccd280978a8ae8024445171299adaf0d5f",
+  "static_unavailable_games": 20,
+  "ties": 3,
+  "weekly_mae": 12.468685376661742,
+  "weekly_minus_static_mae": -1.7239290989660265,
+  "weekly_ratings_better": 393,
+  "weekly_signed_bias": -2.437666174298375
+}

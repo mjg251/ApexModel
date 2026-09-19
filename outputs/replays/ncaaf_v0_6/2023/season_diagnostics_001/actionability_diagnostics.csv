@@ -1,0 +1,4 @@
+group,n,ats_record,ats_win_rate,model_mae,archival_dk_mae,median_ae,home_signed_bias,selected_side_signed_bias,model_better,market_better,ties
+Model Play,52,27-21-4,56.25,12.00,11.32,10.55,-5.03,5.03,24,28,0
+Review Only,487,250-229-8,52.19,12.36,12.13,10.10,-2.20,2.20,230,256,1
+Guarded / Other,158,74-80-4,48.05,12.63,11.94,11.50,-2.62,2.62,67,85,6

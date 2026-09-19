@@ -1,0 +1,134 @@
+workbook_team,model_team,rating,resolution
+Air Force,Air Force,-1.0,2023_eligibility
+Akron,Akron,-18.6,2023_eligibility
+Alabama,Alabama,32.0,2023_eligibility
+Appalachian State,App. St.,-1.5,explicit_workbook_alias
+Arizona,Arizona,4.0,2023_eligibility
+Arizona State,Arizona St.,-3.0,2023_eligibility
+Arkansas,Arkansas,16.3,2023_eligibility
+Arkansas State,Arkansas St.,-23.8,2023_eligibility
+Army,Army,-14.1,2023_eligibility
+Auburn,Auburn,17.5,2023_eligibility
+Bowling Green,BGSU,-19.4,2023_eligibility
+BYU,BYU,2.6,2023_eligibility
+Ball State,Ball St.,-17.1,2023_eligibility
+Baylor,Baylor,4.9,2023_eligibility
+Boise State,Boise St.,-2.0,2023_eligibility
+Boston College,Boston Coll.,-9.9,2023_eligibility
+Buffalo,Buffalo,-11.7,2023_eligibility
+Central Michigan,CMU,-17.3,2023_eligibility
+California,California,7.5,2023_eligibility
+Charlotte,Charlotte,-17.3,2023_eligibility
+Cincinnati,Cincinnati,9.4,2023_eligibility
+Clemson,Clemson,16.0,2023_eligibility
+Coastal Carolina,Coastal Caro.,-2.9,2023_eligibility
+Colorado,Colorado,-5.7,2023_eligibility
+Colorado State,Colorado St.,-19.9,2023_eligibility
+Duke,Duke,9.9,2023_eligibility
+East Carolina,ECU,-10.5,2023_eligibility
+Eastern Michigan,EMU,-13.1,2023_eligibility
+Florida Atlantic,FAU,-1.7,2023_eligibility
+Florida International,FIU,-19.4,2023_eligibility
+Florida,Florida,8.9,2023_eligibility
+Florida State,Florida St.,22.5,2023_eligibility
+Fresno State,Fresno St.,3.5,2023_eligibility
+Georgia Southern,Ga. Southern,-7.1,2023_eligibility
+Georgia Tech,Ga. Tech,-4.6,2023_eligibility
+Georgia,Georgia,31.4,2023_eligibility
+Georgia State,Georgia St.,-7.4,2023_eligibility
+Hawaii,Hawaii,-17.2,explicit_workbook_alias
+Houston,Houston,4.5,2023_eligibility
+Illinois,Illinois,6.3,2023_eligibility
+Indiana,Indiana,-7.3,2023_eligibility
+Iowa,Iowa,10.9,2023_eligibility
+Iowa State,Iowa St.,8.1,2023_eligibility
+James Madison,JMU,3.1,2023_eligibility
+Jacksonville State,JSU,-11.4,2023_eligibility
+Kansas,Kansas,5.8,2023_eligibility
+Kansas State,Kansas St.,19.0,2023_eligibility
+Kent State,Kent St.,-30.0,2023_eligibility
+Kentucky,Kentucky,14.9,2023_eligibility
+LSU,LSU,15.9,2023_eligibility
+Louisiana Tech,La. Tech,-15.3,2023_eligibility
+Liberty,Liberty,-7.8,2023_eligibility
+UL-Lafayette,Louisiana,-4.2,explicit_workbook_alias
+Louisville,Louisville,7.0,2023_eligibility
+Middle Tennessee,MTSU,-19.2,2023_eligibility
+Marshall,Marshall,-3.5,2023_eligibility
+Maryland,Maryland,12.6,2023_eligibility
+Memphis,Memphis,8.8,2023_eligibility
+Miami-FL,Miami,15.9,explicit_workbook_alias
+Miami-OH,Miami-OH,-18.5,explicit_workbook_alias
+Michigan,Michigan,28.0,2023_eligibility
+Michigan State,Michigan St.,7.9,2023_eligibility
+Minnesota,Minnesota,9.2,2023_eligibility
+Mississippi State,Miss. St.,16.3,2023_eligibility
+Missouri,Missouri,10.7,2023_eligibility
+North Carolina,N. Carolina,16.2,2023_eligibility
+North Texas,N. Texas,-15.8,2023_eligibility
+NC State,NC St.,7.2,2023_eligibility
+Northern Illinois,NIU,-13.2,2023_eligibility
+New Mexico State,NMSU,-16.6,2023_eligibility
+Navy,Navy,-16.9,2023_eligibility
+Nebraska,Nebraska,5.1,2023_eligibility
+Nevada,Nevada,-22.0,2023_eligibility
+New Mexico,New Mexico,-23.9,2023_eligibility
+Northwestern,Northwestern,-12.4,2023_eligibility
+Notre Dame,Notre Dame,24.0,2023_eligibility
+Old Dominion,ODU,-20.3,2023_eligibility
+Ohio,Ohio,-9.5,2023_eligibility
+Ohio State,Ohio St.,27.8,2023_eligibility
+Oklahoma,Oklahoma,26.6,2023_eligibility
+Oklahoma State,Oklahoma St.,8.2,2023_eligibility
+Ole Miss,Ole Miss,21.0,2023_eligibility
+Oregon,Oregon,23.2,2023_eligibility
+Oregon State,Oregon St.,12.7,2023_eligibility
+Penn State,Penn St.,23.7,2023_eligibility
+Pittsburgh,Pittsburgh,13.2,2023_eligibility
+Purdue,Purdue,0.0,2023_eligibility
+Rice,Rice,-17.7,2023_eligibility
+Rutgers,Rutgers,-1.1,2023_eligibility
+South Alabama,S. Alabama,-4.9,2023_eligibility
+South Carolina,S. Carolina,6.0,2023_eligibility
+Sam Houston,SHSU,-15.6,2023_eligibility
+SMU,SMU,8.8,2023_eligibility
+San Diego State,San Diego St.,-4.2,2023_eligibility
+San Jose State,San Jose St.,-15.0,explicit_workbook_alias
+Southern Miss,So. Miss,-7.4,2023_eligibility
+Stanford,Stanford,-6.3,2023_eligibility
+Syracuse,Syracuse,9.2,2023_eligibility
+TCU,TCU,9.7,2023_eligibility
+Temple,Temple,-14.7,2023_eligibility
+Tennessee,Tennessee,25.9,2023_eligibility
+Texas,Texas,21.7,2023_eligibility
+Texas A&M,Texas A&M,20.7,2023_eligibility
+Texas State,Texas St.,-13.7,2023_eligibility
+Texas Tech,Texas Tech,8.2,2023_eligibility
+Toledo,Toledo,-0.8,2023_eligibility
+Troy,Troy,2.4,2023_eligibility
+Tulane,Tulane,11.7,2023_eligibility
+Tulsa,Tulsa,-7.7,2023_eligibility
+UAB,UAB,-7.3,2023_eligibility
+UCF,UCF,16.0,2023_eligibility
+UCLA,UCLA,12.0,2023_eligibility
+Connecticut,UConn,-17.9,explicit_workbook_alias
+UL-Monroe,ULM,-15.7,explicit_workbook_alias
+Massachusetts,UMass,-22.1,2023_eligibility
+UNLV,UNLV,-9.7,2023_eligibility
+USC,USC,24.1,2023_eligibility
+USF,USF,-18.3,explicit_workbook_alias
+UTEP,UTEP,-9.9,2023_eligibility
+UTSA,UTSA,2.2,2023_eligibility
+Utah,Utah,20.4,2023_eligibility
+Utah State,Utah St.,-13.3,2023_eligibility
+Virginia Tech,Va. Tech,-0.5,2023_eligibility
+Vanderbilt,Vanderbilt,-2.8,2023_eligibility
+Virginia,Virginia,-11.8,2023_eligibility
+West Virginia,W. Virginia,-0.7,2023_eligibility
+Western Kentucky,WKU,-3.0,2023_eligibility
+Western Michigan,WMU,-13.8,2023_eligibility
+Wake Forest,Wake Forest,9.4,2023_eligibility
+Washington State,Wash. St.,7.7,2023_eligibility
+Washington,Washington,22.5,2023_eligibility
+Wisconsin,Wisconsin,15.0,2023_eligibility
+Wyoming,Wyoming,-7.3,2023_eligibility

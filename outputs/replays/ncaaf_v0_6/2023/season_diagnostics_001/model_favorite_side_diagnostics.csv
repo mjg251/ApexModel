@@ -1,0 +1,4 @@
+group,n,ats_record,ats_win_rate,model_mae,archival_dk_mae,median_ae,home_signed_bias,selected_side_signed_bias,model_better,market_better,ties
+Model pick'em,1,0-1-0,0.00,31.00,30.00,31.00,-31.00,31.00,0,1,0
+Model-projected home favorite,347,240-98-9,71.01,11.05,11.93,9.00,3.02,-3.02,225,115,7
+Model-projected road favorite,349,111-231-7,32.46,13.68,12.07,12.00,-7.92,7.92,96,253,0

@@ -1,0 +1,17 @@
+static_recommendation,weekly_recommendation,n
+Lean,Lean,41
+Lean,No Play,19
+Lean,Value,36
+Lean,Watch,22
+No Play,Lean,20
+No Play,No Play,4
+No Play,Value,9
+No Play,Watch,10
+Value,Lean,114
+Value,No Play,101
+Value,Value,157
+Value,Watch,87
+Watch,Lean,12
+Watch,No Play,13
+Watch,Value,23
+Watch,Watch,9

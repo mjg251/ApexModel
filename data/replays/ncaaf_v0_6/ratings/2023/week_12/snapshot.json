@@ -1,0 +1,20 @@
+{
+  "created_at": "2026-09-19T04:30:19.708728+00:00",
+  "missing_values_inferred": false,
+  "normalized_csv": "normalized.csv",
+  "normalized_file_sha256": "e74d0745e930fc81963ae4ce51fab242831229609d36af242a3d651ff3a19f22",
+  "published_at": "2023-11-13T00:00:00-05:00",
+  "ratings_sha256": "bc0c0a72b147f7e97b960afdb3f06b5fadfda4a4e7290f79d73f5fbd32a27557",
+  "ratings_type": "SP+",
+  "safe_after": "2023-11-13T00:00:00-05:00",
+  "schema_version": 1,
+  "season": 2023,
+  "source": "Bill Connelly public workbook",
+  "source_artifact": "source\\bill_connelly_2023_spplus_public.xlsx",
+  "source_artifact_sha256": "1c2e0d03d3d156c272d03a390a87a50775a78b750eb1b8dc4e3fa51959229a89",
+  "source_label": "Bill Connelly 2023 SP+ FBS week 12",
+  "source_url": "",
+  "sport": "NCAAF",
+  "target_week": 12,
+  "team_count": 133
+}

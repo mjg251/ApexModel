@@ -1,0 +1,77 @@
+{
+  "archival_market_benchmark": {
+    "archival_dk_mae": 12.029411764705882,
+    "archival_market_signed_home_margin_error": -0.06527977044476327,
+    "label": "ARCHIVAL MARKET BENCHMARK \u2014 EXACT REPLAY-AS-OF LINE TIMESTAMP NOT ESTABLISHED",
+    "market_better": 369,
+    "model_better": 321,
+    "model_better_pct": 46.0545193687231,
+    "model_mae": 12.3974175035868,
+    "model_signed_home_margin_error": -2.503299856527977,
+    "n": 697,
+    "tie": 7
+  },
+  "forecast_quality": {
+    "mean_signed_home_margin_error": -2.503299856527977,
+    "median_absolute_error": 10.4,
+    "model_mae": 12.3974175035868,
+    "n": 697,
+    "rmse": 15.458786787864506,
+    "within_10_pct": 48.493543758967,
+    "within_14_pct": 64.27546628407461,
+    "within_3_pct": 13.342898134863702,
+    "within_7_pct": 34.28981348637016
+  },
+  "integrity": {
+    "exclusion_reasons": {
+      "kickoff_not_after_ratings_safe_after": 6,
+      "kickoff_not_after_replay_as_of": 6
+    },
+    "frozen_v0_6_changed": false,
+    "games_considered": 703,
+    "games_excluded": 6,
+    "games_modeled": 697,
+    "holdout_2025_inspected": false,
+    "identity_fbs_integrity": "697/697",
+    "model_versions": [
+      "NCAAF v0.6 frozen production logic"
+    ],
+    "production_code_sha256": [
+      "943a78d33262da5cfec4b3490cf62ed35b839a1a424a2fe5f33bb23d27f8931b"
+    ],
+    "production_isolation": true,
+    "production_state_touched": false,
+    "projection_fidelity": "697/697",
+    "result_orientation_integrity": "697/697",
+    "status": "PASS",
+    "temporal_integrity": "697/697",
+    "week_09_14_source_spplus_confirmed": true,
+    "weeks_attempted": 14,
+    "weeks_included": 14
+  },
+  "opening_vs_archival_movement": {
+    "maximum_absolute_movement": 12.0,
+    "mean_absolute_movement": 1.0136494252873562,
+    "median_absolute_movement": 0.5,
+    "n": 696,
+    "unchanged_count": 304,
+    "unchanged_pct": 43.67816091954023
+  },
+  "season": 2023,
+  "static_vs_weekly": {
+    "maximum_absolute_model_line_change": 98.9,
+    "mean_absolute_model_line_change": 16.387740029542098,
+    "median_absolute_model_line_change": 11.100000000000001,
+    "shared_games": 677,
+    "static_mae": 14.192614475627769,
+    "static_ratings_better": 281,
+    "static_signed_bias": 0.025110782865583426,
+    "static_source_sha256": "cc4c20ae979bc48b159462d67a92bcccd280978a8ae8024445171299adaf0d5f",
+    "static_unavailable_games": 20,
+    "ties": 3,
+    "weekly_mae": 12.468685376661742,
+    "weekly_minus_static_mae": -1.7239290989660265,
+    "weekly_ratings_better": 393,
+    "weekly_signed_bias": -2.437666174298375
+  }
+}

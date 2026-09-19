@@ -1,0 +1,794 @@
+{
+  "Air Force": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 3.9,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Akron": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -23.4,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Alabama": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 30.3,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "App State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 1.7,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Arizona": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -3.2,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Arizona State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -4.1,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Arkansas": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 12.0,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Arkansas State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -13.0,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Army": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -1.5,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Auburn": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 5.1,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "BYU": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -1.4,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Ball State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -14.9,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Baylor": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 11.7,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Boise State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 5.7,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Boston College": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -14.9,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Bowling Green": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -18.1,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Buffalo": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -9.2,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "California": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -3.0,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Central Michigan": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -14.0,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Charlotte": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -16.4,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Cincinnati": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 13.1,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Clemson": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 17.6,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Coastal Carolina": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 0.6,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Colorado": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -20.4,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Colorado State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -22.2,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Duke": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 5.0,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "East Carolina": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 1.1,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Eastern Michigan": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -7.1,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Florida": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 10.4,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Florida Atlantic": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -7.1,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Florida International": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -25.5,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Florida State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 13.2,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Fresno State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 3.3,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Georgia": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 35.3,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Georgia Southern": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -6.4,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Georgia State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -3.3,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Georgia Tech": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -11.8,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Hawai'i": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -24.7,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Houston": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 4.5,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Illinois": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 15.9,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Indiana": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -7.1,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Iowa": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 12.7,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Iowa State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 5.3,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "James Madison": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 6.5,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Kansas": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 2.9,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Kansas State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 21.4,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Kent State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -13.1,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Kentucky": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 13.0,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "LSU": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 16.2,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Liberty": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -1.5,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Louisiana": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 2.0,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Louisiana Tech": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -17.8,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Louisville": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 9.0,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Marshall": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 3.0,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Maryland": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 11.2,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Massachusetts": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -30.3,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Memphis": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 6.8,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Miami": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -2.7,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Miami (OH)": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -12.7,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Michigan": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 32.0,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Michigan State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 1.2,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Middle Tennessee": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -6.9,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Minnesota": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 16.0,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Mississippi State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 15.4,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Missouri": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 8.1,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "NC State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 6.8,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Navy": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -7.2,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Nebraska": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -1.2,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Nevada": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -22.4,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "New Mexico": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -26.9,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "New Mexico State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -15.4,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "North Carolina": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 7.8,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "North Texas": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -1.5,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Northern Illinois": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -18.8,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Northwestern": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -13.4,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Notre Dame": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 10.3,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Ohio": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -4.6,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Ohio State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 31.1,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Oklahoma": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 15.4,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Oklahoma State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 11.3,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Old Dominion": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -13.0,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Ole Miss": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 16.2,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Oregon": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 18.9,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Oregon State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 14.3,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Penn State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 22.4,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Pittsburgh": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 8.6,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Purdue": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 7.7,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Rice": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -15.2,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Rutgers": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -9.1,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "SMU": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 4.7,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "San Diego State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -4.4,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "San José State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -4.3,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "South Alabama": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 10.8,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "South Carolina": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 12.7,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "South Florida": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -17.0,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Southern Miss": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -3.5,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Stanford": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -7.2,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Syracuse": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 2.5,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "TCU": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 24.3,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Temple": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -12.9,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Tennessee": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 25.2,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Texas": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 23.1,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Texas A&M": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 9.1,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Texas State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -11.5,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Texas Tech": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 8.5,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Toledo": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -3.7,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Troy": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 8.1,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Tulane": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 12.4,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Tulsa": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -6.1,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "UAB": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -0.5,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "UCF": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 10.3,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "UCLA": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 15.0,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "UConn": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -14.6,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "UL Monroe": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -15.7,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "UNLV": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -11.9,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "USC": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 18.9,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "UTEP": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -10.7,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "UTSA": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 7.2,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Utah": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 19.2,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Utah State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -13.3,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Vanderbilt": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -4.7,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Virginia": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -9.0,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Virginia Tech": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -9.5,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Wake Forest": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 8.2,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Washington": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 15.7,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Washington State": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 9.5,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "West Virginia": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 2.4,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Western Kentucky": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 1.7,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Western Michigan": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -17.3,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Wisconsin": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 8.3,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "Wyoming": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": -10.8,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  },
+  "nationalAverages": {
+    "notes": "Prior-year rating used for no-lookahead backtest approximation.",
+    "rating": 0.8145038167938932,
+    "source": "CFBD SP+ 2022",
+    "tier": "Historical"
+  }
+}

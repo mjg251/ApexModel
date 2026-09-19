@@ -1,0 +1,20 @@
+{
+  "created_at": "2026-09-19T04:13:00.581538+00:00",
+  "missing_values_inferred": false,
+  "normalized_csv": "normalized.csv",
+  "normalized_file_sha256": "0efc6cbdba3ea854bf62addc84a965ffeed639dd16a44452fcbb0eb0a903ca0b",
+  "published_at": "2023-09-11T00:00:00-04:00",
+  "ratings_sha256": "bc83fce4d238a7416da3aa878da49859a46e9820855dcf57e85be5f0161ee125",
+  "ratings_type": "SP+",
+  "safe_after": "2023-09-11T00:00:00-04:00",
+  "schema_version": 1,
+  "season": 2023,
+  "source": "Bill Connelly public workbook",
+  "source_artifact": "source\\bill_connelly_2023_spplus_public.xlsx",
+  "source_artifact_sha256": "1c2e0d03d3d156c272d03a390a87a50775a78b750eb1b8dc4e3fa51959229a89",
+  "source_label": "Bill Connelly 2023 SP+ FBS week 3",
+  "source_url": "",
+  "sport": "NCAAF",
+  "target_week": 3,
+  "team_count": 133
+}

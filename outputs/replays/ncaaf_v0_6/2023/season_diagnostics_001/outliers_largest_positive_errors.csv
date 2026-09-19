@@ -1,0 +1,21 @@
+week,event_id,away_team,home_team,away_spplus,home_spplus,model_margin,archival_dk_home_spread,actual_home_margin,signed_error_projected_minus_actual,absolute_error,recommendation,actionability
+12,401531919,Texas State,Arkansas State,,,93.2,3.5,46.0,47.2,47.2,Lean,Review Only
+11,401525892,Oklahoma State,UCF,,"{'rating': 4.7, 'source': 'Bill Connelly 2023 SP+ FBS week 11', 'tier': 'Historical weekly SP+ snapshot', 'notes': 'Replay snapshot a18a4c11865c target week 11'}",84.8,2.5,42.0,42.8,42.8,Watch,Review Only
+7,401531420,Florida Atlantic,South Florida,,,-0.5,2.5,-42.0,41.5,41.5,Lean,Review Only
+11,401520380,Auburn,Arkansas,"{'rating': 6.7, 'source': 'Bill Connelly 2023 SP+ FBS week 11', 'tier': 'Historical weekly SP+ snapshot', 'notes': 'Replay snapshot a18a4c11865c target week 11'}","{'rating': 4.0, 'source': 'Bill Connelly 2023 SP+ FBS week 11', 'tier': 'Historical weekly SP+ snapshot', 'notes': 'Replay snapshot a18a4c11865c target week 11'}",-0.20000000000000284,3.0,-38.0,37.8,37.8,Lean,Review Only
+6,401531885,South Alabama,UL Monroe,,,-11.100000000000001,-10.0,-48.0,36.9,36.9,Watch,Review Only
+10,401524049,Arizona State,Utah,,"{'rating': 10.7, 'source': 'Bill Connelly 2023 SP+ FBS week 10', 'tier': 'Historical weekly SP+ snapshot', 'notes': 'Replay snapshot 6055d0893b9a target week 10'}",86.7,-11.0,52.0,34.7,34.7,Value,Review Only
+12,401524057,Colorado,Washington State,"{'rating': -4.5, 'source': 'Bill Connelly 2023 SP+ FBS week 12', 'tier': 'Historical weekly SP+ snapshot', 'notes': 'Replay snapshot bc0c0a72b147 target week 12'}",,75.5,-5.5,42.0,33.5,33.5,Lean,Review Only
+8,401531892,Southern Miss,South Alabama,,,85.4,-17.0,52.0,33.4,33.4,Watch,Review Only
+12,401520404,New Mexico State,Auburn,,"{'rating': 8.7, 'source': 'Bill Connelly 2023 SP+ FBS week 12', 'tier': 'Historical weekly SP+ snapshot', 'notes': 'Replay snapshot bc0c0a72b147 target week 12'}",11.899999999999999,22.0,-21.0,32.9,32.9,Value,Guarded / Other
+13,401525901,Texas Tech,Texas,"{'rating': 5.8, 'source': 'Bill Connelly 2023 SP+ FBS week 13', 'tier': 'Historical weekly SP+ snapshot', 'notes': 'Replay snapshot 1116bf386f70 target week 13'}","{'rating': 21.0, 'source': 'Bill Connelly 2023 SP+ FBS week 13', 'tier': 'Historical weekly SP+ snapshot', 'notes': 'Replay snapshot 1116bf386f70 target week 13'}",82.3,-13.5,50.0,32.3,32.3,Value,Review Only
+12,401532622,New Mexico,Fresno State,"{'rating': -19.1, 'source': 'Bill Connelly 2023 SP+ FBS week 12', 'tier': 'Historical weekly SP+ snapshot', 'notes': 'Replay snapshot bc0c0a72b147 target week 12'}",,24.0,24.0,-8.0,32.0,32.0,No Play,Guarded / Other
+13,401525564,Virginia Tech,Virginia,,"{'rating': -9.5, 'source': 'Bill Connelly 2023 SP+ FBS week 13', 'tier': 'Historical weekly SP+ snapshot', 'notes': 'Replay snapshot 1116bf386f70 target week 13'}",-8.2,-2.5,-38.0,29.8,29.8,Value,Review Only
+5,401525515,Bowling Green,Georgia Tech,,,18.7,22.0,-11.0,29.7,29.7,Lean,Review Only
+11,401531913,App State,Georgia State,,,1.0,2.0,-28.0,29.0,29.0,Watch,Review Only
+1,401523991,California,North Texas,"{'rating': 1.8, 'source': 'Bill Connelly 2023 SP+ FBS week 1', 'tier': 'Historical weekly SP+ snapshot', 'notes': 'Replay snapshot de7ac68ce130 target week 1'}",,-8.100000000000001,-6.5,-37.0,28.9,28.9,Watch,Review Only
+8,401525531,Virginia,North Carolina,"{'rating': -5.3, 'source': 'Bill Connelly 2023 SP+ FBS week 8', 'tier': 'Historical weekly SP+ snapshot', 'notes': 'Replay snapshot 61660a405234 target week 8'}",,23.6,24.0,-4.0,27.6,27.6,No Play,Guarded / Other
+10,401525542,Georgia Tech,Virginia,,"{'rating': -5.2, 'source': 'Bill Connelly 2023 SP+ FBS week 10', 'tier': 'Historical weekly SP+ snapshot', 'notes': 'Replay snapshot 6055d0893b9a target week 10'}",-0.3999999999999986,2.0,-28.0,27.6,27.6,Lean,Review Only
+12,401532619,Boise State,Utah State,,,-7.699999999999999,-4.0,-35.0,27.3,27.3,Lean,Review Only
+11,401525547,Virginia Tech,Boston College,,,0.5,2.5,-26.0,26.5,26.5,Lean,Review Only
+11,401520396,Vanderbilt,South Carolina,"{'rating': -11.0, 'source': 'Bill Connelly 2023 SP+ FBS week 11', 'tier': 'Historical weekly SP+ snapshot', 'notes': 'Replay snapshot a18a4c11865c target week 11'}",,66.5,-14.0,41.0,25.5,25.5,Watch,Review Only

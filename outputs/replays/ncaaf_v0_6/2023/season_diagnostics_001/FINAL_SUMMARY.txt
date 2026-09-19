@@ -1,0 +1,16 @@
+2023 Season Integrity: PASS
+Games considered / modeled / excluded: 703 / 697 / 6
+Projection / temporal / identity / result: 697/697 | 697/697 | 697/697 | 697/697
+Model MAE: 12.40
+Median AE: 10.40
+RMSE: 15.46
+Home-margin bias: -2.50
+Within 3 / 7 / 10 / 14: 13.34% / 34.29% / 48.49% / 64.28%
+Archival DK MAE: 12.03
+Model Better / Market Better / Tie: 321 / 369 / 7
+Static shared games: 677
+Static MAE / Weekly MAE: 14.19 / 12.47
+Week 9-14 corrected source SP+: PASS
+2025 inspected: False
+Production state touched: False
+Packet: C:\Projects\ApexModel\outputs\replays\ncaaf_v0_6\2023\season_diagnostics_001
