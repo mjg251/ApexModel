@@ -22,7 +22,7 @@ CFBD_BASE_URL = "https://api.collegefootballdata.com"
 
 SEASON = 2026
 MODEL_VERSION = "v0.6"
-EXPECTED_TEAM_COUNT = 139
+EXPECTED_TEAM_COUNT = 138
 
 
 def get_api_key() -> str:
@@ -172,12 +172,25 @@ def resolve_target_week(
         )
 
         if index + 1 < len(regular):
+            next_row = regular[index + 1]
+
             next_start = parse_cfbd_datetime(
-                regular[index + 1]["startDate"]
+                next_row["startDate"]
             )
 
             if start <= now < next_start:
-                return row
+                next_week = int(next_row["week"])
+
+                try:
+                    verify_previous_week_complete(
+                        next_week
+                    )
+                except RuntimeError as error:
+                    if "is not fully complete" in str(error):
+                        return row
+                    raise
+
+                return next_row
 
         else:
             end = parse_cfbd_datetime(
@@ -361,6 +374,16 @@ def build_output_rows(
     source_rows: list[dict],
     target_week: int,
 ) -> list[dict]:
+    # CFBD includes a nationalAverages pseudo-record.
+    # Production ratings contain actual FBS teams only.
+    source_rows = [
+        row
+        for row in source_rows
+        if str(
+            row.get("team", "")
+        ).strip() != "nationalAverages"
+    ]
+
     if len(source_rows) != EXPECTED_TEAM_COUNT:
         raise RuntimeError(
             f"Expected {EXPECTED_TEAM_COUNT} CFBD SP+ rows "
@@ -454,6 +477,16 @@ def validate_rating_file(
         rows = list(
             csv.DictReader(file)
         )
+
+    # Accept legacy snapshots that still contain the
+    # CFBD nationalAverages pseudo-row. It is not an FBS team.
+    rows = [
+        row
+        for row in rows
+        if str(
+            row.get("team", "")
+        ).strip() != "nationalAverages"
+    ]
 
     if len(rows) != EXPECTED_TEAM_COUNT:
         raise RuntimeError(
@@ -786,6 +819,61 @@ def main() -> None:
         )
 
     source_rows = fetch_sp_ratings()
+
+    if not args.dry_run and META_PATH.exists():
+        try:
+            existing_metadata = json.loads(
+                META_PATH.read_text(
+                    encoding="utf-8"
+                )
+            )
+        except (
+            OSError,
+            json.JSONDecodeError,
+            TypeError,
+        ):
+            existing_metadata = {}
+
+        existing_source_hash = (
+            existing_metadata.get(
+                "source_payload_sha256"
+            )
+        )
+
+        fetched_source_hash = (
+            source_payload_sha256(
+                source_rows
+            )
+        )
+
+        try:
+            existing_target_week = int(
+                existing_metadata.get(
+                    "target_week"
+                )
+            )
+        except (TypeError, ValueError):
+            existing_target_week = None
+
+        if (
+            existing_source_hash
+            and existing_source_hash
+            == fetched_source_hash
+            and existing_target_week is not None
+            and existing_target_week < target_week
+        ):
+            print(
+                "CFBD SP+ has not published a new "
+                "ratings snapshot yet."
+            )
+            print(
+                f"Keeping validated Week "
+                f"{existing_target_week} ratings."
+            )
+            print(
+                f"Reusing: {OUTPUT_PATH}"
+            )
+            return
 
     output_rows = build_output_rows(
         source_rows=source_rows,
