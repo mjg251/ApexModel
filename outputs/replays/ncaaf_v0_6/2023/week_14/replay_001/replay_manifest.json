@@ -1,0 +1,70 @@
+{
+  "apexmodel_git_commit": "688c88254a98f78bbb2cbdea704baea7d6fc7bff",
+  "artifact_type": "isolated_ncaaf_v0_6_historical_replay",
+  "created_at": "2026-09-19T04:31:46.559849+00:00",
+  "exclusion_counts": {},
+  "games_considered": 10,
+  "games_excluded": 0,
+  "games_modeled": 10,
+  "holdout_policy": {
+    "development_seasons": [
+      2022,
+      2023,
+      2024
+    ],
+    "forward_validation": "2026+",
+    "historical_holdout": 2025,
+    "holdout_requires_explicit_unlock": true
+  },
+  "inputs": {
+    "eligibility": {
+      "copied_path": "inputs\\2023.csv",
+      "original_path": "C:\\Projects\\ApexModel\\data\\replays\\ncaaf_v0_6\\eligibility\\2023.csv",
+      "sha256": "1636e5372cafa911e0be0f313113fb2ba953abc7f994278d963ccee66778bb96"
+    },
+    "games_lines": {
+      "copied_path": "inputs\\week_14_draftkings.csv",
+      "original_path": "C:\\Projects\\ApexModel\\data\\replays\\ncaaf_v0_6\\games_lines\\2023\\week_14_draftkings.csv",
+      "sha256": "9ce7081486eb6d2c93f0e6a5f6def7a51dbff8b2e13cd1437113c4281177ccef"
+    },
+    "ratings": {
+      "copied_path": "inputs\\normalized.csv",
+      "original_path": "C:\\Projects\\ApexModel\\data\\replays\\ncaaf_v0_6\\ratings\\2023\\week_14\\normalized.csv",
+      "sha256": "5a91f36bad3eb746349135912bdba123448731bcce242448f188dd8a6f34964f"
+    }
+  },
+  "line_source": [
+    "CFBD /lines archival DraftKings"
+  ],
+  "mode": "development",
+  "model_version": "NCAAF v0.6 frozen production logic",
+  "outputs": {
+    "exclusions_csv": "exclusions.csv",
+    "exclusions_sha256": "cd3c7f25592d2080cb0a16fa29400a6ea001a7c10524ba3cbbd128d855e0cf86",
+    "rows_csv": "rows.csv",
+    "rows_sha256": "f41da5110269c0b1a3780508fd1864f30b4aa545d2d04ebeff9c4d8fb8bfb9a6"
+  },
+  "production_code_sha256": "943a78d33262da5cfec4b3490cf62ed35b839a1a424a2fe5f33bb23d27f8931b",
+  "production_data_touched": false,
+  "production_database_written": false,
+  "production_model_version_string": "NCAAF Spread Model v0.6 Backtested Edge Window",
+  "production_ratings_updater_invoked": false,
+  "production_script": "scripts/project_ncaaf_from_apex.py",
+  "provider": "DraftKings",
+  "ratings": {
+    "published_at": "2023-11-27T00:00:00-05:00",
+    "ratings_sha256": "454e7b15db5f7b92ec4f384c0313bfefa8b1b086672aae71986b28a77aa644ed",
+    "safe_after": "2023-11-27T00:00:00-05:00",
+    "season": 2023,
+    "source": "Bill Connelly public workbook",
+    "source_label": "Bill Connelly 2023 SP+ FBS week 14",
+    "source_url": "",
+    "target_week": 14,
+    "team_count": 133
+  },
+  "replay_as_of": "2023-11-27T00:00:00-05:00",
+  "sample_model_edges_written": false,
+  "schema_version": 1,
+  "season": 2023,
+  "week": 14
+}

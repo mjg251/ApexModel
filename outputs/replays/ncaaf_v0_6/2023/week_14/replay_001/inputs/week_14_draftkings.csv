@@ -1,0 +1,11 @@
+event_id,season,week,kickoff,home_team,away_team,provider,home_spread,home_spread_price,away_spread_price,opening_home_spread,home_score,away_score,line_source
+401539476,2023,14,2023-12-02T00:00:00.000Z,Liberty,New Mexico State,DraftKings,-10.5,,,-10.5,49,35,CFBD /lines archival DraftKings
+401539475,2023,14,2023-12-02T01:00:00.000Z,Washington,Oregon,DraftKings,9,,,9,34,31,CFBD /lines archival DraftKings
+401539479,2023,14,2023-12-02T17:00:00.000Z,Texas,Oklahoma State,DraftKings,-14,,,-14,49,21,CFBD /lines archival DraftKings
+401539481,2023,14,2023-12-02T17:00:00.000Z,Toledo,Miami (OH),DraftKings,-8.5,,,-8.5,14,23,CFBD /lines archival DraftKings
+401539482,2023,14,2023-12-02T20:00:00.000Z,UNLV,Boise State,DraftKings,2.5,,,2.5,20,44,CFBD /lines archival DraftKings
+401539477,2023,14,2023-12-02T21:00:00.000Z,Tulane,SMU,DraftKings,-4,,,-4,14,26,CFBD /lines archival DraftKings
+401539483,2023,14,2023-12-02T21:00:00.000Z,Alabama,Georgia,DraftKings,5,,,5,27,24,CFBD /lines archival DraftKings
+401539484,2023,14,2023-12-02T21:00:00.000Z,Troy,App State,DraftKings,-6.5,,,-6.5,49,23,CFBD /lines archival DraftKings
+401539478,2023,14,2023-12-03T01:00:00.000Z,Florida State,Louisville,DraftKings,-3.5,,,-3.5,16,6,CFBD /lines archival DraftKings
+401539480,2023,14,2023-12-03T01:00:00.000Z,Iowa,Michigan,DraftKings,23.5,,,23.5,0,26,CFBD /lines archival DraftKings

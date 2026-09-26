@@ -1,0 +1,57 @@
+event_id,season,week,kickoff,home_team,away_team,provider,home_spread,home_spread_price,away_spread_price,opening_home_spread,home_score,away_score,line_source
+401520277,2023,5,2023-09-28T23:30:00.000Z,Western Kentucky,Middle Tennessee,DraftKings,-7,,,-5.5,31,10,CFBD /lines archival DraftKings
+401531339,2023,5,2023-09-28T23:30:00.000Z,Tulsa,Temple,DraftKings,-3,,,-3.5,48,26,CFBD /lines archival DraftKings
+401520276,2023,5,2023-09-29T00:00:00.000Z,Sam Houston,Jacksonville State,DraftKings,6.5,,,6.5,28,35,CFBD /lines archival DraftKings
+401525512,2023,5,2023-09-29T23:00:00.000Z,NC State,Louisville,DraftKings,3.5,,,3.5,10,13,CFBD /lines archival DraftKings
+401520278,2023,5,2023-09-30T01:00:00.000Z,UTEP,Louisiana Tech,DraftKings,-1,,,-1,10,24,CFBD /lines archival DraftKings
+401524020,2023,5,2023-09-30T01:00:00.000Z,Oregon State,Utah,DraftKings,-3.5,,,-2.5,21,7,CFBD /lines archival DraftKings
+401525851,2023,5,2023-09-30T02:15:00.000Z,BYU,Cincinnati,DraftKings,2,,,-2.5,35,27,CFBD /lines archival DraftKings
+401520279,2023,5,2023-09-30T16:00:00.000Z,Arkansas,Texas A&M,DraftKings,6,,,4,22,34,CFBD /lines archival DraftKings
+401520282,2023,5,2023-09-30T16:00:00.000Z,Kentucky,Florida,DraftKings,-1.5,,,-3.5,33,14,CFBD /lines archival DraftKings
+401520284,2023,5,2023-09-30T16:00:00.000Z,Minnesota,Louisiana,DraftKings,-11,,,-12.5,35,24,CFBD /lines archival DraftKings
+401520287,2023,5,2023-09-30T16:00:00.000Z,Northwestern,Penn State,DraftKings,27,,,25.5,13,41,CFBD /lines archival DraftKings
+401520292,2023,5,2023-09-30T16:00:00.000Z,UConn,Utah State,DraftKings,6,,,4.5,33,34,CFBD /lines archival DraftKings
+401524023,2023,5,2023-09-30T16:00:00.000Z,Colorado,USC,DraftKings,21.5,,,17,41,48,CFBD /lines archival DraftKings
+401525514,2023,5,2023-09-30T16:00:00.000Z,Syracuse,Clemson,DraftKings,6.5,,,9,14,31,CFBD /lines archival DraftKings
+401531370,2023,5,2023-09-30T16:00:00.000Z,Tulane,UAB,DraftKings,-21.5,,,-21,35,23,CFBD /lines archival DraftKings
+401531880,2023,5,2023-09-30T16:00:00.000Z,James Madison,South Alabama,DraftKings,-3,,,-1,31,23,CFBD /lines archival DraftKings
+401532412,2023,5,2023-09-30T16:00:00.000Z,Akron,Buffalo,DraftKings,-2.5,,,-2.5,10,13,CFBD /lines archival DraftKings
+401532410,2023,5,2023-09-30T17:30:00.000Z,Central Michigan,Eastern Michigan,DraftKings,-7.5,,,-7.5,26,23,CFBD /lines archival DraftKings
+401525513,2023,5,2023-09-30T18:00:00.000Z,Boston College,Virginia,DraftKings,-3.5,,,-3,27,24,CFBD /lines archival DraftKings
+401532413,2023,5,2023-09-30T18:30:00.000Z,Kent State,Miami (OH),DraftKings,14.5,,,15.5,3,23,CFBD /lines archival DraftKings
+401524022,2023,5,2023-09-30T19:00:00.000Z,California,Arizona State,DraftKings,-12.5,,,-12,24,21,CFBD /lines archival DraftKings
+401520280,2023,5,2023-09-30T19:30:00.000Z,Auburn,Georgia,DraftKings,14,,,18.5,20,27,CFBD /lines archival DraftKings
+401520283,2023,5,2023-09-30T19:30:00.000Z,Maryland,Indiana,DraftKings,-14,,,-14,44,17,CFBD /lines archival DraftKings
+401520286,2023,5,2023-09-30T19:30:00.000Z,Nebraska,Michigan,DraftKings,17,,,18,7,45,CFBD /lines archival DraftKings
+401520289,2023,5,2023-09-30T19:30:00.000Z,Purdue,Illinois,DraftKings,-1,,,-1,44,19,CFBD /lines archival DraftKings
+401525515,2023,5,2023-09-30T19:30:00.000Z,Georgia Tech,Bowling Green,DraftKings,-22,,,-22,27,38,CFBD /lines archival DraftKings
+401525854,2023,5,2023-09-30T19:30:00.000Z,Texas,Kansas,DraftKings,-16.5,,,-18,40,14,CFBD /lines archival DraftKings
+401525855,2023,5,2023-09-30T19:30:00.000Z,Texas Tech,Houston,DraftKings,-8.5,,,-10,49,28,CFBD /lines archival DraftKings
+401525856,2023,5,2023-09-30T19:30:00.000Z,UCF,Baylor,DraftKings,-12.5,,,-11.5,35,36,CFBD /lines archival DraftKings
+401526836,2023,5,2023-09-30T19:30:00.000Z,Massachusetts,Arkansas State,DraftKings,-1,,,-1,28,52,CFBD /lines archival DraftKings
+401531424,2023,5,2023-09-30T19:30:00.000Z,Navy,South Florida,DraftKings,-3,,,-4,30,44,CFBD /lines archival DraftKings
+401531881,2023,5,2023-09-30T19:30:00.000Z,Marshall,Old Dominion,DraftKings,-14,,,-14,41,35,CFBD /lines archival DraftKings
+401532409,2023,5,2023-09-30T19:30:00.000Z,Western Michigan,Ball State,DraftKings,-1.5,,,-1,42,24,CFBD /lines archival DraftKings
+401532411,2023,5,2023-09-30T19:30:00.000Z,Toledo,Northern Illinois,DraftKings,-13,,,-12.5,35,33,CFBD /lines archival DraftKings
+401520293,2023,5,2023-09-30T20:00:00.000Z,Vanderbilt,Missouri,DraftKings,13.5,,,13.5,21,38,CFBD /lines archival DraftKings
+401531429,2023,5,2023-09-30T20:00:00.000Z,Memphis,Boise State,DraftKings,-3.5,,,-3.5,35,32,CFBD /lines archival DraftKings
+401532586,2023,5,2023-09-30T20:00:00.000Z,UNLV,Hawai'i,DraftKings,-11,,,-11,44,20,CFBD /lines archival DraftKings
+401532588,2023,5,2023-09-30T20:00:00.000Z,Wyoming,New Mexico,DraftKings,-14,,,-14.5,35,26,CFBD /lines archival DraftKings
+401520288,2023,5,2023-09-30T22:00:00.000Z,Ole Miss,LSU,DraftKings,2.5,,,4.5,55,49,CFBD /lines archival DraftKings
+401524024,2023,5,2023-09-30T22:30:00.000Z,Stanford,Oregon,DraftKings,27,,,27,6,42,CFBD /lines archival DraftKings
+401525852,2023,5,2023-09-30T23:00:00.000Z,Oklahoma,Iowa State,DraftKings,-20,,,-20,50,20,CFBD /lines archival DraftKings
+401531414,2023,5,2023-09-30T23:00:00.000Z,Rice,East Carolina,DraftKings,-3.5,,,-3,24,17,CFBD /lines archival DraftKings
+401531878,2023,5,2023-09-30T23:00:00.000Z,Georgia Southern,Coastal Carolina,DraftKings,-6.5,,,-6.5,38,28,CFBD /lines archival DraftKings
+401531879,2023,5,2023-09-30T23:00:00.000Z,Georgia State,Troy,DraftKings,-1.5,,,-1.5,7,28,CFBD /lines archival DraftKings
+401531883,2023,5,2023-09-30T23:00:00.000Z,Southern Miss,Texas State,DraftKings,5,,,7,36,50,CFBD /lines archival DraftKings
+401520281,2023,5,2023-09-30T23:30:00.000Z,Iowa,Michigan State,DraftKings,-12.5,,,-11.5,26,16,CFBD /lines archival DraftKings
+401520291,2023,5,2023-09-30T23:30:00.000Z,Tennessee,South Carolina,DraftKings,-12.5,,,-13,41,20,CFBD /lines archival DraftKings
+401525438,2023,5,2023-09-30T23:30:00.000Z,Duke,Notre Dame,DraftKings,5.5,,,6.5,14,21,CFBD /lines archival DraftKings
+401531404,2023,5,2023-09-30T23:30:00.000Z,SMU,Charlotte,DraftKings,-23.5,,,-23,34,16,CFBD /lines archival DraftKings
+401525516,2023,5,2023-10-01T00:00:00.000Z,Virginia Tech,Pittsburgh,DraftKings,2.5,,,2.5,38,21,CFBD /lines archival DraftKings
+401525853,2023,5,2023-10-01T00:00:00.000Z,TCU,West Virginia,DraftKings,-12.5,,,-10.5,21,24,CFBD /lines archival DraftKings
+401531882,2023,5,2023-10-01T00:00:00.000Z,UL Monroe,App State,DraftKings,13.5,,,13.5,40,41,CFBD /lines archival DraftKings
+401532589,2023,5,2023-10-01T00:00:00.000Z,Air Force,San Diego State,DraftKings,-10.5,,,-10.5,49,10,CFBD /lines archival DraftKings
+401520285,2023,5,2023-10-01T01:00:00.000Z,Mississippi State,Alabama,DraftKings,14.5,,,11.5,17,40,CFBD /lines archival DraftKings
+401524021,2023,5,2023-10-01T02:00:00.000Z,Arizona,Washington,DraftKings,20,,,18,24,31,CFBD /lines archival DraftKings
+401532587,2023,5,2023-10-01T02:30:00.000Z,Fresno State,Nevada,DraftKings,-24.5,,,-24.5,27,9,CFBD /lines archival DraftKings

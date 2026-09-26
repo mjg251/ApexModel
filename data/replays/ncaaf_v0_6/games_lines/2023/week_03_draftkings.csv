@@ -1,0 +1,11 @@
+event_id,season,week,kickoff,home_team,away_team,provider,home_spread,home_spread_price,away_spread_price,opening_home_spread,home_score,away_score,line_source
+401520226,2023,3,2023-09-16T16:00:00.000Z,Illinois,Penn State,DraftKings,12.5,,,12.5,13,30,CFBD /lines archival DraftKings
+401520235,2023,3,2023-09-16T16:00:00.000Z,Mississippi State,LSU,DraftKings,7.5,,,9,14,41,CFBD /lines archival DraftKings
+401520236,2023,3,2023-09-16T16:00:00.000Z,Missouri,Kansas State,DraftKings,2,,,2,30,27,CFBD /lines archival DraftKings
+401520225,2023,3,2023-09-16T19:30:00.000Z,Georgia,South Carolina,DraftKings,-24.5,,,-24,24,14,CFBD /lines archival DraftKings
+401520239,2023,3,2023-09-16T19:30:00.000Z,North Carolina,Minnesota,DraftKings,-6,,,-6,31,13,CFBD /lines archival DraftKings
+401520233,2023,3,2023-09-16T21:00:00.000Z,Michigan State,Washington,DraftKings,15,,,12,7,41,CFBD /lines archival DraftKings
+401520224,2023,3,2023-09-16T23:00:00.000Z,Florida,Tennessee,DraftKings,7,,,7.5,29,16,CFBD /lines archival DraftKings
+401531848,2023,3,2023-09-16T23:00:00.000Z,Troy,James Madison,DraftKings,-3.5,,,-3.5,14,16,CFBD /lines archival DraftKings
+401525503,2023,3,2023-09-16T23:30:00.000Z,West Virginia,Pittsburgh,DraftKings,2,,,2,17,6,CFBD /lines archival DraftKings
+401524007,2023,3,2023-09-17T02:00:00.000Z,Colorado,Colorado State,DraftKings,-17,,,-17,43,35,CFBD /lines archival DraftKings
