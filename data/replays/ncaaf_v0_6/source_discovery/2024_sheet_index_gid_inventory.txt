@@ -1,0 +1,693 @@
+2024 ARCHIVED SP+ ? INDEX/GID WORKBOOK INVENTORY
+==============================================================================
+
+2025 inspected: False
+Production touched: False
+v0.6 modified: False
+Replay snapshots created: False
+
+==============================================================================
+REPLAY WEEK 10 ? CAPTURE 20241031135820
+==============================================================================
+Tab captions: 52
+Indexed gids: 52
+Indices contiguous 0..N-1: True
+Unique gids: True
+ORDER MAPPING VALID: True
+Selected URL gid: 1276709664
+Selected gid maps to: FCS Week 9
+
+FBS / TARGET-WEEK WORKSHEETS
+  idx= 2 | gid=1955033981   | FBS Week 10            | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 3 | gid=1579904956   | FCS Week 10            | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 4 | gid=853906791    | D2 Week 10             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 5 | gid=889494341    | D3 Week 10             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 6 | gid=1272882098   | NAIA Week 10           | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 7 | gid=2008813530   | FBS Week 9             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 8 | gid=1276709664   | FCS Week 9             | FCS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 9 | gid=456507898    | D2 Week 9              | D2    | dims=unknown      | hidden=None | block=193 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=10 | gid=6761254      | D3 Week 9              | D3    | dims=unknown      | hidden=None | block=192 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=11 | gid=2121746798   | NAIA Week 9            | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=12 | gid=256409987    | FBS Week 8             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=17 | gid=986487540    | FBS Week 7             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=22 | gid=222761766    | FBS Week 6             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=27 | gid=247747115    | FBS Week 5             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=32 | gid=258607518    | FBS Week 4             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=37 | gid=949307708    | FBS Week 3             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=42 | gid=1562968460   | FBS Week 2             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=47 | gid=1989598626   | FBS Week 1             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=48 | gid=108006790    | FBS Week 0             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+
+==============================================================================
+REPLAY WEEK 10 ? CAPTURE 20241031151712
+==============================================================================
+Tab captions: 52
+Indexed gids: 52
+Indices contiguous 0..N-1: True
+Unique gids: True
+ORDER MAPPING VALID: True
+Selected URL gid: 1955033981
+Selected gid maps to: FBS Week 10
+
+FBS / TARGET-WEEK WORKSHEETS
+  idx= 2 | gid=1955033981   | FBS Week 10            | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 3 | gid=1579904956   | FCS Week 10            | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 4 | gid=853906791    | D2 Week 10             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 5 | gid=889494341    | D3 Week 10             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 6 | gid=1272882098   | NAIA Week 10           | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 7 | gid=2008813530   | FBS Week 9             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 8 | gid=1276709664   | FCS Week 9             | FCS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 9 | gid=456507898    | D2 Week 9              | D2    | dims=unknown      | hidden=None | block=193 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=10 | gid=6761254      | D3 Week 9              | D3    | dims=unknown      | hidden=None | block=192 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=11 | gid=2121746798   | NAIA Week 9            | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=12 | gid=256409987    | FBS Week 8             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=17 | gid=986487540    | FBS Week 7             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=22 | gid=222761766    | FBS Week 6             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=27 | gid=247747115    | FBS Week 5             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=32 | gid=258607518    | FBS Week 4             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=37 | gid=949307708    | FBS Week 3             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=42 | gid=1562968460   | FBS Week 2             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=47 | gid=1989598626   | FBS Week 1             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=48 | gid=108006790    | FBS Week 0             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+
+==============================================================================
+REPLAY WEEK 10 ? CAPTURE 20241102144541
+==============================================================================
+Tab captions: 52
+Indexed gids: 52
+Indices contiguous 0..N-1: True
+Unique gids: True
+ORDER MAPPING VALID: True
+Selected URL gid: 2008813530
+Selected gid maps to: FBS Week 9
+
+FBS / TARGET-WEEK WORKSHEETS
+  idx= 2 | gid=1955033981   | FBS Week 10            | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 3 | gid=1579904956   | FCS Week 10            | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 4 | gid=853906791    | D2 Week 10             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 5 | gid=889494341    | D3 Week 10             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 6 | gid=1272882098   | NAIA Week 10           | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 7 | gid=2008813530   | FBS Week 9             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 8 | gid=1276709664   | FCS Week 9             | FCS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 9 | gid=456507898    | D2 Week 9              | D2    | dims=unknown      | hidden=None | block=193 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=10 | gid=6761254      | D3 Week 9              | D3    | dims=unknown      | hidden=None | block=192 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=11 | gid=2121746798   | NAIA Week 9            | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=12 | gid=256409987    | FBS Week 8             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=17 | gid=986487540    | FBS Week 7             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=22 | gid=222761766    | FBS Week 6             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=27 | gid=247747115    | FBS Week 5             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=32 | gid=258607518    | FBS Week 4             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=37 | gid=949307708    | FBS Week 3             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=42 | gid=1562968460   | FBS Week 2             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=47 | gid=1989598626   | FBS Week 1             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=48 | gid=108006790    | FBS Week 0             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+
+==============================================================================
+REPLAY WEEK 12 ? CAPTURE 20241113195905
+==============================================================================
+Tab captions: 62
+Indexed gids: 62
+Indices contiguous 0..N-1: True
+Unique gids: True
+ORDER MAPPING VALID: True
+Selected URL gid: 1547561979
+Selected gid maps to: postgame win expectancy
+
+FBS / TARGET-WEEK WORKSHEETS
+  idx= 2 | gid=168123984    | FBS Week 12            | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 3 | gid=2086195576   | FCS Week 12            | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 4 | gid=861587089    | D2 Week 12             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 5 | gid=833655605    | D3 Week 12             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 6 | gid=1705974904   | NAIA Week 12           | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 7 | gid=1299304903   | FBS Week 11            | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 8 | gid=816165128    | FCS Week 11            | FCS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 9 | gid=993371330    | D2 Week 11             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=10 | gid=27749595     | D3 Week 11             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=11 | gid=295622913    | NAIA Week 11           | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=12 | gid=1955033981   | FBS Week 10            | FBS   | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=13 | gid=1579904956   | FCS Week 10            | FCS   | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=14 | gid=853906791    | D2 Week 10             | D2    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=15 | gid=889494341    | D3 Week 10             | D3    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=16 | gid=1272882098   | NAIA Week 10           | NAIA  | dims=unknown      | hidden=None | block=198 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=17 | gid=2008813530   | FBS Week 9             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=18 | gid=1276709664   | FCS Week 9             | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=19 | gid=456507898    | D2 Week 9              | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=20 | gid=6761254      | D3 Week 9              | D3    | dims=unknown      | hidden=None | block=192 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=21 | gid=2121746798   | NAIA Week 9            | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=22 | gid=256409987    | FBS Week 8             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=27 | gid=986487540    | FBS Week 7             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=32 | gid=222761766    | FBS Week 6             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=37 | gid=247747115    | FBS Week 5             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=42 | gid=258607518    | FBS Week 4             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=47 | gid=949307708    | FBS Week 3             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=52 | gid=1562968460   | FBS Week 2             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=57 | gid=1989598626   | FBS Week 1             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=58 | gid=108006790    | FBS Week 0             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+
+==============================================================================
+REPLAY WEEK 12 ? CAPTURE 20241115073637
+==============================================================================
+Tab captions: 62
+Indexed gids: 62
+Indices contiguous 0..N-1: True
+Unique gids: True
+ORDER MAPPING VALID: True
+Selected URL gid: 1562968460
+Selected gid maps to: FBS Week 2
+
+FBS / TARGET-WEEK WORKSHEETS
+  idx= 2 | gid=168123984    | FBS Week 12            | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 3 | gid=2086195576   | FCS Week 12            | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 4 | gid=861587089    | D2 Week 12             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 5 | gid=833655605    | D3 Week 12             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 6 | gid=1705974904   | NAIA Week 12           | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 7 | gid=1299304903   | FBS Week 11            | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 8 | gid=816165128    | FCS Week 11            | FCS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 9 | gid=993371330    | D2 Week 11             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=10 | gid=27749595     | D3 Week 11             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=11 | gid=295622913    | NAIA Week 11           | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=12 | gid=1955033981   | FBS Week 10            | FBS   | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=13 | gid=1579904956   | FCS Week 10            | FCS   | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=14 | gid=853906791    | D2 Week 10             | D2    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=15 | gid=889494341    | D3 Week 10             | D3    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=16 | gid=1272882098   | NAIA Week 10           | NAIA  | dims=unknown      | hidden=None | block=198 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=17 | gid=2008813530   | FBS Week 9             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=18 | gid=1276709664   | FCS Week 9             | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=19 | gid=456507898    | D2 Week 9              | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=20 | gid=6761254      | D3 Week 9              | D3    | dims=unknown      | hidden=None | block=192 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=21 | gid=2121746798   | NAIA Week 9            | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=22 | gid=256409987    | FBS Week 8             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=27 | gid=986487540    | FBS Week 7             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=32 | gid=222761766    | FBS Week 6             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=37 | gid=247747115    | FBS Week 5             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=42 | gid=258607518    | FBS Week 4             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=47 | gid=949307708    | FBS Week 3             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=52 | gid=1562968460   | FBS Week 2             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=57 | gid=1989598626   | FBS Week 1             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=58 | gid=108006790    | FBS Week 0             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+
+==============================================================================
+REPLAY WEEK 12 ? CAPTURE 20241114001200
+==============================================================================
+Tab captions: 62
+Indexed gids: 62
+Indices contiguous 0..N-1: True
+Unique gids: True
+ORDER MAPPING VALID: True
+Selected URL gid: 1669636007
+Selected gid maps to: FCS Week 8
+
+FBS / TARGET-WEEK WORKSHEETS
+  idx= 2 | gid=168123984    | FBS Week 12            | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 3 | gid=2086195576   | FCS Week 12            | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 4 | gid=861587089    | D2 Week 12             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 5 | gid=833655605    | D3 Week 12             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 6 | gid=1705974904   | NAIA Week 12           | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 7 | gid=1299304903   | FBS Week 11            | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 8 | gid=816165128    | FCS Week 11            | FCS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 9 | gid=993371330    | D2 Week 11             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=10 | gid=27749595     | D3 Week 11             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=11 | gid=295622913    | NAIA Week 11           | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=12 | gid=1955033981   | FBS Week 10            | FBS   | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=13 | gid=1579904956   | FCS Week 10            | FCS   | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=14 | gid=853906791    | D2 Week 10             | D2    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=15 | gid=889494341    | D3 Week 10             | D3    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=16 | gid=1272882098   | NAIA Week 10           | NAIA  | dims=unknown      | hidden=None | block=198 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=17 | gid=2008813530   | FBS Week 9             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=18 | gid=1276709664   | FCS Week 9             | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=19 | gid=456507898    | D2 Week 9              | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=20 | gid=6761254      | D3 Week 9              | D3    | dims=unknown      | hidden=None | block=192 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=21 | gid=2121746798   | NAIA Week 9            | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=22 | gid=256409987    | FBS Week 8             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=27 | gid=986487540    | FBS Week 7             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=32 | gid=222761766    | FBS Week 6             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=37 | gid=247747115    | FBS Week 5             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=42 | gid=258607518    | FBS Week 4             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=47 | gid=949307708    | FBS Week 3             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=52 | gid=1562968460   | FBS Week 2             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=57 | gid=1989598626   | FBS Week 1             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=58 | gid=108006790    | FBS Week 0             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+
+==============================================================================
+REPLAY WEEK 12 ? CAPTURE 20241110233729
+==============================================================================
+Tab captions: 58
+Indexed gids: 58
+Indices contiguous 0..N-1: True
+Unique gids: True
+ORDER MAPPING VALID: True
+Selected URL gid: 168123984
+Selected gid maps to: FBS Week 12
+
+FBS / TARGET-WEEK WORKSHEETS
+  idx= 2 | gid=168123984    | FBS Week 12            | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 3 | gid=1299304903   | FBS Week 11            | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 4 | gid=816165128    | FCS Week 11            | FCS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 5 | gid=993371330    | D2 Week 11             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 6 | gid=27749595     | D3 Week 11             | D3    | dims=unknown      | hidden=None | block=193 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 7 | gid=295622913    | NAIA Week 11           | NAIA  | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 8 | gid=1955033981   | FBS Week 10            | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 9 | gid=1579904956   | FCS Week 10            | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=10 | gid=853906791    | D2 Week 10             | D2    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=11 | gid=889494341    | D3 Week 10             | D3    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=12 | gid=1272882098   | NAIA Week 10           | NAIA  | dims=unknown      | hidden=None | block=198 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=13 | gid=2008813530   | FBS Week 9             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=14 | gid=1276709664   | FCS Week 9             | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=15 | gid=456507898    | D2 Week 9              | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=16 | gid=6761254      | D3 Week 9              | D3    | dims=unknown      | hidden=None | block=192 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=17 | gid=2121746798   | NAIA Week 9            | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=18 | gid=256409987    | FBS Week 8             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=23 | gid=986487540    | FBS Week 7             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=28 | gid=222761766    | FBS Week 6             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=33 | gid=247747115    | FBS Week 5             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=38 | gid=258607518    | FBS Week 4             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=43 | gid=949307708    | FBS Week 3             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=48 | gid=1562968460   | FBS Week 2             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=53 | gid=1989598626   | FBS Week 1             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=54 | gid=108006790    | FBS Week 0             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+
+==============================================================================
+REPLAY WEEK 12 ? CAPTURE 20241116044015
+==============================================================================
+Tab captions: 62
+Indexed gids: 62
+Indices contiguous 0..N-1: True
+Unique gids: True
+ORDER MAPPING VALID: True
+Selected URL gid: 2086195576
+Selected gid maps to: FCS Week 12
+
+FBS / TARGET-WEEK WORKSHEETS
+  idx= 2 | gid=168123984    | FBS Week 12            | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 3 | gid=2086195576   | FCS Week 12            | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 4 | gid=861587089    | D2 Week 12             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 5 | gid=833655605    | D3 Week 12             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 6 | gid=1705974904   | NAIA Week 12           | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 7 | gid=1299304903   | FBS Week 11            | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 8 | gid=816165128    | FCS Week 11            | FCS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 9 | gid=993371330    | D2 Week 11             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=10 | gid=27749595     | D3 Week 11             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=11 | gid=295622913    | NAIA Week 11           | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=12 | gid=1955033981   | FBS Week 10            | FBS   | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=13 | gid=1579904956   | FCS Week 10            | FCS   | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=14 | gid=853906791    | D2 Week 10             | D2    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=15 | gid=889494341    | D3 Week 10             | D3    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=16 | gid=1272882098   | NAIA Week 10           | NAIA  | dims=unknown      | hidden=None | block=198 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=17 | gid=2008813530   | FBS Week 9             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=18 | gid=1276709664   | FCS Week 9             | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=19 | gid=456507898    | D2 Week 9              | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=20 | gid=6761254      | D3 Week 9              | D3    | dims=unknown      | hidden=None | block=192 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=21 | gid=2121746798   | NAIA Week 9            | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=22 | gid=256409987    | FBS Week 8             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=27 | gid=986487540    | FBS Week 7             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=32 | gid=222761766    | FBS Week 6             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=37 | gid=247747115    | FBS Week 5             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=42 | gid=258607518    | FBS Week 4             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=47 | gid=949307708    | FBS Week 3             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=52 | gid=1562968460   | FBS Week 2             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=57 | gid=1989598626   | FBS Week 1             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=58 | gid=108006790    | FBS Week 0             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+
+==============================================================================
+REPLAY WEEK 12 ? CAPTURE 20241115193850
+==============================================================================
+Tab captions: 62
+Indexed gids: 62
+Indices contiguous 0..N-1: True
+Unique gids: True
+ORDER MAPPING VALID: True
+Selected URL gid: 608901635
+Selected gid maps to: SP+ performance
+
+FBS / TARGET-WEEK WORKSHEETS
+  idx= 2 | gid=168123984    | FBS Week 12            | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 3 | gid=2086195576   | FCS Week 12            | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 4 | gid=861587089    | D2 Week 12             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 5 | gid=833655605    | D3 Week 12             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 6 | gid=1705974904   | NAIA Week 12           | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 7 | gid=1299304903   | FBS Week 11            | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 8 | gid=816165128    | FCS Week 11            | FCS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 9 | gid=993371330    | D2 Week 11             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=10 | gid=27749595     | D3 Week 11             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=11 | gid=295622913    | NAIA Week 11           | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=12 | gid=1955033981   | FBS Week 10            | FBS   | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=13 | gid=1579904956   | FCS Week 10            | FCS   | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=14 | gid=853906791    | D2 Week 10             | D2    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=15 | gid=889494341    | D3 Week 10             | D3    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=16 | gid=1272882098   | NAIA Week 10           | NAIA  | dims=unknown      | hidden=None | block=198 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=17 | gid=2008813530   | FBS Week 9             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=18 | gid=1276709664   | FCS Week 9             | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=19 | gid=456507898    | D2 Week 9              | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=20 | gid=6761254      | D3 Week 9              | D3    | dims=unknown      | hidden=None | block=192 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=21 | gid=2121746798   | NAIA Week 9            | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=22 | gid=256409987    | FBS Week 8             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=27 | gid=986487540    | FBS Week 7             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=32 | gid=222761766    | FBS Week 6             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=37 | gid=247747115    | FBS Week 5             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=42 | gid=258607518    | FBS Week 4             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=47 | gid=949307708    | FBS Week 3             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=52 | gid=1562968460   | FBS Week 2             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=57 | gid=1989598626   | FBS Week 1             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=58 | gid=108006790    | FBS Week 0             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+
+==============================================================================
+REPLAY WEEK 12 ? CAPTURE 20241110183623
+==============================================================================
+Tab captions: 57
+Indexed gids: 57
+Indices contiguous 0..N-1: True
+Unique gids: True
+ORDER MAPPING VALID: True
+Selected URL gid: 816165128
+Selected gid maps to: FCS Week 11
+
+FBS / TARGET-WEEK WORKSHEETS
+  idx= 2 | gid=1299304903   | FBS Week 11            | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 3 | gid=816165128    | FCS Week 11            | FCS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 4 | gid=993371330    | D2 Week 11             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 5 | gid=27749595     | D3 Week 11             | D3    | dims=unknown      | hidden=None | block=193 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 6 | gid=295622913    | NAIA Week 11           | NAIA  | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 7 | gid=1955033981   | FBS Week 10            | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 8 | gid=1579904956   | FCS Week 10            | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 9 | gid=853906791    | D2 Week 10             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=10 | gid=889494341    | D3 Week 10             | D3    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=11 | gid=1272882098   | NAIA Week 10           | NAIA  | dims=unknown      | hidden=None | block=198 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=12 | gid=2008813530   | FBS Week 9             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=13 | gid=1276709664   | FCS Week 9             | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=14 | gid=456507898    | D2 Week 9              | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=15 | gid=6761254      | D3 Week 9              | D3    | dims=unknown      | hidden=None | block=192 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=16 | gid=2121746798   | NAIA Week 9            | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=17 | gid=256409987    | FBS Week 8             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=22 | gid=986487540    | FBS Week 7             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=27 | gid=222761766    | FBS Week 6             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=32 | gid=247747115    | FBS Week 5             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=37 | gid=258607518    | FBS Week 4             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=42 | gid=949307708    | FBS Week 3             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=47 | gid=1562968460   | FBS Week 2             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=52 | gid=1989598626   | FBS Week 1             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=53 | gid=108006790    | FBS Week 0             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+
+==============================================================================
+REPLAY WEEK 12 ? CAPTURE 20241109230441
+==============================================================================
+Tab captions: 57
+Indexed gids: 57
+Indices contiguous 0..N-1: True
+Unique gids: True
+ORDER MAPPING VALID: True
+Selected URL gid: 853906791
+Selected gid maps to: D2 Week 10
+
+FBS / TARGET-WEEK WORKSHEETS
+  idx= 2 | gid=1299304903   | FBS Week 11            | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 3 | gid=816165128    | FCS Week 11            | FCS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 4 | gid=993371330    | D2 Week 11             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 5 | gid=27749595     | D3 Week 11             | D3    | dims=unknown      | hidden=None | block=193 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 6 | gid=295622913    | NAIA Week 11           | NAIA  | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 7 | gid=1955033981   | FBS Week 10            | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 8 | gid=1579904956   | FCS Week 10            | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 9 | gid=853906791    | D2 Week 10             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=10 | gid=889494341    | D3 Week 10             | D3    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=11 | gid=1272882098   | NAIA Week 10           | NAIA  | dims=unknown      | hidden=None | block=198 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=12 | gid=2008813530   | FBS Week 9             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=13 | gid=1276709664   | FCS Week 9             | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=14 | gid=456507898    | D2 Week 9              | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=15 | gid=6761254      | D3 Week 9              | D3    | dims=unknown      | hidden=None | block=192 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=16 | gid=2121746798   | NAIA Week 9            | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=17 | gid=256409987    | FBS Week 8             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=22 | gid=986487540    | FBS Week 7             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=27 | gid=222761766    | FBS Week 6             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=32 | gid=247747115    | FBS Week 5             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=37 | gid=258607518    | FBS Week 4             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=42 | gid=949307708    | FBS Week 3             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=47 | gid=1562968460   | FBS Week 2             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=52 | gid=1989598626   | FBS Week 1             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=53 | gid=108006790    | FBS Week 0             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+
+==============================================================================
+REPLAY WEEK 12 ? CAPTURE 20241111120511
+==============================================================================
+Tab captions: 62
+Indexed gids: 62
+Indices contiguous 0..N-1: True
+Unique gids: True
+ORDER MAPPING VALID: True
+Selected URL gid: 861587089
+Selected gid maps to: D2 Week 12
+
+FBS / TARGET-WEEK WORKSHEETS
+  idx= 2 | gid=168123984    | FBS Week 12            | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 3 | gid=2086195576   | FCS Week 12            | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 4 | gid=861587089    | D2 Week 12             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 5 | gid=833655605    | D3 Week 12             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 6 | gid=1705974904   | NAIA Week 12           | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 7 | gid=1299304903   | FBS Week 11            | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 8 | gid=816165128    | FCS Week 11            | FCS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 9 | gid=993371330    | D2 Week 11             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=10 | gid=27749595     | D3 Week 11             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=11 | gid=295622913    | NAIA Week 11           | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=12 | gid=1955033981   | FBS Week 10            | FBS   | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=13 | gid=1579904956   | FCS Week 10            | FCS   | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=14 | gid=853906791    | D2 Week 10             | D2    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=15 | gid=889494341    | D3 Week 10             | D3    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=16 | gid=1272882098   | NAIA Week 10           | NAIA  | dims=unknown      | hidden=None | block=198 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=17 | gid=2008813530   | FBS Week 9             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=18 | gid=1276709664   | FCS Week 9             | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=19 | gid=456507898    | D2 Week 9              | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=20 | gid=6761254      | D3 Week 9              | D3    | dims=unknown      | hidden=None | block=192 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=21 | gid=2121746798   | NAIA Week 9            | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=22 | gid=256409987    | FBS Week 8             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=27 | gid=986487540    | FBS Week 7             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=32 | gid=222761766    | FBS Week 6             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=37 | gid=247747115    | FBS Week 5             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=42 | gid=258607518    | FBS Week 4             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=47 | gid=949307708    | FBS Week 3             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=52 | gid=1562968460   | FBS Week 2             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=57 | gid=1989598626   | FBS Week 1             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=58 | gid=108006790    | FBS Week 0             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+
+==============================================================================
+REPLAY WEEK 13 ? CAPTURE 20241118123523
+==============================================================================
+Tab captions: 67
+Indexed gids: 67
+Indices contiguous 0..N-1: True
+Unique gids: True
+ORDER MAPPING VALID: True
+Selected URL gid: 1446951386
+Selected gid maps to: FCS Week 13
+
+FBS / TARGET-WEEK WORKSHEETS
+  idx= 2 | gid=272141798    | FBS Week 13            | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 3 | gid=1446951386   | FCS Week 13            | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 4 | gid=193953937    | D2 Week 13             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 5 | gid=148916840    | D3 Week 13             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 6 | gid=485218336    | NAIA Week 13           | NAIA  | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 7 | gid=168123984    | FBS Week 12            | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 8 | gid=2086195576   | FCS Week 12            | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 9 | gid=861587089    | D2 Week 12             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=10 | gid=833655605    | D3 Week 12             | D3    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=11 | gid=1705974904   | NAIA Week 12           | NAIA  | dims=unknown      | hidden=None | block=198 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=12 | gid=1299304903   | FBS Week 11            | FBS   | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=13 | gid=816165128    | FCS Week 11            | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=14 | gid=993371330    | D2 Week 11             | D2    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=15 | gid=27749595     | D3 Week 11             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=16 | gid=295622913    | NAIA Week 11           | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=17 | gid=1955033981   | FBS Week 10            | FBS   | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=18 | gid=1579904956   | FCS Week 10            | FCS   | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=19 | gid=853906791    | D2 Week 10             | D2    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=20 | gid=889494341    | D3 Week 10             | D3    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=21 | gid=1272882098   | NAIA Week 10           | NAIA  | dims=unknown      | hidden=None | block=198 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=22 | gid=2008813530   | FBS Week 9             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=23 | gid=1276709664   | FCS Week 9             | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=24 | gid=456507898    | D2 Week 9              | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=25 | gid=6761254      | D3 Week 9              | D3    | dims=unknown      | hidden=None | block=192 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=26 | gid=2121746798   | NAIA Week 9            | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=27 | gid=256409987    | FBS Week 8             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=32 | gid=986487540    | FBS Week 7             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=37 | gid=222761766    | FBS Week 6             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=42 | gid=247747115    | FBS Week 5             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=47 | gid=258607518    | FBS Week 4             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=52 | gid=949307708    | FBS Week 3             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=57 | gid=1562968460   | FBS Week 2             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=62 | gid=1989598626   | FBS Week 1             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=63 | gid=108006790    | FBS Week 0             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+
+==============================================================================
+REPLAY WEEK 13 ? CAPTURE 20241116044015
+==============================================================================
+Tab captions: 62
+Indexed gids: 62
+Indices contiguous 0..N-1: True
+Unique gids: True
+ORDER MAPPING VALID: True
+Selected URL gid: 2086195576
+Selected gid maps to: FCS Week 12
+
+FBS / TARGET-WEEK WORKSHEETS
+  idx= 2 | gid=168123984    | FBS Week 12            | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 3 | gid=2086195576   | FCS Week 12            | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 4 | gid=861587089    | D2 Week 12             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 5 | gid=833655605    | D3 Week 12             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 6 | gid=1705974904   | NAIA Week 12           | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 7 | gid=1299304903   | FBS Week 11            | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 8 | gid=816165128    | FCS Week 11            | FCS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 9 | gid=993371330    | D2 Week 11             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=10 | gid=27749595     | D3 Week 11             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=11 | gid=295622913    | NAIA Week 11           | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=12 | gid=1955033981   | FBS Week 10            | FBS   | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=13 | gid=1579904956   | FCS Week 10            | FCS   | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=14 | gid=853906791    | D2 Week 10             | D2    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=15 | gid=889494341    | D3 Week 10             | D3    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=16 | gid=1272882098   | NAIA Week 10           | NAIA  | dims=unknown      | hidden=None | block=198 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=17 | gid=2008813530   | FBS Week 9             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=18 | gid=1276709664   | FCS Week 9             | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=19 | gid=456507898    | D2 Week 9              | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=20 | gid=6761254      | D3 Week 9              | D3    | dims=unknown      | hidden=None | block=192 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=21 | gid=2121746798   | NAIA Week 9            | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=22 | gid=256409987    | FBS Week 8             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=27 | gid=986487540    | FBS Week 7             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=32 | gid=222761766    | FBS Week 6             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=37 | gid=247747115    | FBS Week 5             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=42 | gid=258607518    | FBS Week 4             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=47 | gid=949307708    | FBS Week 3             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=52 | gid=1562968460   | FBS Week 2             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=57 | gid=1989598626   | FBS Week 1             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=58 | gid=108006790    | FBS Week 0             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+
+==============================================================================
+REPLAY WEEK 13 ? CAPTURE 20241117233647
+==============================================================================
+Tab captions: 63
+Indexed gids: 63
+Indices contiguous 0..N-1: True
+Unique gids: True
+ORDER MAPPING VALID: True
+Selected URL gid: 272141798
+Selected gid maps to: FBS Week 13
+
+FBS / TARGET-WEEK WORKSHEETS
+  idx= 2 | gid=272141798    | FBS Week 13            | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 3 | gid=168123984    | FBS Week 12            | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 4 | gid=2086195576   | FCS Week 12            | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 5 | gid=861587089    | D2 Week 12             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 6 | gid=833655605    | D3 Week 12             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 7 | gid=1705974904   | NAIA Week 12           | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 8 | gid=1299304903   | FBS Week 11            | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 9 | gid=816165128    | FCS Week 11            | FCS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=10 | gid=993371330    | D2 Week 11             | D2    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=11 | gid=27749595     | D3 Week 11             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=12 | gid=295622913    | NAIA Week 11           | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=13 | gid=1955033981   | FBS Week 10            | FBS   | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=14 | gid=1579904956   | FCS Week 10            | FCS   | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=15 | gid=853906791    | D2 Week 10             | D2    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=16 | gid=889494341    | D3 Week 10             | D3    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=17 | gid=1272882098   | NAIA Week 10           | NAIA  | dims=unknown      | hidden=None | block=198 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=18 | gid=2008813530   | FBS Week 9             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=19 | gid=1276709664   | FCS Week 9             | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=20 | gid=456507898    | D2 Week 9              | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=21 | gid=6761254      | D3 Week 9              | D3    | dims=unknown      | hidden=None | block=192 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=22 | gid=2121746798   | NAIA Week 9            | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=23 | gid=256409987    | FBS Week 8             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=28 | gid=986487540    | FBS Week 7             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=33 | gid=222761766    | FBS Week 6             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=38 | gid=247747115    | FBS Week 5             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=43 | gid=258607518    | FBS Week 4             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=48 | gid=949307708    | FBS Week 3             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=53 | gid=1562968460   | FBS Week 2             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=58 | gid=1989598626   | FBS Week 1             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=59 | gid=108006790    | FBS Week 0             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+
+==============================================================================
+REPLAY WEEK 13 ? CAPTURE 20241117183835
+==============================================================================
+Tab captions: 62
+Indexed gids: 62
+Indices contiguous 0..N-1: True
+Unique gids: True
+ORDER MAPPING VALID: True
+Selected URL gid: None
+Selected gid maps to: None
+
+FBS / TARGET-WEEK WORKSHEETS
+  idx= 2 | gid=168123984    | FBS Week 12            | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 3 | gid=2086195576   | FCS Week 12            | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 4 | gid=861587089    | D2 Week 12             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 5 | gid=833655605    | D3 Week 12             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 6 | gid=1705974904   | NAIA Week 12           | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 7 | gid=1299304903   | FBS Week 11            | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 8 | gid=816165128    | FCS Week 11            | FCS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx= 9 | gid=993371330    | D2 Week 11             | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=10 | gid=27749595     | D3 Week 11             | D3    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=11 | gid=295622913    | NAIA Week 11           | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=12 | gid=1955033981   | FBS Week 10            | FBS   | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=13 | gid=1579904956   | FCS Week 10            | FCS   | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=14 | gid=853906791    | D2 Week 10             | D2    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=15 | gid=889494341    | D3 Week 10             | D3    | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=16 | gid=1272882098   | NAIA Week 10           | NAIA  | dims=unknown      | hidden=None | block=198 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=17 | gid=2008813530   | FBS Week 9             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=18 | gid=1276709664   | FCS Week 9             | FCS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=19 | gid=456507898    | D2 Week 9              | D2    | dims=unknown      | hidden=None | block=194 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=20 | gid=6761254      | D3 Week 9              | D3    | dims=unknown      | hidden=None | block=192 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=21 | gid=2121746798   | NAIA Week 9            | NAIA  | dims=unknown      | hidden=None | block=197 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=22 | gid=256409987    | FBS Week 8             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=27 | gid=986487540    | FBS Week 7             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=32 | gid=222761766    | FBS Week 6             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=37 | gid=247747115    | FBS Week 5             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=42 | gid=258607518    | FBS Week 4             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=47 | gid=949307708    | FBS Week 3             | FBS   | dims=unknown      | hidden=None | block=195 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=52 | gid=1562968460   | FBS Week 2             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=57 | gid=1989598626   | FBS Week 1             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+  idx=58 | gid=108006790    | FBS Week 0             | FBS   | dims=unknown      | hidden=None | block=196 | Team=False | SP+=False | Rk=False | anchors=-
+
+==============================================================================
+RECOVERY COVERAGE ? INVENTORY ONLY
+==============================================================================
+Week 10: RECOVERABLE / NEEDS VECTOR EXTRACTION
+  20241031135820 | FBS Week 10 | gid=1955033981 | Team=False | SP+=False | anchors=-
+  20241031151712 | FBS Week 10 | gid=1955033981 | Team=False | SP+=False | anchors=-
+  20241102144541 | FBS Week 10 | gid=1955033981 | Team=False | SP+=False | anchors=-
+  20241113195905 | FBS Week 10 | gid=1955033981 | Team=False | SP+=False | anchors=-
+  20241115073637 | FBS Week 10 | gid=1955033981 | Team=False | SP+=False | anchors=-
+  20241114001200 | FBS Week 10 | gid=1955033981 | Team=False | SP+=False | anchors=-
+  20241110233729 | FBS Week 10 | gid=1955033981 | Team=False | SP+=False | anchors=-
+  20241116044015 | FBS Week 10 | gid=1955033981 | Team=False | SP+=False | anchors=-
+  20241115193850 | FBS Week 10 | gid=1955033981 | Team=False | SP+=False | anchors=-
+  20241110183623 | FBS Week 10 | gid=1955033981 | Team=False | SP+=False | anchors=-
+  20241109230441 | FBS Week 10 | gid=1955033981 | Team=False | SP+=False | anchors=-
+  20241111120511 | FBS Week 10 | gid=1955033981 | Team=False | SP+=False | anchors=-
+  20241118123523 | FBS Week 10 | gid=1955033981 | Team=False | SP+=False | anchors=-
+  20241116044015 | FBS Week 10 | gid=1955033981 | Team=False | SP+=False | anchors=-
+  20241117233647 | FBS Week 10 | gid=1955033981 | Team=False | SP+=False | anchors=-
+  20241117183835 | FBS Week 10 | gid=1955033981 | Team=False | SP+=False | anchors=-
+Week 11: RECOVERABLE / NEEDS VECTOR EXTRACTION
+  20241113195905 | FBS Week 11 | gid=1299304903 | Team=False | SP+=False | anchors=-
+  20241115073637 | FBS Week 11 | gid=1299304903 | Team=False | SP+=False | anchors=-
+  20241114001200 | FBS Week 11 | gid=1299304903 | Team=False | SP+=False | anchors=-
+  20241110233729 | FBS Week 11 | gid=1299304903 | Team=False | SP+=False | anchors=-
+  20241116044015 | FBS Week 11 | gid=1299304903 | Team=False | SP+=False | anchors=-
+  20241115193850 | FBS Week 11 | gid=1299304903 | Team=False | SP+=False | anchors=-
+  20241110183623 | FBS Week 11 | gid=1299304903 | Team=False | SP+=False | anchors=-
+  20241109230441 | FBS Week 11 | gid=1299304903 | Team=False | SP+=False | anchors=-
+  20241111120511 | FBS Week 11 | gid=1299304903 | Team=False | SP+=False | anchors=-
+  20241118123523 | FBS Week 11 | gid=1299304903 | Team=False | SP+=False | anchors=-
+  20241116044015 | FBS Week 11 | gid=1299304903 | Team=False | SP+=False | anchors=-
+  20241117233647 | FBS Week 11 | gid=1299304903 | Team=False | SP+=False | anchors=-
+  20241117183835 | FBS Week 11 | gid=1299304903 | Team=False | SP+=False | anchors=-
+Week 12: RECOVERABLE / NEEDS VECTOR EXTRACTION
+  20241113195905 | FBS Week 12 | gid=168123984 | Team=False | SP+=False | anchors=-
+  20241115073637 | FBS Week 12 | gid=168123984 | Team=False | SP+=False | anchors=-
+  20241114001200 | FBS Week 12 | gid=168123984 | Team=False | SP+=False | anchors=-
+  20241110233729 | FBS Week 12 | gid=168123984 | Team=False | SP+=False | anchors=-
+  20241116044015 | FBS Week 12 | gid=168123984 | Team=False | SP+=False | anchors=-
+  20241115193850 | FBS Week 12 | gid=168123984 | Team=False | SP+=False | anchors=-
+  20241111120511 | FBS Week 12 | gid=168123984 | Team=False | SP+=False | anchors=-
+  20241118123523 | FBS Week 12 | gid=168123984 | Team=False | SP+=False | anchors=-
+  20241116044015 | FBS Week 12 | gid=168123984 | Team=False | SP+=False | anchors=-
+  20241117233647 | FBS Week 12 | gid=168123984 | Team=False | SP+=False | anchors=-
+  20241117183835 | FBS Week 12 | gid=168123984 | Team=False | SP+=False | anchors=-
+Week 13: RECOVERABLE / NEEDS VECTOR EXTRACTION
+  20241118123523 | FBS Week 13 | gid=272141798 | Team=False | SP+=False | anchors=-
+  20241117233647 | FBS Week 13 | gid=272141798 | Team=False | SP+=False | anchors=-
+Week 14: NOT FOUND in currently audited workbook captures
+Week 15: NOT FOUND in currently audited workbook captures

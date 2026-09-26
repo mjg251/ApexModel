@@ -1,0 +1,18 @@
+{
+  "capture": "20241031151712",
+  "workbook": "2024 SP+",
+  "sheet": "FBS Week 10",
+  "gid": "1955033981",
+  "capture_sha256": "8b5d82b8df8baad67e2b5a39ee02739bec483f73465f6680cf2e0161950d6303",
+  "production_touched": false,
+  "v0_6_modified": false,
+  "canonical_snapshot_created": false,
+  "2025_inspected": false,
+  "validated_candidates": [],
+  "partial_candidates": [],
+  "historical_timing": {
+    "pass": false,
+    "reason": "Capture timestamp postdates visible Week 10 games beginning 29-Oct; full-week pre-kick availability is not established by this capture alone."
+  },
+  "classification": "NOT RECOVERABLE FROM THIS CAPTURE"
+}

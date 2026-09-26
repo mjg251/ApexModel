@@ -1,0 +1,376 @@
+2024 ARCHIVED GOOGLE SHEETS ? FULL WORKBOOK INVENTORY
+==============================================================================
+
+2025 inspected: False
+Production touched: False
+v0.6 modified: False
+Replay snapshots created: False
+
+
+REPLAY WEEK 10 ? 3 WORKBOOK CAPTURE(S)
+------------------------------------------------------------------------------
+
+CAPTURE 20241031135820
+Workbook: 2024 SP+
+SHA256: 80aca11651c49f554a6b9d54eb39b87d4269787bb2ddcb943f65ffb6c1a01306
+bootstrapData: True
+Worksheet objects recovered: 0
+Rendered tab captions: 52
+Indexed gid entries: 52
+Latest FBS week represented: 10
+Categories: 
+
+FULL WORKSHEET INVENTORY
+
+TARGET FBS WEEK SHEETS
+  FBS Week 9: no sheet object recovered (text-present=True)
+  FBS Week 10: no sheet object recovered (text-present=True)
+  FBS Week 11: no sheet object recovered (text-present=False)
+  FBS Week 12: no sheet object recovered (text-present=False)
+  FBS Week 13: no sheet object recovered (text-present=False)
+  FBS Week 14: no sheet object recovered (text-present=False)
+  FBS Week 15: no sheet object recovered (text-present=False)
+
+CAPTURE 20241031151712
+Workbook: 2024 SP+
+SHA256: 8b5d82b8df8baad67e2b5a39ee02739bec483f73465f6680cf2e0161950d6303
+bootstrapData: True
+Worksheet objects recovered: 0
+Rendered tab captions: 52
+Indexed gid entries: 52
+Latest FBS week represented: 10
+Categories: 
+
+FULL WORKSHEET INVENTORY
+
+TARGET FBS WEEK SHEETS
+  FBS Week 9: no sheet object recovered (text-present=True)
+  FBS Week 10: no sheet object recovered (text-present=True)
+  FBS Week 11: no sheet object recovered (text-present=False)
+  FBS Week 12: no sheet object recovered (text-present=False)
+  FBS Week 13: no sheet object recovered (text-present=False)
+  FBS Week 14: no sheet object recovered (text-present=False)
+  FBS Week 15: no sheet object recovered (text-present=False)
+
+CAPTURE 20241102144541
+Workbook: 2024 SP+
+SHA256: e1aa3360de4cf05079abd80126f7d06d35d7b545ce79fc409e472cd2a69dd905
+bootstrapData: True
+Worksheet objects recovered: 0
+Rendered tab captions: 52
+Indexed gid entries: 52
+Latest FBS week represented: 10
+Categories: 
+
+FULL WORKSHEET INVENTORY
+
+TARGET FBS WEEK SHEETS
+  FBS Week 9: no sheet object recovered (text-present=True)
+  FBS Week 10: no sheet object recovered (text-present=True)
+  FBS Week 11: no sheet object recovered (text-present=False)
+  FBS Week 12: no sheet object recovered (text-present=False)
+  FBS Week 13: no sheet object recovered (text-present=False)
+  FBS Week 14: no sheet object recovered (text-present=False)
+  FBS Week 15: no sheet object recovered (text-present=False)
+
+REPLAY WEEK 11 ? 0 WORKBOOK CAPTURE(S)
+------------------------------------------------------------------------------
+No archived workbook captures were identified in the prior audit.
+
+REPLAY WEEK 12 ? 9 WORKBOOK CAPTURE(S)
+------------------------------------------------------------------------------
+
+CAPTURE 20241113195905
+Workbook: 2024 SP+
+SHA256: 847e67832bc31b63a916796468c474c7cbb360bbe4050fe8288acdf6c4d9b9e5
+bootstrapData: True
+Worksheet objects recovered: 0
+Rendered tab captions: 62
+Indexed gid entries: 62
+Latest FBS week represented: 12
+Categories: 
+
+FULL WORKSHEET INVENTORY
+
+TARGET FBS WEEK SHEETS
+  FBS Week 9: no sheet object recovered (text-present=True)
+  FBS Week 10: no sheet object recovered (text-present=True)
+  FBS Week 11: no sheet object recovered (text-present=True)
+  FBS Week 12: no sheet object recovered (text-present=True)
+  FBS Week 13: no sheet object recovered (text-present=False)
+  FBS Week 14: no sheet object recovered (text-present=False)
+  FBS Week 15: no sheet object recovered (text-present=False)
+
+CAPTURE 20241115073637
+Workbook: 2024 SP+
+SHA256: 366f4a19d464a69227f529157bcfc5ae7fdfb389d11d777bc3496a3084bdbb7f
+bootstrapData: True
+Worksheet objects recovered: 0
+Rendered tab captions: 62
+Indexed gid entries: 62
+Latest FBS week represented: 12
+Categories: 
+
+FULL WORKSHEET INVENTORY
+
+TARGET FBS WEEK SHEETS
+  FBS Week 9: no sheet object recovered (text-present=True)
+  FBS Week 10: no sheet object recovered (text-present=True)
+  FBS Week 11: no sheet object recovered (text-present=True)
+  FBS Week 12: no sheet object recovered (text-present=True)
+  FBS Week 13: no sheet object recovered (text-present=False)
+  FBS Week 14: no sheet object recovered (text-present=False)
+  FBS Week 15: no sheet object recovered (text-present=False)
+
+CAPTURE 20241114001200
+Workbook: 2024 SP+
+SHA256: 7bf12180eeeb8ef6473e5f2d3835976dcdd4ba4cc3ad60bbfb57476e57ad3ae0
+bootstrapData: True
+Worksheet objects recovered: 0
+Rendered tab captions: 62
+Indexed gid entries: 62
+Latest FBS week represented: 12
+Categories: 
+
+FULL WORKSHEET INVENTORY
+
+TARGET FBS WEEK SHEETS
+  FBS Week 9: no sheet object recovered (text-present=True)
+  FBS Week 10: no sheet object recovered (text-present=True)
+  FBS Week 11: no sheet object recovered (text-present=True)
+  FBS Week 12: no sheet object recovered (text-present=True)
+  FBS Week 13: no sheet object recovered (text-present=False)
+  FBS Week 14: no sheet object recovered (text-present=False)
+  FBS Week 15: no sheet object recovered (text-present=False)
+
+CAPTURE 20241110233729
+Workbook: 2024 SP+
+SHA256: f3a6bb92b012dd516c427659c7af40aa2acf3277e3395e37b2b19bba899554fb
+bootstrapData: True
+Worksheet objects recovered: 0
+Rendered tab captions: 58
+Indexed gid entries: 58
+Latest FBS week represented: 12
+Categories: 
+
+FULL WORKSHEET INVENTORY
+
+TARGET FBS WEEK SHEETS
+  FBS Week 9: no sheet object recovered (text-present=True)
+  FBS Week 10: no sheet object recovered (text-present=True)
+  FBS Week 11: no sheet object recovered (text-present=True)
+  FBS Week 12: no sheet object recovered (text-present=True)
+  FBS Week 13: no sheet object recovered (text-present=False)
+  FBS Week 14: no sheet object recovered (text-present=False)
+  FBS Week 15: no sheet object recovered (text-present=False)
+
+CAPTURE 20241116044015
+Workbook: 2024 SP+
+SHA256: bebe554624bcf87b4f521a93dcfe724d5aaac01fcb61c631a218c27eeb2a7de7
+bootstrapData: True
+Worksheet objects recovered: 0
+Rendered tab captions: 62
+Indexed gid entries: 62
+Latest FBS week represented: 12
+Categories: 
+
+FULL WORKSHEET INVENTORY
+
+TARGET FBS WEEK SHEETS
+  FBS Week 9: no sheet object recovered (text-present=True)
+  FBS Week 10: no sheet object recovered (text-present=True)
+  FBS Week 11: no sheet object recovered (text-present=True)
+  FBS Week 12: no sheet object recovered (text-present=True)
+  FBS Week 13: no sheet object recovered (text-present=False)
+  FBS Week 14: no sheet object recovered (text-present=False)
+  FBS Week 15: no sheet object recovered (text-present=False)
+
+CAPTURE 20241115193850
+Workbook: 2024 SP+
+SHA256: 14bd096dfc738ad9122ba4407dc63132a34db3f49841847b2faf12e38f9783b8
+bootstrapData: True
+Worksheet objects recovered: 0
+Rendered tab captions: 62
+Indexed gid entries: 62
+Latest FBS week represented: 12
+Categories: 
+
+FULL WORKSHEET INVENTORY
+
+TARGET FBS WEEK SHEETS
+  FBS Week 9: no sheet object recovered (text-present=True)
+  FBS Week 10: no sheet object recovered (text-present=True)
+  FBS Week 11: no sheet object recovered (text-present=True)
+  FBS Week 12: no sheet object recovered (text-present=True)
+  FBS Week 13: no sheet object recovered (text-present=False)
+  FBS Week 14: no sheet object recovered (text-present=False)
+  FBS Week 15: no sheet object recovered (text-present=False)
+
+CAPTURE 20241110183623
+Workbook: 2024 SP+
+SHA256: 5c50424ec568a8bce7e67bf79aec53ae8cc7dbde43dd4476999ab67fb106f678
+bootstrapData: True
+Worksheet objects recovered: 0
+Rendered tab captions: 57
+Indexed gid entries: 57
+Latest FBS week represented: 11
+Categories: 
+
+FULL WORKSHEET INVENTORY
+
+TARGET FBS WEEK SHEETS
+  FBS Week 9: no sheet object recovered (text-present=True)
+  FBS Week 10: no sheet object recovered (text-present=True)
+  FBS Week 11: no sheet object recovered (text-present=True)
+  FBS Week 12: no sheet object recovered (text-present=False)
+  FBS Week 13: no sheet object recovered (text-present=False)
+  FBS Week 14: no sheet object recovered (text-present=False)
+  FBS Week 15: no sheet object recovered (text-present=False)
+
+CAPTURE 20241109230441
+Workbook: 2024 SP+
+SHA256: fd39bf4187e0444afbef49bae5a3cfd431c566895034720900d6b5d3c6aa8c5f
+bootstrapData: True
+Worksheet objects recovered: 0
+Rendered tab captions: 57
+Indexed gid entries: 57
+Latest FBS week represented: 11
+Categories: 
+
+FULL WORKSHEET INVENTORY
+
+TARGET FBS WEEK SHEETS
+  FBS Week 9: no sheet object recovered (text-present=True)
+  FBS Week 10: no sheet object recovered (text-present=True)
+  FBS Week 11: no sheet object recovered (text-present=True)
+  FBS Week 12: no sheet object recovered (text-present=False)
+  FBS Week 13: no sheet object recovered (text-present=False)
+  FBS Week 14: no sheet object recovered (text-present=False)
+  FBS Week 15: no sheet object recovered (text-present=False)
+
+CAPTURE 20241111120511
+Workbook: 2024 SP+
+SHA256: ed2720329a302ab9f403d252a708998c5b65f1df33739b53bcf79801dba5098e
+bootstrapData: True
+Worksheet objects recovered: 0
+Rendered tab captions: 62
+Indexed gid entries: 62
+Latest FBS week represented: 12
+Categories: 
+
+FULL WORKSHEET INVENTORY
+
+TARGET FBS WEEK SHEETS
+  FBS Week 9: no sheet object recovered (text-present=True)
+  FBS Week 10: no sheet object recovered (text-present=True)
+  FBS Week 11: no sheet object recovered (text-present=True)
+  FBS Week 12: no sheet object recovered (text-present=True)
+  FBS Week 13: no sheet object recovered (text-present=False)
+  FBS Week 14: no sheet object recovered (text-present=False)
+  FBS Week 15: no sheet object recovered (text-present=False)
+
+REPLAY WEEK 13 ? 4 WORKBOOK CAPTURE(S)
+------------------------------------------------------------------------------
+
+CAPTURE 20241118123523
+Workbook: 2024 SP+
+SHA256: 92d0ee4ff25b728f3b96d61993fc47cac5ac80e62ed2dcf2744b556c3276bdae
+bootstrapData: True
+Worksheet objects recovered: 0
+Rendered tab captions: 67
+Indexed gid entries: 67
+Latest FBS week represented: 13
+Categories: 
+
+FULL WORKSHEET INVENTORY
+
+TARGET FBS WEEK SHEETS
+  FBS Week 9: no sheet object recovered (text-present=True)
+  FBS Week 10: no sheet object recovered (text-present=True)
+  FBS Week 11: no sheet object recovered (text-present=True)
+  FBS Week 12: no sheet object recovered (text-present=True)
+  FBS Week 13: no sheet object recovered (text-present=True)
+  FBS Week 14: no sheet object recovered (text-present=False)
+  FBS Week 15: no sheet object recovered (text-present=False)
+
+CAPTURE 20241116044015
+Workbook: 2024 SP+
+SHA256: bebe554624bcf87b4f521a93dcfe724d5aaac01fcb61c631a218c27eeb2a7de7
+bootstrapData: True
+Worksheet objects recovered: 0
+Rendered tab captions: 62
+Indexed gid entries: 62
+Latest FBS week represented: 12
+Categories: 
+
+FULL WORKSHEET INVENTORY
+
+TARGET FBS WEEK SHEETS
+  FBS Week 9: no sheet object recovered (text-present=True)
+  FBS Week 10: no sheet object recovered (text-present=True)
+  FBS Week 11: no sheet object recovered (text-present=True)
+  FBS Week 12: no sheet object recovered (text-present=True)
+  FBS Week 13: no sheet object recovered (text-present=False)
+  FBS Week 14: no sheet object recovered (text-present=False)
+  FBS Week 15: no sheet object recovered (text-present=False)
+
+CAPTURE 20241117233647
+Workbook: 2024 SP+
+SHA256: 79a5bcf5ee3686fbfb57631691fdf5787ec5a693a24151502c6ebafa1372aa03
+bootstrapData: True
+Worksheet objects recovered: 0
+Rendered tab captions: 63
+Indexed gid entries: 63
+Latest FBS week represented: 13
+Categories: 
+
+FULL WORKSHEET INVENTORY
+
+TARGET FBS WEEK SHEETS
+  FBS Week 9: no sheet object recovered (text-present=True)
+  FBS Week 10: no sheet object recovered (text-present=True)
+  FBS Week 11: no sheet object recovered (text-present=True)
+  FBS Week 12: no sheet object recovered (text-present=True)
+  FBS Week 13: no sheet object recovered (text-present=True)
+  FBS Week 14: no sheet object recovered (text-present=False)
+  FBS Week 15: no sheet object recovered (text-present=False)
+
+CAPTURE 20241117183835
+Workbook: 2024 SP+
+SHA256: a9c37eef807b41a0acf1efa571eb2c60cdb21032705e62871d6d600b941e19c7
+bootstrapData: True
+Worksheet objects recovered: 0
+Rendered tab captions: 62
+Indexed gid entries: 62
+Latest FBS week represented: 12
+Categories: 
+
+FULL WORKSHEET INVENTORY
+
+TARGET FBS WEEK SHEETS
+  FBS Week 9: no sheet object recovered (text-present=True)
+  FBS Week 10: no sheet object recovered (text-present=True)
+  FBS Week 11: no sheet object recovered (text-present=True)
+  FBS Week 12: no sheet object recovered (text-present=True)
+  FBS Week 13: no sheet object recovered (text-present=False)
+  FBS Week 14: no sheet object recovered (text-present=False)
+  FBS Week 15: no sheet object recovered (text-present=False)
+
+REPLAY WEEK 14 ? 0 WORKBOOK CAPTURE(S)
+------------------------------------------------------------------------------
+No archived workbook captures were identified in the prior audit.
+
+REPLAY WEEK 15 ? 0 WORKBOOK CAPTURE(S)
+------------------------------------------------------------------------------
+No archived workbook captures were identified in the prior audit.
+
+
+SOURCE-RECOVERY COVERAGE
+==============================================================================
+Replay Week | Required ratings state | Candidate capture | FBS sheet found? | Teams | Classification | Notes
+10 | contemporaneous state for replay Week 10 | 20241031135820 | NO | not extracted | NOT FOUND | No matching FBS sheet object recovered from currently identified workbook captures.
+11 | contemporaneous state for replay Week 11 | - | NO | not extracted | NOT FOUND | No matching FBS sheet object recovered from currently identified workbook captures.
+12 | contemporaneous state for replay Week 12 | 20241113195905 | NO | not extracted | NOT FOUND | No matching FBS sheet object recovered from currently identified workbook captures.
+13 | contemporaneous state for replay Week 13 | 20241118123523 | NO | not extracted | NOT FOUND | No matching FBS sheet object recovered from currently identified workbook captures.
+14 | contemporaneous state for replay Week 14 | - | NO | not extracted | NOT FOUND | No matching FBS sheet object recovered from currently identified workbook captures.
+15 | contemporaneous state for replay Week 15 | - | NO | not extracted | NOT FOUND | No matching FBS sheet object recovered from currently identified workbook captures.

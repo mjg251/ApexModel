@@ -1,0 +1,23 @@
+[
+  {
+    "replay_week": 10,
+    "article_id": "42030183",
+    "published_utc": "2024-10-27T12:30:00+00:00",
+    "candidate_capture_count": 0,
+    "status": "NOT RECOVERED"
+  },
+  {
+    "replay_week": 12,
+    "article_id": "42309388",
+    "published_utc": "2024-11-10T19:00:00+00:00",
+    "candidate_capture_count": 0,
+    "status": "NOT RECOVERED"
+  },
+  {
+    "replay_week": 15,
+    "article_id": "42715464",
+    "published_utc": "2024-12-01T14:00:00+00:00",
+    "candidate_capture_count": 0,
+    "status": "NOT RECOVERED"
+  }
+]

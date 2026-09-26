@@ -1,0 +1,493 @@
+[
+  {
+    "week": 0,
+    "sheet": "FBS Week 0",
+    "status": "UNAVAILABLE",
+    "reason": "No row contains exactly one Team header and exactly one exact SP+ header.",
+    "header_row": null,
+    "team_count": null,
+    "sp_numeric_count": null,
+    "header_candidates": []
+  },
+  {
+    "week": 1,
+    "sheet": "FBS Week 1",
+    "status": "PASS",
+    "reason": null,
+    "header_row": 1,
+    "team_count": 134,
+    "sp_numeric_count": 134,
+    "header_candidates": [
+      {
+        "row": 1,
+        "sp_cols": [
+          3
+        ],
+        "team_cols": [
+          0
+        ],
+        "values": [
+          "Team",
+          "Conference",
+          "Record",
+          "SP+",
+          "Rk",
+          "Off. SP+",
+          "Rk",
+          "Def. SP+",
+          "Rk",
+          "",
+          "Date",
+          "Time (ET)",
+          "Game",
+          "Proj. winner",
+          "Proj. margin",
+          "Win prob.",
+          "Proj. score (rounded)",
+          "Spread",
+          "ATS Pick",
+          "Spread diff",
+          "O/U",
+          "O/U pick",
+          "O/U diff"
+        ]
+      }
+    ]
+  },
+  {
+    "week": 2,
+    "sheet": "FBS Week 2",
+    "status": "PASS",
+    "reason": null,
+    "header_row": 1,
+    "team_count": 134,
+    "sp_numeric_count": 134,
+    "header_candidates": [
+      {
+        "row": 1,
+        "sp_cols": [
+          3
+        ],
+        "team_cols": [
+          0
+        ],
+        "values": [
+          "Team",
+          "Conference",
+          "Record",
+          "SP+",
+          "Rk",
+          "Off. SP+",
+          "Rk",
+          "Def. SP+",
+          "Rk",
+          "ST SP+",
+          "Rk",
+          "",
+          "Date",
+          "Time (ET)",
+          "Game",
+          "Proj. winner",
+          "Proj. margin",
+          "Win prob.",
+          "Proj. score (rounded)",
+          "Spread",
+          "ATS Pick",
+          "Spread diff",
+          "O/U",
+          "O/U pick",
+          "O/U diff"
+        ]
+      }
+    ]
+  },
+  {
+    "week": 3,
+    "sheet": "FBS Week 3",
+    "status": "PASS",
+    "reason": null,
+    "header_row": 1,
+    "team_count": 134,
+    "sp_numeric_count": 134,
+    "header_candidates": [
+      {
+        "row": 1,
+        "sp_cols": [
+          3
+        ],
+        "team_cols": [
+          0
+        ],
+        "values": [
+          "Team",
+          "Conference",
+          "Record",
+          "SP+",
+          "Rk",
+          "Off. SP+",
+          "Rk",
+          "Def. SP+",
+          "Rk",
+          "ST SP+",
+          "Rk",
+          "",
+          "Date",
+          "Time (ET)",
+          "Game",
+          "Proj. winner",
+          "Proj. margin",
+          "Win prob.",
+          "Proj. score (rounded)",
+          "Spread",
+          "ATS Pick",
+          "Spread diff",
+          "O/U",
+          "O/U pick",
+          "O/U diff"
+        ]
+      }
+    ]
+  },
+  {
+    "week": 4,
+    "sheet": "FBS Week 4",
+    "status": "PASS",
+    "reason": null,
+    "header_row": 1,
+    "team_count": 134,
+    "sp_numeric_count": 134,
+    "header_candidates": [
+      {
+        "row": 1,
+        "sp_cols": [
+          3
+        ],
+        "team_cols": [
+          0
+        ],
+        "values": [
+          "Team",
+          "Conference",
+          "Record",
+          "SP+",
+          "Rk",
+          "Off. SP+",
+          "Rk",
+          "Def. SP+",
+          "Rk",
+          "ST SP+",
+          "Rk",
+          "",
+          "Date",
+          "Time (ET)",
+          "Game",
+          "Proj. winner",
+          "Proj. margin",
+          "Win prob.",
+          "Proj. score (rounded)",
+          "Spread",
+          "ATS Pick",
+          "Spread diff",
+          "O/U",
+          "O/U pick",
+          "O/U diff"
+        ]
+      }
+    ]
+  },
+  {
+    "week": 5,
+    "sheet": "FBS Week 5",
+    "status": "PASS",
+    "reason": null,
+    "header_row": 1,
+    "team_count": 134,
+    "sp_numeric_count": 134,
+    "header_candidates": [
+      {
+        "row": 1,
+        "sp_cols": [
+          3
+        ],
+        "team_cols": [
+          0
+        ],
+        "values": [
+          "Team",
+          "Conference",
+          "Record",
+          "SP+",
+          "Rk",
+          "Off. SP+",
+          "Rk",
+          "Def. SP+",
+          "Rk",
+          "ST SP+",
+          "Rk",
+          "",
+          "Date",
+          "Time (ET)",
+          "Game",
+          "Proj. winner",
+          "Proj. margin",
+          "Win prob.",
+          "Proj. score (rounded)",
+          "Spread",
+          "ATS Pick",
+          "Spread diff",
+          "O/U",
+          "O/U pick",
+          "O/U diff"
+        ]
+      }
+    ]
+  },
+  {
+    "week": 6,
+    "sheet": "FBS Week 6",
+    "status": "PASS",
+    "reason": null,
+    "header_row": 1,
+    "team_count": 134,
+    "sp_numeric_count": 134,
+    "header_candidates": [
+      {
+        "row": 1,
+        "sp_cols": [
+          3
+        ],
+        "team_cols": [
+          0
+        ],
+        "values": [
+          "Team",
+          "Conference",
+          "Record",
+          "SP+",
+          "Rk",
+          "Off. SP+",
+          "Rk",
+          "Def. SP+",
+          "Rk",
+          "ST SP+",
+          "Rk",
+          "",
+          "Date",
+          "Time (ET)",
+          "Game",
+          "Proj. winner",
+          "Proj. margin",
+          "Win prob.",
+          "Proj. score (rounded)",
+          "Spread",
+          "ATS Pick",
+          "Spread diff",
+          "O/U",
+          "O/U pick",
+          "O/U diff"
+        ]
+      }
+    ]
+  },
+  {
+    "week": 7,
+    "sheet": "FBS Week 7",
+    "status": "PASS",
+    "reason": null,
+    "header_row": 1,
+    "team_count": 134,
+    "sp_numeric_count": 134,
+    "header_candidates": [
+      {
+        "row": 1,
+        "sp_cols": [
+          3
+        ],
+        "team_cols": [
+          0
+        ],
+        "values": [
+          "Team",
+          "Conference",
+          "Record",
+          "SP+",
+          "Rk",
+          "Off. SP+",
+          "Rk",
+          "Def. SP+",
+          "Rk",
+          "ST SP+",
+          "Rk",
+          "",
+          "Date",
+          "Time (ET)",
+          "Game",
+          "Proj. winner",
+          "Proj. margin",
+          "Win prob.",
+          "Proj. score (rounded)",
+          "Spread",
+          "ATS Pick",
+          "Spread diff",
+          "O/U",
+          "O/U pick",
+          "O/U diff"
+        ]
+      }
+    ]
+  },
+  {
+    "week": 8,
+    "sheet": "FBS Week 8",
+    "status": "PASS",
+    "reason": null,
+    "header_row": 1,
+    "team_count": 134,
+    "sp_numeric_count": 134,
+    "header_candidates": [
+      {
+        "row": 1,
+        "sp_cols": [
+          3
+        ],
+        "team_cols": [
+          0
+        ],
+        "values": [
+          "Team",
+          "Conference",
+          "Record",
+          "SP+",
+          "Rk",
+          "Off. SP+",
+          "Rk",
+          "Def. SP+",
+          "Rk",
+          "ST SP+",
+          "Rk",
+          "",
+          "Date",
+          "Time (ET)",
+          "Game",
+          "Proj. winner",
+          "Proj. margin",
+          "Win prob.",
+          "Proj. score (rounded)",
+          "Spread",
+          "ATS Pick",
+          "Spread diff",
+          "O/U",
+          "O/U pick",
+          "O/U diff"
+        ]
+      }
+    ]
+  },
+  {
+    "week": 9,
+    "sheet": "FBS Week 9",
+    "status": "PASS",
+    "reason": null,
+    "header_row": 1,
+    "team_count": 134,
+    "sp_numeric_count": 134,
+    "header_candidates": [
+      {
+        "row": 1,
+        "sp_cols": [
+          3
+        ],
+        "team_cols": [
+          0
+        ],
+        "values": [
+          "Team",
+          "Conference",
+          "Record",
+          "SP+",
+          "Rk",
+          "Off. SP+",
+          "Rk",
+          "Def. SP+",
+          "Rk",
+          "ST SP+",
+          "Rk",
+          "",
+          "Date",
+          "Time (ET)",
+          "Game",
+          "Proj. winner",
+          "Proj. margin",
+          "Win prob.",
+          "Proj. score (rounded)",
+          "Spread",
+          "ATS Pick",
+          "Spread diff",
+          "O/U",
+          "O/U pick",
+          "O/U diff"
+        ]
+      }
+    ]
+  },
+  {
+    "week": 10,
+    "sheet": "FBS Week 10",
+    "status": "UNAVAILABLE",
+    "reason": "No row contains exactly one Team header and exactly one exact SP+ header.",
+    "header_row": null,
+    "team_count": null,
+    "sp_numeric_count": null,
+    "header_candidates": []
+  },
+  {
+    "week": 11,
+    "sheet": "FBS Week 11",
+    "status": "UNAVAILABLE",
+    "reason": "No row contains exactly one Team header and exactly one exact SP+ header.",
+    "header_row": null,
+    "team_count": null,
+    "sp_numeric_count": null,
+    "header_candidates": []
+  },
+  {
+    "week": 12,
+    "sheet": "FBS Week 12",
+    "status": "UNAVAILABLE",
+    "reason": "No row contains exactly one Team header and exactly one exact SP+ header.",
+    "header_row": null,
+    "team_count": null,
+    "sp_numeric_count": null,
+    "header_candidates": []
+  },
+  {
+    "week": 13,
+    "sheet": "FBS Week 13",
+    "status": "UNAVAILABLE",
+    "reason": "No row contains exactly one Team header and exactly one exact SP+ header.",
+    "header_row": null,
+    "team_count": null,
+    "sp_numeric_count": null,
+    "header_candidates": []
+  },
+  {
+    "week": 14,
+    "sheet": "FBS Week 14",
+    "status": "UNAVAILABLE",
+    "reason": "No row contains exactly one Team header and exactly one exact SP+ header.",
+    "header_row": null,
+    "team_count": null,
+    "sp_numeric_count": null,
+    "header_candidates": []
+  },
+  {
+    "week": 15,
+    "sheet": "FBS Week 15",
+    "status": "UNAVAILABLE",
+    "reason": "No row contains exactly one Team header and exactly one exact SP+ header.",
+    "header_row": null,
+    "team_count": null,
+    "sp_numeric_count": null,
+    "header_candidates": []
+  }
+]

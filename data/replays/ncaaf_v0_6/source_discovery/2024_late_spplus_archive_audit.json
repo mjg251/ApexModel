@@ -1,0 +1,3167 @@
+[
+  {
+    "replay_week": 10,
+    "source_week": 9,
+    "published": "2024-10-27T08:30:00-04:00",
+    "article": "https://insider.espn.com/college-football/insider/story/_/id/42030183/college-football-2024-week-9-sp%2B-rankings-takeaways",
+    "espn_captures": [],
+    "workbook_captures": [
+      {
+        "timestamp": "20241031135820",
+        "original": "https://docs.google.com/spreadsheets/d/1CJImfkg0ouHIIIGOWRfbvwC0TNWh76n47xkz8nqrVBc/edit?gid=1276709664",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "NRI6EJ4YARDNR5GY4TEG2DHZ44XJFCWZ"
+      },
+      {
+        "timestamp": "20241031151712",
+        "original": "https://docs.google.com/spreadsheets/d/1CJImfkg0ouHIIIGOWRfbvwC0TNWh76n47xkz8nqrVBc/edit?gid=1955033981",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "2EG5AVAYA7RU3ZTLSG576SEH7A53CCWI"
+      },
+      {
+        "timestamp": "20241102144541",
+        "original": "https://docs.google.com/spreadsheets/d/1CJImfkg0ouHIIIGOWRfbvwC0TNWh76n47xkz8nqrVBc/edit?gid=2008813530",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "ZLKHOG3362JP3MZPGOZNUFWVSOTGY4BY"
+      }
+    ],
+    "errors": [
+      "ESPN CDX: 503 Server Error: Service Unavailable for url: https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Finsider.espn.com%2Fcollege-football%2Finsider%2Fstory%2F_%2Fid%2F42030183%2Fcollege-football-2024-week-9-sp%252B-rankings-takeaways&from=20241026&to=20241102&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest&filter=statuscode%3A200&collapse=digest&limit=200"
+    ]
+  },
+  {
+    "replay_week": 11,
+    "source_week": 10,
+    "published": "2024-11-03T15:00:00-05:00",
+    "article": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp%2B-rankings-takeaways",
+    "espn_captures": [
+      {
+        "timestamp": "20241104132359",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "IAYQ2WZNV5AK3HYT6GMRZQQIWUSIC3Q7"
+      },
+      {
+        "timestamp": "20241104235031",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "MHDNEY46ULL2XKRZNVWJRF4BWMJ2QMUJ"
+      },
+      {
+        "timestamp": "20241105235252",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "6HEXEVG3GFJSG7A2TSMK222GHTJPI2BW"
+      },
+      {
+        "timestamp": "20241106005449",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "I64ZE2XGB2OQM6EARDBY3GDMIXQQZ73L"
+      },
+      {
+        "timestamp": "20241106130010",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "JQ5J2P7ZYPEAAZGGWGFATYV3EBNJFA6P"
+      },
+      {
+        "timestamp": "20241106202653",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "TX7XJIS6PFP25GQG5WAZAG4MTKW6EHPH"
+      },
+      {
+        "timestamp": "20241107000021",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "BF2QO6LW6HVSVOMOJ5Q4FJ7DK6N6ZMKD"
+      },
+      {
+        "timestamp": "20241107015342",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "VGFWY2SLZX6WFRGCEQIFQAMZJW6ZYUK5"
+      },
+      {
+        "timestamp": "20241107145716",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "PHNOJSGKH6FPU6QBVNYPFRWIT7ORVRPF"
+      },
+      {
+        "timestamp": "20241107213131",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "QSEZ2TK5VY5HUMCQO6RJ6NNUU3UNZUK6"
+      },
+      {
+        "timestamp": "20241108222902",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "LC6INOLGG5V44GKLCPFP66TXDK4AVPOF"
+      },
+      {
+        "timestamp": "20241108230808",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "QLVW5AKXKDUF5QRSRHLX5S43CKX7HMAL"
+      },
+      {
+        "timestamp": "20241108234226",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "XGDMFH6RUPKDIU74EW5YAT6H5CEMI2JH"
+      },
+      {
+        "timestamp": "20241109030710",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "RPVQFDK3ZBLNVBWY54JBXFLF443ZZHBH"
+      },
+      {
+        "timestamp": "20241109055103",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "ZP3FITAE3QNAA25D3OOPU3CMX3ZZTRRO"
+      },
+      {
+        "timestamp": "20241109120538",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "T7LDJLDJDS557VON3DF5PRXRYOIGC23Q"
+      },
+      {
+        "timestamp": "20241109125051",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "QXOCNDK5UBGREVJ77VTJ6PRJXDZDAXHU"
+      },
+      {
+        "timestamp": "20241109125137",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "FR3CBSPVT3QVODT2KB7I5TRLG5KKGGT2"
+      },
+      {
+        "timestamp": "20241109132631",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "H2E5JKF5E4PDGMNEDIUXQRTIJM4YFD4D"
+      },
+      {
+        "timestamp": "20241109145036",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "SHH3MHQLWQOONBZSGH473MDRNJ3G7OW3"
+      },
+      {
+        "timestamp": "20241109161714",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "SFYGGCMWGYSWCE5I3XWDDNHTAORG3VUA"
+      },
+      {
+        "timestamp": "20241109162346",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "Y67DMFHIEUH6DP2LHSFGIWHCS7E4ECKD"
+      },
+      {
+        "timestamp": "20241109181431",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "GNBMKOLMPUYN5ZMTEDV4MS3WF7BDUP5M"
+      },
+      {
+        "timestamp": "20241109185610",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "CEXAUBV5JOWXXORBLXQSN65HN2JXFNR3"
+      },
+      {
+        "timestamp": "20241109190854",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "XSJEEMOQOKDVUB63IY6DFAJEHY7MIWX6"
+      },
+      {
+        "timestamp": "20241109234304",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "GM5K4SU7JFYH33VHB7E6P3WMBR4ALPE3"
+      }
+    ],
+    "workbook_captures": [],
+    "errors": [
+      "Workbook CDX: HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=45)"
+    ]
+  },
+  {
+    "replay_week": 12,
+    "source_week": 11,
+    "published": "2024-11-10T14:00:00-05:00",
+    "article": "https://www.espn.com/college-football/insider/story/_/id/42309388/college-football-2024-week-11-sp%2B-rankings-takeaways",
+    "espn_captures": [],
+    "workbook_captures": [
+      {
+        "timestamp": "20241113195905",
+        "original": "https://docs.google.com/spreadsheets/d/1CJImfkg0ouHIIIGOWRfbvwC0TNWh76n47xkz8nqrVBc/edit?gid=1547561979",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "4TYSQVMXHRZZCQHTLPCBDHVF5XOVW2ON"
+      },
+      {
+        "timestamp": "20241115073637",
+        "original": "https://docs.google.com/spreadsheets/d/1CJImfkg0ouHIIIGOWRfbvwC0TNWh76n47xkz8nqrVBc/edit?gid=1562968460",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "SR3266AXJMLWUZ4HLGPYMK74AWDIJZVD"
+      },
+      {
+        "timestamp": "20241114001200",
+        "original": "https://docs.google.com/spreadsheets/d/1CJImfkg0ouHIIIGOWRfbvwC0TNWh76n47xkz8nqrVBc/edit?gid=1669636007",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "AMPURAKDPO4TWAISJIURFV2CU5NOZA65"
+      },
+      {
+        "timestamp": "20241110233729",
+        "original": "https://docs.google.com/spreadsheets/d/1CJImfkg0ouHIIIGOWRfbvwC0TNWh76n47xkz8nqrVBc/edit?gid=168123984",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "OZJIBV3XOYCWQXOEVDHATOLGJ42UQGME"
+      },
+      {
+        "timestamp": "20241116044015",
+        "original": "https://docs.google.com/spreadsheets/d/1CJImfkg0ouHIIIGOWRfbvwC0TNWh76n47xkz8nqrVBc/edit?gid=2086195576",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "KIEXUCWE4WN5DFKSSZ2VBHD2XPB6TUFH"
+      },
+      {
+        "timestamp": "20241115193850",
+        "original": "https://docs.google.com/spreadsheets/d/1CJImfkg0ouHIIIGOWRfbvwC0TNWh76n47xkz8nqrVBc/edit?pli=1&gid=608901635",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "F7ANK4OZ4FWPZESAEPYL6T3PGXK4TXD2"
+      },
+      {
+        "timestamp": "20241110183623",
+        "original": "https://docs.google.com/spreadsheets/d/1CJImfkg0ouHIIIGOWRfbvwC0TNWh76n47xkz8nqrVBc/edit?gid=816165128",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "7CEYK63W7MTMTXDEHLT4DH42HEUT5OUJ"
+      },
+      {
+        "timestamp": "20241109230441",
+        "original": "https://docs.google.com/spreadsheets/d/1CJImfkg0ouHIIIGOWRfbvwC0TNWh76n47xkz8nqrVBc/edit?gid=853906791",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "EPNRRQCXEAYYJ3TOV7AQW4UO4UDKMYJZ"
+      },
+      {
+        "timestamp": "20241111120511",
+        "original": "https://docs.google.com/spreadsheets/d/1CJImfkg0ouHIIIGOWRfbvwC0TNWh76n47xkz8nqrVBc/edit?gid=861587089",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "4F3PKVUHB6MGBYHH4M34GVAXWKRT6KBH"
+      }
+    ],
+    "errors": [
+      "ESPN CDX: HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=45)"
+    ]
+  },
+  {
+    "replay_week": 13,
+    "source_week": 12,
+    "published": "2024-11-17T10:00:00-05:00",
+    "article": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp%2B-rankings-takeaways",
+    "espn_captures": [
+      {
+        "timestamp": "20241117165201",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "SP7VNQHZ5A66ZV35ZIWAJRM6UJFF763H"
+      },
+      {
+        "timestamp": "20241117221036",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp%2B-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "H4TN2HNG5QVKZQUCRGG26KLPQKW4BHVS"
+      },
+      {
+        "timestamp": "20241118172909",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "AOGWZ4T2KFM44LDB6HNVLBDST37EBB4U"
+      },
+      {
+        "timestamp": "20241118173111",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "SGAMAMKZVE3DRIHZXF7XSFWF6OQBPM5J"
+      },
+      {
+        "timestamp": "20241118173609",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "6WYDP3E4KCXPJWZW7OFBWZJKDZDZQK3G"
+      },
+      {
+        "timestamp": "20241118174714",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "YXFT6ZWMF3DGLWOXKP6GKWJL4BUN7QM4"
+      },
+      {
+        "timestamp": "20241118174929",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "WH47VTCIQBXKJ4SVNRRRCMU3FBOR36KB"
+      },
+      {
+        "timestamp": "20241118175706",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "QZATOJXNKILTACQENJQOBG3ICTHSL46R"
+      },
+      {
+        "timestamp": "20241118175900",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "MULT4ZRGTHK24A7LAR5FZJX7IYYRRPO5"
+      },
+      {
+        "timestamp": "20241118182537",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "KVXRXLUIRWSCNKK3IYZILLN3DHQ7TFOQ"
+      },
+      {
+        "timestamp": "20241118182719",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "GEL54LX6PBG6RZHRDSBX2PSY5V4MHFWT"
+      },
+      {
+        "timestamp": "20241118184046",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "OX5UFLFNZRDR535356K55MUOPXUVX3G4"
+      },
+      {
+        "timestamp": "20241118190053",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "5LD2GG6J6THJCR6B6ZVJKKKDLCDEJNEU"
+      },
+      {
+        "timestamp": "20241118190730",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "ZSW57J2NP74QVR3YPQBVQZPIGHHT777A"
+      },
+      {
+        "timestamp": "20241118192411",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "5IJCE7QRGLGUJR46RLI7ISVV2CXE6I3L"
+      },
+      {
+        "timestamp": "20241118193836",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "LBO4SJADTV7HG42CM7DYDX24WTYVWNUC"
+      },
+      {
+        "timestamp": "20241118194205",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "2RF2AKFFVJ6YTZXCXQQHFPJ66YNM7YJC"
+      },
+      {
+        "timestamp": "20241118195337",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "LPZUXFV6IO5LAPCPPF4PKAJPQZESYEWX"
+      },
+      {
+        "timestamp": "20241118201257",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "GLNNFLV727HS7UA3AXQX6SM45E2PSB5K"
+      },
+      {
+        "timestamp": "20241118203858",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "PSLSVBEZU24EOTPEQWBNQXNSU2NEGJLM"
+      },
+      {
+        "timestamp": "20241118204507",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "AAPNC3QMECM3F276FU2XQ7FMH64GHLBC"
+      },
+      {
+        "timestamp": "20241118205025",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "DLM3YXEWCXWYJIR7AFV4ILA66MMEMJ6F"
+      },
+      {
+        "timestamp": "20241118205536",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "WW2QGQNXN67YUE6WWCCHSJEE2UX3PGRI"
+      },
+      {
+        "timestamp": "20241118212654",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "O5EOG47IQNLZHZX64U6S6BY7Y6GC3XLY"
+      },
+      {
+        "timestamp": "20241118213113",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "K3PBR55GKD4ACOED7446MDRFY3U5QRIN"
+      },
+      {
+        "timestamp": "20241118214135",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "MDVXF3OF5N2XOFYRWQXMS5SZL5OYCZ73"
+      },
+      {
+        "timestamp": "20241118220921",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "YQSDTB4ETBSZLM25LYQKGQOB3SRAEUEM"
+      },
+      {
+        "timestamp": "20241118221340",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "WOKQ2R226M7PQVW2IYFJECYTUNKKVOF3"
+      },
+      {
+        "timestamp": "20241118222003",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "2ZK5UKJE2NTQY7MEL6L4ODECDCWK5NHN"
+      },
+      {
+        "timestamp": "20241118222459",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "FFBLXWOFT7LCLIGV5JOK32HHZXHLE3HS"
+      },
+      {
+        "timestamp": "20241118224901",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "FKHYU4KGQDE5QWR4IIXH67ZRXW4C74U3"
+      },
+      {
+        "timestamp": "20241118230659",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "CH5JDKPMLUK64BZBM5SCTTQYKNM2F6BP"
+      },
+      {
+        "timestamp": "20241118231632",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "F4VNZH4YC2RMJOSRGBVAYJUKLB5UJDLW"
+      },
+      {
+        "timestamp": "20241118233918",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "UPGXNNYDJSMQDE4G2W2FKG6SDXKHG74H"
+      },
+      {
+        "timestamp": "20241118234607",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "PUXRRIDM3JPLOOLM6ZF3OPWVFXGO6H5M"
+      },
+      {
+        "timestamp": "20241119000424",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "Z3SWY7EODNAGKTSHNO34PTQ5S4JYKVHM"
+      },
+      {
+        "timestamp": "20241119000951",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "R7QJ4FZ3S7F4RP4DDMV6XOH5LZCCQEAL"
+      },
+      {
+        "timestamp": "20241119001327",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "5GBRP6WBCTLHMGU346B55SAPBJEGGJ2E"
+      },
+      {
+        "timestamp": "20241119002006",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "ACER32PPF4LV7Q6TPRAQZ6WKFHHZSA3G"
+      },
+      {
+        "timestamp": "20241119002926",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "AYAVIW25LDQKF2CVES2ZXSL44UTH5D4N"
+      },
+      {
+        "timestamp": "20241119005012",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "JCDNWYI7V7OIHEWAR5KGCSYTVYNKB5C3"
+      },
+      {
+        "timestamp": "20241119005231",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "DLY2HY6G52MFTSM2WW4G6BBRB2BH34JC"
+      },
+      {
+        "timestamp": "20241119014155",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "EU5BJIMRWOC7YGBOIY2RKVVV7DOLZ464"
+      },
+      {
+        "timestamp": "20241119020239",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "6WO5URFPP6XWIHZMGZ3GBC2A6KVR7QYX"
+      },
+      {
+        "timestamp": "20241119021225",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "O26AOJSSPFRYDIOBZ7KFPQ6SEP2XBOXA"
+      },
+      {
+        "timestamp": "20241119021620",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "AW32CGKLN4OWYDLHNLYS3FKHWSTLCKLT"
+      },
+      {
+        "timestamp": "20241119022644",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "P5AA7N3SR7UDPPLQGHW6LR4HGIR5XEQP"
+      },
+      {
+        "timestamp": "20241119024658",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "5DT6UTWNARHMCGS4XHBJNIGCAPRVYADZ"
+      },
+      {
+        "timestamp": "20241119030403",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "4AZAPTBRVDSXGZJGV6CZX3FEUG3PQPKG"
+      },
+      {
+        "timestamp": "20241119030829",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "N2FB56HH5U6BZ3HIIHUSPH2VVQBQY6HU"
+      },
+      {
+        "timestamp": "20241119031732",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "CLNAMQUMTP75MJFLIDPVJMUEO6GFZD4U"
+      },
+      {
+        "timestamp": "20241119031809",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "MS6GXTKYMZX5RHI3YZDYZH7D74WZQQ6D"
+      },
+      {
+        "timestamp": "20241119033409",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "344Z3V4CXABVQCTGOCXUOWFGCYFRTUBP"
+      },
+      {
+        "timestamp": "20241119033631",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "ZFHC6EDNXV3ZHT7LLS5FVVTYBUY6MDMD"
+      },
+      {
+        "timestamp": "20241119034741",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "5DFQRTP5K2SWPKA7IZ65OIEX2ZWIEEGE"
+      },
+      {
+        "timestamp": "20241119035924",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "62QSIZ7GZCG2GF5O7A4N635ROI6YWP4V"
+      },
+      {
+        "timestamp": "20241119040537",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "IKXC3GB7Q4O4JNLSYPWXLGXBKTRZYLZD"
+      },
+      {
+        "timestamp": "20241119041330",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "RUTMD7MBLX34M3VQKF4GS22ERCVCAYAA"
+      },
+      {
+        "timestamp": "20241119042400",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "UVDMADXBRGPQKYF75G2253HOE3DARB43"
+      },
+      {
+        "timestamp": "20241119042432",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "ZSNBWZ7PVUEOEOOMJPYL6QBBUHVYONL5"
+      },
+      {
+        "timestamp": "20241119043140",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "NG4RR6IXHTUJF6KVGN2XAYARZ7L3JIJN"
+      },
+      {
+        "timestamp": "20241119044025",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "UIAZ3WRSYEWZU7SC7VHQK2EEHFNIHQDG"
+      },
+      {
+        "timestamp": "20241119045348",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "PEAGVXAHGUSAJOYDSGMF6PAKLF5ZSXKJ"
+      },
+      {
+        "timestamp": "20241119045858",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "CUWIPFUQP2APNHKM2UBQ3USNSKOIGCCE"
+      },
+      {
+        "timestamp": "20241119050445",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "CMDFL465YNDHDTUDJPNOECFLHZ2MWDSG"
+      },
+      {
+        "timestamp": "20241119053953",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "YF5ZU6DYXCX3BCD2INU3XBIQSX3CVLFE"
+      },
+      {
+        "timestamp": "20241119054833",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "QXUGXPTCVNFIVPCID45355KTCL4EWPUD"
+      },
+      {
+        "timestamp": "20241119055909",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "TII4D5TG57ULND3OQFRMP3QYDHW7AKNK"
+      },
+      {
+        "timestamp": "20241119055934",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "IR4KDNUQH5FUXEVEH6NMMSA53QQ572MS"
+      },
+      {
+        "timestamp": "20241119060505",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "5FUKJX3VUTDXES4D2PPQVODGIINQ7BWI"
+      },
+      {
+        "timestamp": "20241119061113",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "EYQO6PU5EE2FBSEQTYJUFYGG4HPOWKKB"
+      },
+      {
+        "timestamp": "20241119061756",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "PP3Q63WNKKZHJ3W7R6FQ2PVWXEIVS3YK"
+      },
+      {
+        "timestamp": "20241119062603",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "FSU57DPK6FBRTJWWAJPO3V4U4IJYY4QO"
+      },
+      {
+        "timestamp": "20241119070143",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "7PK3RDXQP7TFDATEVPYSMNTMPMSIRSRR"
+      },
+      {
+        "timestamp": "20241119070921",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "C6ZBOVMTGYGXJK5VNQVMM5F2L5VQNZ43"
+      },
+      {
+        "timestamp": "20241119070943",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "NKYDZ3N55RMVABP3WMN36OM3EMNTRKTV"
+      },
+      {
+        "timestamp": "20241119071717",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "KI6TTY6D4EV2T5CPARQIB6HK2NU2DNNU"
+      },
+      {
+        "timestamp": "20241119072649",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "SUHCDQDGTW6W365YRKKDBQD66SLM3ASD"
+      },
+      {
+        "timestamp": "20241119075443",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "6TL7IIM4HRE66RYXADGWGME6LQSHBZ75"
+      },
+      {
+        "timestamp": "20241119081328",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "N5HCXIT2YLU3HNOWQPR27GMQPB5XGMKY"
+      },
+      {
+        "timestamp": "20241119083559",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "HV6IJLSSLOZDLSQZVZLP6XSZNT4S4OQW"
+      },
+      {
+        "timestamp": "20241119084231",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "ZAZMCQVBHLVHB3D3FO6Q7GU3YGHWP4RD"
+      },
+      {
+        "timestamp": "20241119085657",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "NS24SGGQA6FRI567FUMIPEPGEB3XSD6T"
+      },
+      {
+        "timestamp": "20241119090813",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "ZHVVHFSPEYJJUS74HGT6MNMECQ3QNCOX"
+      },
+      {
+        "timestamp": "20241119090941",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "NT5XK5CQZM4VTEE4ONZVXQ3SREHVTPDU"
+      },
+      {
+        "timestamp": "20241119091121",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "SRBMW4ZB2RZOPDICY3UV4E63Q4A6EVNN"
+      },
+      {
+        "timestamp": "20241119091843",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "ZUALJY7BWJ3TUFNLUZZOWCNTE3OSZREN"
+      },
+      {
+        "timestamp": "20241119094528",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "IVUPJ7O4SS63DI4OW2DWHZH5EW4764UM"
+      },
+      {
+        "timestamp": "20241119095909",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "RKOLQCE3ZFY5SQ6BEZ2U43VSSL5YGY2D"
+      },
+      {
+        "timestamp": "20241119100830",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "SRJ2QWLMI3EDWKWBD2TE2AYEED3TQVXD"
+      },
+      {
+        "timestamp": "20241119101246",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "O67R6WJOADJKJGYGSOOECMJFTY4HFVEB"
+      },
+      {
+        "timestamp": "20241119101336",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "QRXZ2XS6SLIB7DTWUXAF7PKI7IUNLXLY"
+      },
+      {
+        "timestamp": "20241119101550",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "XFP5OV2ZE7EWDHZQYGPTE6PIEVCW56GN"
+      },
+      {
+        "timestamp": "20241119103845",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "TYKEVUFH6IYEJFWHW2UG2LNKBB5VHL5O"
+      },
+      {
+        "timestamp": "20241119103937",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "WMXWJWJLNLKJY3LBCH2YSZMNROY6MARJ"
+      },
+      {
+        "timestamp": "20241119104912",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "SASD2NJEF725RHL736QXSCCWVDXSKKKP"
+      },
+      {
+        "timestamp": "20241119112432",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "4BDPEJ3FDZJBM4UQAWVABTZCFEHMFZWS"
+      },
+      {
+        "timestamp": "20241119115102",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "TLCC264DOZAG2V2SJWQGCDOTM2V4PXD7"
+      },
+      {
+        "timestamp": "20241119123204",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "IY2ZNU2MDOEVZKKTRHIOKN52QKT533MB"
+      },
+      {
+        "timestamp": "20241119123248",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "642YTQ4ZBES4AE6DBJNJAKF2CNNNDI3A"
+      },
+      {
+        "timestamp": "20241119123340",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "EAZZILNR7DH7TLVB4O2BR7USJTOJUJSA"
+      },
+      {
+        "timestamp": "20241119125721",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "T4DCN65RPF2VD6MGP3KKWBHLCRQLM3QO"
+      },
+      {
+        "timestamp": "20241119131827",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "N4F3CV7K2CNIHZFUNQHCCGDQSDTF5P5D"
+      },
+      {
+        "timestamp": "20241119132504",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "QR7W7AWKQ55T7566F5EP32ZCOPWHKY4Y"
+      },
+      {
+        "timestamp": "20241119133354",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "NUQIMEPYKK3YRB3SIRVKIY64W62QQAZY"
+      },
+      {
+        "timestamp": "20241119134103",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "R7BACR7EHVEM354X3J4POJLHCFJFI4CY"
+      },
+      {
+        "timestamp": "20241119140658",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "2ZM5LNT7MKZGEQ23RMJL2A53VIQWGBU3"
+      },
+      {
+        "timestamp": "20241119141509",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "PDFE5EZ2WX5MRTFPV2H2GYHOALL4D4ZK"
+      },
+      {
+        "timestamp": "20241119143820",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "6QK5ZB5ZD5O7GCLHW37LRDOM7KSP7TK5"
+      },
+      {
+        "timestamp": "20241119150156",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "SCMH7WFFHKDS5YPXKERXGFXM6JHBIOGA"
+      },
+      {
+        "timestamp": "20241119150347",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "II2VM664KUMWTUP423Z5VKEY5AJMNKAD"
+      },
+      {
+        "timestamp": "20241119151855",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "7SFMEVSB6DZNUYIVILPFZ7FMHHVG5OQH"
+      },
+      {
+        "timestamp": "20241119161731",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "EDMWTWP3AUZ4TPIPZOJ4NWVUAQA5LSR7"
+      },
+      {
+        "timestamp": "20241119163828",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "JRVR5RQOB46H4KM7VECZ3SH5WS5X76VX"
+      },
+      {
+        "timestamp": "20241119164509",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "CW6ABV3DJ4BOKGIMQDGXB7IHLOMM6TUD"
+      },
+      {
+        "timestamp": "20241119170635",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "WZ4K65YBUAUOKMIRTHK277YZQBXGGCDB"
+      },
+      {
+        "timestamp": "20241119172706",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "GCU6NLAG5ID5RWAWAYPA255QNWMB3WGF"
+      },
+      {
+        "timestamp": "20241119174117",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "S5M3JI6RE33YEFGATM2ATUWMDIK5DK4V"
+      },
+      {
+        "timestamp": "20241119174900",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "AXOCHPQTWQJLZ42SSVFFWD7TBOEFKKUK"
+      },
+      {
+        "timestamp": "20241119175710",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "AE3GAZDVOLZVGHDPTAW2MQTDZC4N6GCU"
+      },
+      {
+        "timestamp": "20241119180842",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "LX5GFNHLTUZ3RFQAVBRDF7K2ZVTCQ6EP"
+      },
+      {
+        "timestamp": "20241119183752",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "P7CXZP5B5LIDFB6XQTAYSRLE7YA7NT56"
+      },
+      {
+        "timestamp": "20241119184031",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "O7FAJZV54Z4LX7QU2OIXPQ6HJYE2WMCG"
+      },
+      {
+        "timestamp": "20241119193135",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "F44EQIBEV4AEYRHHJGDWB377XCCEVEWU"
+      },
+      {
+        "timestamp": "20241119193200",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "OYZIJZHDZC4IGI6THEZAA3UC6QT7M7TG"
+      },
+      {
+        "timestamp": "20241119201006",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "C2UXB3TJGQXZ5ZCRGWT2YTFYFJZ3P3U4"
+      },
+      {
+        "timestamp": "20241119201055",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "6M4M6LLCLTE7BFL63HR4TASAQBBAC6JX"
+      },
+      {
+        "timestamp": "20241119202657",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "SQ4W3QIOAZODMBQTDJKMWMVH4OT25QQH"
+      },
+      {
+        "timestamp": "20241119204055",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "A3ZNU6MNXOZMHKAUSPQTJH323J7TOGMN"
+      },
+      {
+        "timestamp": "20241119210910",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "MK35R4GGJ5EEV4S3ROR5SJ4TEOGEZHKO"
+      },
+      {
+        "timestamp": "20241119215736",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "CLXRD7EBUGJOU4P7LWXY24HSA37WRHSJ"
+      },
+      {
+        "timestamp": "20241119220136",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "RLLBKI7Y5CM6EE2APDR2XE7VPMPMKI6D"
+      },
+      {
+        "timestamp": "20241119221201",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "YJYLV4FKDHRU5TTHEJCQWZFM7RFGADXG"
+      },
+      {
+        "timestamp": "20241119223331",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "Z6DUN5VQI5RJULXEHL6E6O7EPUN4IJCK"
+      },
+      {
+        "timestamp": "20241119224556",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "6UWENFXJ4L2FDP2BODUQUSD6T6RHDGAI"
+      },
+      {
+        "timestamp": "20241119225557",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "ER5OSU2QNKK6AXBPJ2U5CJAL643KXKH6"
+      },
+      {
+        "timestamp": "20241119230444",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "JSWGGTX343VEBTP74SVK6SH77A7I7AUG"
+      },
+      {
+        "timestamp": "20241119231316",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "TCUBIJ6XEJF3RRGJQAJCFVTAN72FKATD"
+      },
+      {
+        "timestamp": "20241119233235",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "D4V7W6PQ7E3T7NX4H67XL3FREASBEES7"
+      },
+      {
+        "timestamp": "20241119234123",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "I2UFMTKGLCRFGNXWJC2MDPC4NW7NCU5T"
+      },
+      {
+        "timestamp": "20241119234612",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "5Z2LRTHGAX74OZEO457MNIRRV5WXC3C6"
+      },
+      {
+        "timestamp": "20241119235144",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "EBDNTD6XRDCXSJDRYP22Y7N3LRS3NTEW"
+      },
+      {
+        "timestamp": "20241120001949",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "HSMUX7WM5XTFK33AA2E4PCVI5W4Y6IOT"
+      },
+      {
+        "timestamp": "20241120002730",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "3TSQLMBH4OEHWSNQQQGYK23KUSQZQHKJ"
+      },
+      {
+        "timestamp": "20241120003713",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "FYNDVLF5AFNBT4ZSRGAHTBSDYACKTYYY"
+      },
+      {
+        "timestamp": "20241120004901",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "TDPDJ62EWH3HTYHAJQXJEE5MGHIIQ5OZ"
+      },
+      {
+        "timestamp": "20241120011206",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "4BV5BCFTWUHTRSS5P2VUJHFTDCYZCEEV"
+      },
+      {
+        "timestamp": "20241120013647",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "U7XVUG25OGK54LDKOHMPCCW2ABTTTI4C"
+      },
+      {
+        "timestamp": "20241120014730",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "EG3PJZGQTQI6B4K6TT3UWZOVCCYSH4XE"
+      },
+      {
+        "timestamp": "20241120015510",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "FTV3CQNN5B7RMJD3KDRUPKFOLZAB2AWY"
+      },
+      {
+        "timestamp": "20241120015608",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "JPBGFVCUXPGMFZRJIJZTTDUNON2V4VLO"
+      },
+      {
+        "timestamp": "20241120020542",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "VIJN5YSRFXDGG6AMG6VU72TAGCSGZMCU"
+      },
+      {
+        "timestamp": "20241120020859",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "5EPFQ676OD5PSS4HWANWXLSHL65G6KIV"
+      },
+      {
+        "timestamp": "20241120022711",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "GSYEEJBS7GUZTWXSGE6FSDU5NEXMZVTE"
+      },
+      {
+        "timestamp": "20241120024201",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "BDXFEFEMKHEOXY5KE36NH5XTABHR3CJX"
+      },
+      {
+        "timestamp": "20241120025015",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "O2YSG6LHI4HBXHJDI6WW6WEDVJENQM7T"
+      },
+      {
+        "timestamp": "20241120025122",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "2S7WAI75QD2W6RXAWHM2BQP54BX7YPSY"
+      },
+      {
+        "timestamp": "20241120031805",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "W4NLE2WMCAUXQI6AJCYAS2EBL2HT4HLF"
+      },
+      {
+        "timestamp": "20241120032948",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "HBKPXAUXSTBDDT3T34AWKY5AB4JXPKZ4"
+      },
+      {
+        "timestamp": "20241120033651",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "KQTJHVXOVKQILJZICK3VIAV3DY4VEYAY"
+      },
+      {
+        "timestamp": "20241120033839",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "XV3M4UBXNUAXTWEI426DA2MCT5Z2K4XZ"
+      },
+      {
+        "timestamp": "20241120043029",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "6XR7YUGUGTHVP5YJBFIT7MLIYKSOVKFC"
+      },
+      {
+        "timestamp": "20241120044056",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "PJRTNQHVNOMI4PL4VGVFLU3IU4CXSEM2"
+      },
+      {
+        "timestamp": "20241120044158",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "3DDAYXFYMXAKDAMJ45L3PD2SKMDCHANJ"
+      },
+      {
+        "timestamp": "20241120045002",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "4L7RP2EDWO4DNM2YOSR5D3SWCWRAIPGD"
+      },
+      {
+        "timestamp": "20241120055431",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "WLPDDRIGOO7NMLU2KXO6PK4QEJ76YRT6"
+      },
+      {
+        "timestamp": "20241120060942",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "ZFQSQVFDV475MAGE7W7R575SIUDJZHHT"
+      },
+      {
+        "timestamp": "20241120061042",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "FMDU3DIHUFI2PXDXOCEJZN6KO7OBBHUN"
+      },
+      {
+        "timestamp": "20241120062508",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "MQUXVXZMSVZGUWYNQWMZHDLR3JSFYH7L"
+      },
+      {
+        "timestamp": "20241120064509",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "C2MVVDD25FF372T2J2AHR6RER7NKZLDH"
+      },
+      {
+        "timestamp": "20241120071802",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "USVXE5NVFA2V6KPAUOCUCMT3AQBAPAUG"
+      },
+      {
+        "timestamp": "20241120072007",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "D4YZNKVFLLZANYHUYNPMPVMCJZKSHQRH"
+      },
+      {
+        "timestamp": "20241120072604",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "K6MYWHIVUWEPDOHFBCNIRZAQ3G2LKUDY"
+      },
+      {
+        "timestamp": "20241120074042",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "M2TQ7ZOO3PNCQY5XVSK7462YWWLXYWK6"
+      },
+      {
+        "timestamp": "20241120075538",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "ZDPQYFPODNNHJFDTLTXZM6KN4DQRL7LT"
+      },
+      {
+        "timestamp": "20241120080052",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "RXTCXQSUTMPCFTSNTYCVPN7TP6HOSG7T"
+      },
+      {
+        "timestamp": "20241120080340",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "OASUQMXR72QMZMXBREIPGCJFX33AVKLK"
+      },
+      {
+        "timestamp": "20241120080733",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "XK2YFXSPTFPFN5WC6MQUDDTYBSSPPS2G"
+      },
+      {
+        "timestamp": "20241120081748",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "YNUR4KCL26UF34HWTKQXOCEJ6TP2SELT"
+      },
+      {
+        "timestamp": "20241120082251",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "FSKXBOWTDBV4RADUUAN43BQCWGXQBTLP"
+      },
+      {
+        "timestamp": "20241120084514",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "JWIHLNGVECXBWBK6TDWMWHAXQIXBM467"
+      },
+      {
+        "timestamp": "20241120085157",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "LDHG45IVNGRKZMI26B2ZZ64SXLHNP5BT"
+      },
+      {
+        "timestamp": "20241120085801",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "WPYOINLOWP2J76UXX4KADR25BWJINFUB"
+      },
+      {
+        "timestamp": "20241120091118",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "5L6LQZI5BQRLO7TP32IKYHOWW3H4HST7"
+      },
+      {
+        "timestamp": "20241120091356",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "AUIJ7XDLMTZHDW3C5Q2LNUMHUXSHTG2Z"
+      },
+      {
+        "timestamp": "20241120091936",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "FFFNAOPLHJN3TII26L5YAQQHOSQK4KHH"
+      },
+      {
+        "timestamp": "20241120092427",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "MB7AZEHIH4ANPMYE47Y6WK2VRDAJQ43W"
+      },
+      {
+        "timestamp": "20241120093739",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "RPIJM2LWASBGF2L3HFKDGEL5WNCM4NQT"
+      },
+      {
+        "timestamp": "20241120095344",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "6ZMGUOHHCVQTYL5OVVD2SNVNKTJBKIGT"
+      },
+      {
+        "timestamp": "20241120100616",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "WBTZ7RVWYH4FTVT6GKRD7RYK3SMSRBM2"
+      },
+      {
+        "timestamp": "20241120101358",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "RT6ZRK2AI3ALHQA3ISU3VEUM7FBSRTOL"
+      },
+      {
+        "timestamp": "20241120102801",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "GPCRZ2QM46L52LQZQRMLG6X2BDTOWLUX"
+      },
+      {
+        "timestamp": "20241120105014",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "HAWUZYQYDIAYK3CEI33HYREVN7CEHRE6"
+      },
+      {
+        "timestamp": "20241120111153",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "YHZWFU3VZU7T7PDSW5I2LCYRG76QNOZV"
+      },
+      {
+        "timestamp": "20241120113942",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "52DI6N3RAYQLRWF5RWOOTF6A5DDH3PUB"
+      },
+      {
+        "timestamp": "20241120115511",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "SHV3VCBCN5MWGIU3V4J5PWQBK2E34CV5"
+      },
+      {
+        "timestamp": "20241120123624",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "JR2D6AFK6R5NH2B6HL5SOKEMJEGM6AGJ"
+      },
+      {
+        "timestamp": "20241120131744",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "5HQ6YYBCKDOIPOLQVGJKZTSNLQQW4HXC"
+      },
+      {
+        "timestamp": "20241120131900",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "JLZJGJU3RBJNZS4SOMIEHHXP5ODQDJBA"
+      },
+      {
+        "timestamp": "20241120134112",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "Y3TCIFD6MKV5M7E7XACN5QJ2XNNRMBE2"
+      }
+    ],
+    "workbook_captures": [
+      {
+        "timestamp": "20241118123523",
+        "original": "https://docs.google.com/spreadsheets/d/1CJImfkg0ouHIIIGOWRfbvwC0TNWh76n47xkz8nqrVBc/edit?gid=1446951386",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "67KZLJZNI62NR5NTQJMIQHQ7R3KUQLAA"
+      },
+      {
+        "timestamp": "20241116044015",
+        "original": "https://docs.google.com/spreadsheets/d/1CJImfkg0ouHIIIGOWRfbvwC0TNWh76n47xkz8nqrVBc/edit?gid=2086195576",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "KIEXUCWE4WN5DFKSSZ2VBHD2XPB6TUFH"
+      },
+      {
+        "timestamp": "20241117233647",
+        "original": "https://docs.google.com/spreadsheets/d/1CJImfkg0ouHIIIGOWRfbvwC0TNWh76n47xkz8nqrVBc/edit?gid=272141798",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "IRL63MUAJVRYWMWMSF4PRZVDJHRJJBCC"
+      },
+      {
+        "timestamp": "20241117183835",
+        "original": "https://docs.google.com/spreadsheets/d/1CJImfkg0ouHIIIGOWRfbvwC0TNWh76n47xkz8nqrVBc/edit?usp=sharing",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "P5IOKHSEFQ3D5RE3XOTYKQQTTLHPUPIT"
+      }
+    ],
+    "errors": []
+  },
+  {
+    "replay_week": 14,
+    "source_week": 13,
+    "published": "2024-11-24T15:10:00-05:00",
+    "article": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp%2B-rankings",
+    "espn_captures": [
+      {
+        "timestamp": "20241124205136",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "56ZSUJSQN56IEBVRXL4CKP3JH7VVA7KS"
+      },
+      {
+        "timestamp": "20241124210127",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "XYAIDWX3VR7P2TFZZLH3RWAD3BZFRGJV"
+      },
+      {
+        "timestamp": "20241124210856",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "Z5BOGT4RVCITGBQDL4MAWVRZDSHG2CTW"
+      },
+      {
+        "timestamp": "20241124211902",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "Z53745H6QXGB737X7UT4MJV7SDUPQHM7"
+      },
+      {
+        "timestamp": "20241124212439",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "HFK4PRYX6OCVSLW7UFHVSEDTBR3YDJHS"
+      },
+      {
+        "timestamp": "20241124213453",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "Z4MK2FECOIMDF4OTBLHVMPMPG7V2YSHC"
+      },
+      {
+        "timestamp": "20241124215327",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "42QJLLDTMCP2FCBX3QBVEEOXLU5QRPGY"
+      },
+      {
+        "timestamp": "20241124220535",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "XJ5OALOBZPLBINU5H3CLGDBN4WVTKH5H"
+      },
+      {
+        "timestamp": "20241124221900",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "UWPJLBISRFWBDJLG2DWAPHAAS55ZFHPR"
+      },
+      {
+        "timestamp": "20241124230341",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "6Y4APPCUFSTRPGDNN4C3XLI3HMRLSVPV"
+      },
+      {
+        "timestamp": "20241124232624",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "NIDULPX43TPSC2SOEI7AA5SZDHNLASHH"
+      },
+      {
+        "timestamp": "20241124234416",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "LDJ3SNO4NQISJSLATJSLLZ5ZTCOGGM3L"
+      },
+      {
+        "timestamp": "20241124234435",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "QL4BTVBHDGYD7JZGHFAVJJTXIY5DATD3"
+      },
+      {
+        "timestamp": "20241124234541",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "LCQ4ISHITSW6ALYL7VSNKPG62FLFBKKQ"
+      },
+      {
+        "timestamp": "20241124235414",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "74BRPPGS3X4RGVKRZT5F5K33WXZTYR6P"
+      },
+      {
+        "timestamp": "20241124235812",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "Z5BMXLMMKAWTCALWFK3WKSKKDQ4FKXAY"
+      },
+      {
+        "timestamp": "20241125000037",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "XK4D66NRSAPF6L5YQBM3CBDXTQGGV7HI"
+      },
+      {
+        "timestamp": "20241125000412",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "XAPM7FXV7ELYXE75WX27S4SOEQ4F45Q5"
+      },
+      {
+        "timestamp": "20241125001235",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "GVVEN4WPY3E4VILWXZ76OZC4OQV5FYN4"
+      },
+      {
+        "timestamp": "20241125001637",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "ICVOICJIDEJLJHZLFIZH4ZWY4ZKTYFJ2"
+      },
+      {
+        "timestamp": "20241125003318",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "Y3K66XXGH2RWJQJMPIIHWNWMRLTMNLNG"
+      },
+      {
+        "timestamp": "20241125003444",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "4ZUPD3X6ZXLR6BGMR46J2N6JWLRN5EMB"
+      },
+      {
+        "timestamp": "20241125004433",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "KQNMOJHMXUUUHNCA6OPJLMBFGU2DC3ZA"
+      },
+      {
+        "timestamp": "20241125010302",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "WC4YAZPFXEMN35RK2MXFTQND5YS5I6XZ"
+      },
+      {
+        "timestamp": "20241125015243",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "ZCIOVBFXJVAFLQMCQXPVICX7CN5YLWFS"
+      },
+      {
+        "timestamp": "20241125020244",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "CTAPKVBGD5WHHLGGVQN2OG2RHDTQYPBK"
+      },
+      {
+        "timestamp": "20241125020917",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "USTXORIO6IC62MG4T5DHSG72OGLYHJII"
+      },
+      {
+        "timestamp": "20241125021202",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "LN36ZNHX7BQNQOYUPJ4V6VW3O635CDPR"
+      },
+      {
+        "timestamp": "20241125024333",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "WOZQNPNGH2SNNWUYJMYFUTNKSHVUHXFZ"
+      },
+      {
+        "timestamp": "20241125024652",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "FHYMMV2O7SS2OXZHTUEFJGYYOJY5WVUU"
+      },
+      {
+        "timestamp": "20241125032203",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "NQTLSEEMRJCLA5B77EKO42OQV5LHT7FZ"
+      },
+      {
+        "timestamp": "20241125032806",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "PFO2KE5A664JQ3LT4YF7E6CBVK34JO6V"
+      },
+      {
+        "timestamp": "20241125034000",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "PKXEL72FG7FS6ZR4RSAWXOABRPRJMEKH"
+      },
+      {
+        "timestamp": "20241125042310",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "6FAERAEM4RSVRUDO4VEZVXMF6T6CAIOL"
+      },
+      {
+        "timestamp": "20241125043522",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "A6S3ZM7WDL26JZYQBHVTTJ2UMZJE7VJT"
+      },
+      {
+        "timestamp": "20241125051454",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "IFMMPKVGWBXF5HLGNA7FQF46EQIFLBDM"
+      },
+      {
+        "timestamp": "20241125053441",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "CBUCKWQBDJJPJAUBFXSFKT5WBO23U7WW"
+      },
+      {
+        "timestamp": "20241125054232",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "VN2XACY6HHBFQC2WJEGNLVNS7R7CENWO"
+      },
+      {
+        "timestamp": "20241125060341",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "LLSZRHZFI2GW3S7WGFNYEZLPSNSKO3N2"
+      },
+      {
+        "timestamp": "20241125065108",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "HOKRO5YLCF3NIE6CSYUNZS45DPXVU4QT"
+      },
+      {
+        "timestamp": "20241125070127",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "ZLPBZCL57RAIC4LM327OVDZSJOII4TSC"
+      },
+      {
+        "timestamp": "20241125071214",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "6I35FEPLEYHMLQKPUOQPUOJV7EY3O2DO"
+      },
+      {
+        "timestamp": "20241125072342",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "PQRFFETA2V2XCURDFN2RH3LGIYWUPZ7Z"
+      },
+      {
+        "timestamp": "20241125072901",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "7GPRCVKOLQSX75NBYXEHSE3J7NWH7CKR"
+      },
+      {
+        "timestamp": "20241125073121",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "QPXVGRIPEYM7HMQKEIKWKALHYQRVB3FX"
+      },
+      {
+        "timestamp": "20241125074229",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "NE7L2GOWFKY24W4KSA6BJGADOCJNPAE7"
+      },
+      {
+        "timestamp": "20241125075019",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "YY32KSCOCNGOH57AN3EWJ6SOP7XWSLID"
+      },
+      {
+        "timestamp": "20241125080529",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "DB5TSW7WB6QBYQAKF22VWNJTXNDGTLKS"
+      },
+      {
+        "timestamp": "20241125080824",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "ZBXCPA3LTSZ7WSZVKV33TJ5BILXGAUFS"
+      },
+      {
+        "timestamp": "20241125082854",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "4GHGJJQQ2GAKGRYTYAKZTTL3GAQP3EIW"
+      },
+      {
+        "timestamp": "20241125093711",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "GSM42RJFJH2KOBHC2E4AOY2V5CCIV4MZ"
+      },
+      {
+        "timestamp": "20241125095445",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "ACWPG7CBFCENIGAE4I3FFVKH3VLLWLAQ"
+      },
+      {
+        "timestamp": "20241125095643",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "C2H2AMA4IZXFBGQXNQEMV26BBR6MBUJJ"
+      },
+      {
+        "timestamp": "20241125101147",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "VRPVMW2VKPE6KBWVQGASO6GI3ALLYRZP"
+      },
+      {
+        "timestamp": "20241125101430",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "CIS4KVHI4LNO5UJAGI27B6O4SYQHTCBD"
+      },
+      {
+        "timestamp": "20241125104838",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "BUTWYGZOXPOXZ5TTYIQAFMJWX7JXZUU3"
+      },
+      {
+        "timestamp": "20241125105023",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "2VYB4Z73XLQ7GWD3DUNCMAYOTFREDUWN"
+      },
+      {
+        "timestamp": "20241125105853",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "TBE2OGPMAKPYDXPE4WSNNWABO7G6LED7"
+      },
+      {
+        "timestamp": "20241125111913",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "F4DEKHBYFWBPQ2P7H3MRM4L2LG3W7TND"
+      },
+      {
+        "timestamp": "20241125113520",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "TUQYURX2ZHC7HZIQPRGRWOVTYVO5XTBT"
+      },
+      {
+        "timestamp": "20241125113914",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "PXOUI2FO22MDB3NTW33B6DKUG36ZNA46"
+      },
+      {
+        "timestamp": "20241125114225",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "IHN6SSYREQWCOCTZD6GVYMLLG7CZJEY6"
+      },
+      {
+        "timestamp": "20241125120618",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "A4EUJFE3SC64IH7FVI5INTR6FBOXQG3R"
+      },
+      {
+        "timestamp": "20241125125627",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "36K5T7GS33VATTAU7RSO6DECYNEIQVZR"
+      },
+      {
+        "timestamp": "20241125130619",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "FIGL3R4QYWVCJVKZYR36FU54LHXGKO5P"
+      },
+      {
+        "timestamp": "20241125131749",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "TJ3XNAL7MBWMY5SBEDT6OUZSMBGUPVTM"
+      },
+      {
+        "timestamp": "20241125132117",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "UVW6QKO2APPLEP3PWTOARSQJCGNCCB62"
+      },
+      {
+        "timestamp": "20241125135506",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "HDI4PZAJRZLPKWIIDD4IXRGCHA3SPCY3"
+      },
+      {
+        "timestamp": "20241125140725",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "MJVZDR5TQJXR624PG46NFHT3MQS3OZPW"
+      },
+      {
+        "timestamp": "20241125151447",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "KKF3DWAMFOWRCCFO3AX47HGKQWW4HJJD"
+      },
+      {
+        "timestamp": "20241125151916",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "LXKKCLSUE7UXU2X5EG7BP3NRUWS224ZU"
+      },
+      {
+        "timestamp": "20241125154210",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "H7NUU6IMQMDIV5XFY6H3PH3F35HC6I2O"
+      },
+      {
+        "timestamp": "20241125162153",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "YT6MQ2RPH4ZSXIWDCOIBQJS2HQQX5OW2"
+      },
+      {
+        "timestamp": "20241125170238",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "QMFGK4K4DBHHEWMXARHVJHW4RZDL6AIH"
+      },
+      {
+        "timestamp": "20241125171942",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "K6PFNBYP4XTQOD7PMQLZZN7MN22GYLG7"
+      },
+      {
+        "timestamp": "20241125180124",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "T27K5IHGSC2R2FHOV77VCHBRWNJM7NRL"
+      },
+      {
+        "timestamp": "20241125182645",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "63Q54VSEREGTGQTGQQ4ZHHSA3BDMAJ6W"
+      },
+      {
+        "timestamp": "20241125183335",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "2PWFD7LAEXH3YCDAA4QVZJS2I6ZZ6DCF"
+      },
+      {
+        "timestamp": "20241125184402",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "PSRSRQOO6P5BIF47JV3PWIZX2SATF4O5"
+      },
+      {
+        "timestamp": "20241125184444",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "ZFCRXTQO6Z7KTV7623JYBHSBWXQFFWG5"
+      },
+      {
+        "timestamp": "20241125184848",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "HYWMWW7EDP2UIQXUYVF6YW3SYZQKIQZY"
+      },
+      {
+        "timestamp": "20241125190101",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "KD73V4QOELEWRHF24UUVFQLN2SBSTHND"
+      },
+      {
+        "timestamp": "20241125190220",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "W2RPLC4337K5KCMF6R23BB4UO2UJXUYQ"
+      },
+      {
+        "timestamp": "20241125192035",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "7EE6BSM7JO5DZ3DT5ZF6ZUGTJVC7WKEY"
+      },
+      {
+        "timestamp": "20241125192132",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "CRPZ2R5QG5TS2IMANM6QEFBVTAVGQW2D"
+      },
+      {
+        "timestamp": "20241125193136",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "CKYZYUTBVXA75ORKB7TZV5DFSQRPPQCF"
+      },
+      {
+        "timestamp": "20241125202128",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "PB7ASQWEDI4MXHT25YMTA4AVY6GK554Q"
+      },
+      {
+        "timestamp": "20241125202841",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "37WKZOYLLACOF53ZP2L6JNHUPDF72GDF"
+      },
+      {
+        "timestamp": "20241125203226",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "XBKMJACW7WUOMDH4E7FK67PPCHWBWFWQ"
+      },
+      {
+        "timestamp": "20241125204942",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "UMI7GVAKNEXWRZ2QTLWTWQ2GQVBBXW6Y"
+      },
+      {
+        "timestamp": "20241125205338",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "MLLTAZWKYIKNBWK3NJDHDBFYK4FHLT7T"
+      },
+      {
+        "timestamp": "20241125210717",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "7SU5MLTLTZEHRPIMDASVQIWJHLTE7MKU"
+      },
+      {
+        "timestamp": "20241125211505",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "OWDTI4XPJIY633OCR52ZXVQG4ZGQOHGX"
+      },
+      {
+        "timestamp": "20241125214057",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "56UXMAFKTOBRMLJKNJGP6R73ZCBUJSRV"
+      },
+      {
+        "timestamp": "20241125220654",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "WBDVI25NOAMY56EF7R2MDWDNM66MC6ZJ"
+      },
+      {
+        "timestamp": "20241125230427",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "6DUHZLI2M3FWN3LZ6GK4JHFZDF4NO5AE"
+      },
+      {
+        "timestamp": "20241125233432",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "5GAVAJK43CWJPQPIETE7FHDGWAKDGSN2"
+      },
+      {
+        "timestamp": "20241125234808",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "MQ62KL2F4WZLM2VG45IMJHMMV5LMUSLC"
+      },
+      {
+        "timestamp": "20241126002354",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "YHR7TPFPYEDBWAKL6D2ITYZIM2NASBQ5"
+      },
+      {
+        "timestamp": "20241126005838",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "IFA3STOSNGWI33VEDBDUOSF6OPVPATHE"
+      },
+      {
+        "timestamp": "20241126010313",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "7J552IQT6S4HIU3QGJLSL2OVZ6MJQVMA"
+      },
+      {
+        "timestamp": "20241126011945",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "MYMSCKWVUR4DJ3VCBNNW6OTXLL6ILHSI"
+      },
+      {
+        "timestamp": "20241126012229",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "WPVSNQRZB67YNIV2XSX6HJBY4ENG3JI7"
+      },
+      {
+        "timestamp": "20241126012423",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "3XKDP43S5ZJKOIOYEGQVROYBJOTRH57K"
+      },
+      {
+        "timestamp": "20241126012850",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "RLMCGSQ5GBJS5OOMQJIUFLPAE2D46VJU"
+      },
+      {
+        "timestamp": "20241126020418",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "ZJFTDKJCSVLIYKDXRCNOBOF5XAY2IFBY"
+      },
+      {
+        "timestamp": "20241126022403",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "NWXKK2ML2Z6SZHCEOJVJVLLWOLNTTRJM"
+      },
+      {
+        "timestamp": "20241126022617",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "7RUUTQCMKWXEBMIPQW7KQEU5F6X2VCYO"
+      },
+      {
+        "timestamp": "20241126023904",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "Q3EX2MPMDFM7RKRPD74OUXDR47I6GRF4"
+      },
+      {
+        "timestamp": "20241126025630",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "HRFSF4OIMEQV3B44PBRXOUIMITVWXC43"
+      },
+      {
+        "timestamp": "20241126043936",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "KLJ2LQKAYSN364NAMOVO2QMIQHGOARG2"
+      },
+      {
+        "timestamp": "20241126050109",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "WT6B6LYDZ4QWTFOE26KIGMO4MXWPEP7P"
+      },
+      {
+        "timestamp": "20241126051007",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "IRO2HYWA6CCIUO5ZIJL3H3XNIMLWTYSZ"
+      },
+      {
+        "timestamp": "20241126053009",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "EVRM3E2MOKAY37CPMYYP5ZLQ2YR2S4W2"
+      },
+      {
+        "timestamp": "20241126054331",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "RHYVYEPDP2IX44KAXQUA7F3RER24ETYX"
+      },
+      {
+        "timestamp": "20241126054958",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "RNQKAPVWEH47OMTU7WIU7HDU2IJWSCUF"
+      },
+      {
+        "timestamp": "20241126060145",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "FLD44NEPOFAZTGC7IIAZCCKCHVLFMM5A"
+      },
+      {
+        "timestamp": "20241126060522",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "A6HON33NSIO3IV4UXISAZEUSLUSEYCEW"
+      },
+      {
+        "timestamp": "20241126060956",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "LLCBL6ICVQRVF5HK4LAA4IR3GRSR4WVA"
+      },
+      {
+        "timestamp": "20241126061335",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "DDCLNR5ONCUCXDWVKR6QTR6WNKX37VMV"
+      },
+      {
+        "timestamp": "20241126062339",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "6GDPD5BGUGZ3OE4UTP4MM22HYEA3QPXF"
+      },
+      {
+        "timestamp": "20241126063132",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "P4K5DJ5I5XKZMJZLNEEWACBIIJUBLXBR"
+      },
+      {
+        "timestamp": "20241126063659",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "CHAJRVDN6WSMXUGZWTP222DG33ZWJV2U"
+      },
+      {
+        "timestamp": "20241126072010",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "P5ZHTIDRLUATMFFZ24CNXZLTOICSC6S3"
+      },
+      {
+        "timestamp": "20241126074723",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "2DL6EX23D4UEIDXZ6BKTVP4ZHVOAG4SH"
+      },
+      {
+        "timestamp": "20241126080550",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "SJ4BQNHKHEUTINZ42V3BABD2TI4HR5UR"
+      },
+      {
+        "timestamp": "20241126082016",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "JDWCFLXOAKY6ZU2YIDDYNIR4OMXX2M2C"
+      },
+      {
+        "timestamp": "20241126090136",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "OS4KJF2WSESZAAUEH76WIFJDN47BFP73"
+      },
+      {
+        "timestamp": "20241126090507",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "GWBXWMT4TX6HY3EFLMZT25FTJC576T5P"
+      },
+      {
+        "timestamp": "20241126091826",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "NNL6CNAEAFUPJC65UA3A6J26GMZEXUET"
+      },
+      {
+        "timestamp": "20241126093358",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "IEVTREZG6YYYJEAQFKSXCCVF7WDJG47M"
+      },
+      {
+        "timestamp": "20241126093706",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "B2TXGF5TXSEZZAURLEVL3QVP5E5HGCA2"
+      },
+      {
+        "timestamp": "20241126103200",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "Q35HTF6BWTMYDCALHN5ASIZY52PSE7AD"
+      },
+      {
+        "timestamp": "20241126104619",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "VR6QBTK4PABRWXRSCBMNV755OQEMJAIR"
+      },
+      {
+        "timestamp": "20241126112707",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "FJDJJETZKX2VYKZ4ANZ5FGDWFKHLIN74"
+      },
+      {
+        "timestamp": "20241126113749",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "XP6BSWP4ZXKTDXAZNSTIH7MBJJ7LGMWS"
+      },
+      {
+        "timestamp": "20241126114555",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "VGAL4JOC6Z6QCNZORUS4VE7PK4ULVRXB"
+      },
+      {
+        "timestamp": "20241126120630",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "QSEWWQLHG2VNKS2RDSQGCZRTCBC4PZG2"
+      },
+      {
+        "timestamp": "20241126121149",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "MHB6XLCYGGS5KJJG5SIN7HN6GF7RJ3EV"
+      },
+      {
+        "timestamp": "20241126123941",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "XTJUFKVCDNZFDNAFRTAFA5GVXWQUJCZW"
+      },
+      {
+        "timestamp": "20241126124852",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "KYMG5EJUTIHHXOFJ6KTT6CCOIJN4XV76"
+      },
+      {
+        "timestamp": "20241126131649",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "MFP5FAJMU2IFHZXDYW3GKBFKMCIHV7QG"
+      },
+      {
+        "timestamp": "20241126131803",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "S4RC6AJ2CXJEIIKR7WGOMDX2C4JKDJHP"
+      },
+      {
+        "timestamp": "20241126141947",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "KQNJO5XXYOSOQ5DIL6UYUPWSE6AJYTNS"
+      },
+      {
+        "timestamp": "20241126143204",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "7RQXDREJGS3XBJWD2HNRVAHXBBS5AOHB"
+      },
+      {
+        "timestamp": "20241126144817",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "67PP67KPO276ZOWC7ZTS23JT6CKXJXSK"
+      },
+      {
+        "timestamp": "20241126150541",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "AMW5ZQZFOWCPG32XSKTQVQ4JUHHMGFEK"
+      },
+      {
+        "timestamp": "20241126152726",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "M3CVIJR3EXBMXKAS6SJJLNN364Z7VW4Q"
+      },
+      {
+        "timestamp": "20241126153015",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "AMD2ULBZXIVXE4UTX3M7LYGB7AE2KWL6"
+      },
+      {
+        "timestamp": "20241126161140",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "OKEAQPSPSU7NRPSUHDFEELJ443QIBIPW"
+      },
+      {
+        "timestamp": "20241126164539",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "PW7I7UGYR5ORUPY6AWTRCEWUBWRXKJBJ"
+      },
+      {
+        "timestamp": "20241126165524",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "HEOEOO5QZRNRBXNWPGBRDEWNNFHMBPRE"
+      },
+      {
+        "timestamp": "20241126170223",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "IJ4SR42SMEHF2YPQJXIF2UK6MRQBXFTV"
+      },
+      {
+        "timestamp": "20241126172310",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "N7SFVAKNP4S6V2EFA5TQ2WSQNL7YY4UQ"
+      },
+      {
+        "timestamp": "20241126173603",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "M35ERHHMQGU34RSP7M6BYOVEGWT2OA3P"
+      },
+      {
+        "timestamp": "20241126174702",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "7VWTOTBZAT6FKV2SFOGUCEOBOUPSKBVR"
+      },
+      {
+        "timestamp": "20241126174839",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "6SFQE66QZALXKOW7GDBEFLHK3ZVMTOZK"
+      },
+      {
+        "timestamp": "20241126175557",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "QS5BWP3UREMNFU7M2NPIB6EJMGEMFTB2"
+      },
+      {
+        "timestamp": "20241126180855",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "NINBXJKBBQ64G2LFKKZ5ADZLLDPBJFSY"
+      },
+      {
+        "timestamp": "20241126183000",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "FBZKRAXK3NKJBNLY7D5CHTRKNSRVFCK6"
+      },
+      {
+        "timestamp": "20241126190312",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "43Y7ZNOHCGQAIUETML63YBSQOYFXYRKF"
+      },
+      {
+        "timestamp": "20241126191750",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "XXEFOW23IJ2XXTKWJYXUUAHK6563ZKS3"
+      },
+      {
+        "timestamp": "20241126194943",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "6DHCKU7VXO5Q42OHJQFWCE67JMMLNNSD"
+      },
+      {
+        "timestamp": "20241126200335",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "2RJXWTS5P2XPOXCLVPFJM55YAZ7EU3A4"
+      },
+      {
+        "timestamp": "20241126201359",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "MVLEB7VFWEVDQK4LBJDMVD2G27ZVPQ4Y"
+      },
+      {
+        "timestamp": "20241126201433",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "G2KTCOXQ4KEQNNLTARWUEXUZVLMHLVJ5"
+      },
+      {
+        "timestamp": "20241126205001",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "H5YI3D5ZM7Z6EGPBDZM26UYJIHQI264R"
+      },
+      {
+        "timestamp": "20241126210734",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "6X2UVB22LSDGGXRUHBIBV3F2MWXAPOGY"
+      },
+      {
+        "timestamp": "20241126214300",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "GTLR5F2MANTHYD47F26UR7B2OS6YZC7F"
+      },
+      {
+        "timestamp": "20241126215053",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "JXBOL4QXQVKJSHDIT4PWU6F4ZUSCCK75"
+      },
+      {
+        "timestamp": "20241126220805",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "IP2XCGNDW5WPKNKJ3VYDOIHHVCLN23D6"
+      },
+      {
+        "timestamp": "20241126231052",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "Q5COILTVEH5UQXATVUDTRYCHMYEZIULN"
+      },
+      {
+        "timestamp": "20241126235615",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "ZVEDNDETLQ4GXPHNJSFZ6NZYYL2DNFQU"
+      },
+      {
+        "timestamp": "20241127000020",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "PO7SIU7YQ6OKTRFG5DLDZOGZDMPBKNEA"
+      },
+      {
+        "timestamp": "20241127000236",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "FGQLQ5VQ4DTLUUG7D4OA57DWON2R6AJ3"
+      },
+      {
+        "timestamp": "20241127000506",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "PO7SIU7YQ6OKTRFG5DLDZOGZDMPBKNEA"
+      },
+      {
+        "timestamp": "20241127005215",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "HX4DHQTJIWZ4SIHJG6HD2DCOC3BRFAK2"
+      },
+      {
+        "timestamp": "20241127005834",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "JRQP4TGV5WXUI2GKOZSOPDBAKA77DXNY"
+      },
+      {
+        "timestamp": "20241127010301",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "MWLJER4K55G4VWQ2PEZ3HO7HXN5HEML7"
+      },
+      {
+        "timestamp": "20241127011647",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "UPHHM4IVNX7NYGSIDX7SYZDTUQ7G7OSP"
+      },
+      {
+        "timestamp": "20241127013551",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "6UUQVNLBCI6ZQJMCO2Z7X2B3GRUOAWIW"
+      },
+      {
+        "timestamp": "20241127014858",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp%2B-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "GSTJPPDTLVYZKMNXWRX2NLM67E477ZBO"
+      },
+      {
+        "timestamp": "20241127021123",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "LWPNBJORNF7T5FNZMRTS5W62EJUE4WPV"
+      },
+      {
+        "timestamp": "20241127022820",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "5BNFEQTGKUL3ULYJ2QDND3CIFIBWIQNU"
+      },
+      {
+        "timestamp": "20241127024940",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "CVAHNLAHIOJITYUDMVOELKCDAJFB5JYC"
+      },
+      {
+        "timestamp": "20241127032427",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "2WK2DSKJCOPGHCHE7VCDFP5RZZUYA3MG"
+      },
+      {
+        "timestamp": "20241127040629",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "EZIFNAZIYFGKLFBZXILLBWBFQESAM7CY"
+      },
+      {
+        "timestamp": "20241127041840",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "VLGA4VRPSK5IO4H7QK5IMJWZM7WX2K4L"
+      },
+      {
+        "timestamp": "20241127044438",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "QIGHE3QUI5GHROHRWJZFVQXYCAIZV5O7"
+      },
+      {
+        "timestamp": "20241127050005",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "6KXAGCJXZSRC3I6OEJHE2FY7EMF7Z246"
+      },
+      {
+        "timestamp": "20241127050659",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "RNKCQYFGOE4IC3ML2P6ARAT2X3GIWSSV"
+      },
+      {
+        "timestamp": "20241127050815",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "RUJGBPR422VJ6USYLZ27KDK7YBZMJGSO"
+      },
+      {
+        "timestamp": "20241127051722",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "WL4TKD6Z6LMDD72L5KNJKA6NXH3633AH"
+      },
+      {
+        "timestamp": "20241127053414",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "5ER5IDK4K6TV2W7HJN74UKNH5ENIUD5A"
+      },
+      {
+        "timestamp": "20241127054250",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "FN2OQPVSZ4GU2TKUKHXXLYDEH63V7IL5"
+      },
+      {
+        "timestamp": "20241127055122",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "OG4JRF5IYH3QP6LSFSTGZZFAMHXMBFCP"
+      },
+      {
+        "timestamp": "20241127055834",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "T3WD6PWSWNBFSKH7KPUBKC6QKXOYNU6A"
+      },
+      {
+        "timestamp": "20241127064513",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "7EHHMMLXNQKYNXIOKYXAWM6GX7OKK42J"
+      },
+      {
+        "timestamp": "20241127065850",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "JUUUKENQBS4HVJ4CCNSNXWSGIGHRAIR5"
+      },
+      {
+        "timestamp": "20241127071735",
+        "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+        "statuscode": "200",
+        "mimetype": "text/html",
+        "digest": "PEZMGSGBDI6RQG3G7HJL4PYZERZHFKXK"
+      }
+    ],
+    "workbook_captures": [],
+    "errors": [
+      "Workbook CDX: HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=45)"
+    ]
+  },
+  {
+    "replay_week": 15,
+    "source_week": 14,
+    "published": "2024-12-01T09:00:00-05:00",
+    "article": "https://www.espn.com/college-football/insider/story/_/id/42715464/college-football-2024-rivalry-week-sp%2B-rankings-takeaways",
+    "espn_captures": [],
+    "workbook_captures": [],
+    "errors": [
+      "ESPN CDX: 503 Server Error: Service Unavailable for url: https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.espn.com%2Fcollege-football%2Finsider%2Fstory%2F_%2Fid%2F42715464%2Fcollege-football-2024-rivalry-week-sp%252B-rankings-takeaways&from=20241130&to=20241207&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest&filter=statuscode%3A200&collapse=digest&limit=200",
+      "Workbook CDX: 503 Server Error: Service Unavailable for url: https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1CJImfkg0ouHIIIGOWRfbvwC0TNWh76n47xkz8nqrVBc%2F%2A&from=20241130&to=20241207&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype%2Cdigest&filter=statuscode%3A200&collapse=digest&limit=200"
+    ]
+  }
+]

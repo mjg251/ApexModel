@@ -1,0 +1,122 @@
+[
+  {
+    "replay_week": 11,
+    "timestamp": "20241104132359",
+    "original": "https://www.espn.com/college-football/insider/story/_/id/42173418/college-football-2024-week-10-sp+-rankings-takeaways",
+    "bytes": 157844,
+    "markers": {
+      "tables": 1,
+      "Team_exact_text": 1,
+      "SP+_exact_text": 0,
+      "__NEXT_DATA__": 0,
+      "pageContent": 0,
+      "articleBody": 0,
+      "contentElements": 0
+    },
+    "anchors": {
+      "Ohio State": 18,
+      "Georgia": 16,
+      "Alabama": 6,
+      "Michigan": 4,
+      "Texas": 15
+    },
+    "exact_header_rows": [
+      {
+        "table": 0,
+        "row": 0,
+        "team_cols": [
+          0
+        ],
+        "sp_cols": [],
+        "rk_cols": [],
+        "values": [
+          "Team",
+          "Rating",
+          "Offense",
+          "Defense",
+          "Spec Tms"
+        ]
+      }
+    ]
+  },
+  {
+    "replay_week": 13,
+    "timestamp": "20241117165201",
+    "original": "https://www.espn.com/college-football/insider/story/_/id/42444119/college-football-2024-week-12-sp+-rankings-takeaways",
+    "bytes": 147766,
+    "markers": {
+      "tables": 1,
+      "Team_exact_text": 1,
+      "SP+_exact_text": 0,
+      "__NEXT_DATA__": 0,
+      "pageContent": 0,
+      "articleBody": 0,
+      "contentElements": 0
+    },
+    "anchors": {
+      "Ohio State": 7,
+      "Georgia": 11,
+      "Alabama": 6,
+      "Michigan": 3,
+      "Texas": 10
+    },
+    "exact_header_rows": [
+      {
+        "table": 0,
+        "row": 0,
+        "team_cols": [
+          0
+        ],
+        "sp_cols": [],
+        "rk_cols": [],
+        "values": [
+          "Team",
+          "Rating",
+          "Offense",
+          "Defense",
+          "Spec Tms"
+        ]
+      }
+    ]
+  },
+  {
+    "replay_week": 14,
+    "timestamp": "20241124205136",
+    "original": "https://www.espn.com/college-football/insider/story/_/id/42584655/college-football-post-week-13-sp+-rankings",
+    "bytes": 147747,
+    "markers": {
+      "tables": 1,
+      "Team_exact_text": 1,
+      "SP+_exact_text": 0,
+      "__NEXT_DATA__": 0,
+      "pageContent": 0,
+      "articleBody": 0,
+      "contentElements": 0
+    },
+    "anchors": {
+      "Ohio State": 10,
+      "Georgia": 13,
+      "Alabama": 12,
+      "Michigan": 2,
+      "Texas": 11
+    },
+    "exact_header_rows": [
+      {
+        "table": 0,
+        "row": 0,
+        "team_cols": [
+          0
+        ],
+        "sp_cols": [],
+        "rk_cols": [],
+        "values": [
+          "Team",
+          "Rating",
+          "Offense",
+          "Defense",
+          "Spec Tms"
+        ]
+      }
+    ]
+  }
+]
